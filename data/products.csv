@@ -1,0 +1,1001 @@
+product_id,product_name,category,subcategory,brand,price_npr,rating,review_count,festival_relevance,in_stock
+1,Himalaya Perfume #1,Beauty & Personal Care,Perfume,Himalaya,5618,4.5,34,Tihar,False
+2,Himalaya Sunscreen #2,Beauty & Personal Care,Sunscreen,Himalaya,5187,5.0,278,Tihar,True
+3,Levi's Shoes #3,Fashion,Shoes,Levi's,4741,4.6,163,Tihar,False
+4,Garnier Sunscreen #4,Beauty & Personal Care,Sunscreen,Garnier,6282,4.7,575,Tihar,True
+5,Himalaya Perfume #5,Beauty & Personal Care,Perfume,Himalaya,4919,3.9,36,Tihar,True
+6,Asus Smart Watches #6,Electronics,Smart Watches,Asus,83137,4.0,35,Dashain,True
+7,Biotique Men's Grooming #7,Beauty & Personal Care,Men's Grooming,Biotique,2638,4.5,9,Tihar,True
+8,Generic Power Banks #8,Phone Accessories,Power Banks,Generic,5522,4.2,80,Dashain,True
+9,Anker Earbuds #9,Phone Accessories,Earbuds,Anker,6000,4.3,417,Dashain,True
+10,Apple Cameras #10,Electronics,Cameras,Apple,59865,4.2,28,Dashain,True
+11,Belkin Earbuds #11,Phone Accessories,Earbuds,Belkin,5105,4.6,11,Dashain,True
+12,Oppo Smart Watches #12,Electronics,Smart Watches,Oppo,150000,3.6,13,Dashain,True
+13,Cosco Outdoor Gear #13,Sports & Fitness,Outdoor Gear,Cosco,15886,4.8,20,Dashain,True
+14,Baseus Cables #14,Phone Accessories,Cables,Baseus,2058,2.7,10,Dashain,False
+15,Nivea Haircare #15,Beauty & Personal Care,Haircare,Nivea,3371,4.4,31,Tihar,True
+16,Cosco Gym Equipment #16,Sports & Fitness,Gym Equipment,Cosco,17342,4.6,40,Dashain,True
+17,Samsung Speakers #17,Electronics,Speakers,Samsung,52846,4.9,30,Dashain,True
+18,Generic Chargers #18,Phone Accessories,Chargers,Generic,2245,4.3,11,Dashain,True
+19,Xiaomi Cameras #19,Electronics,Cameras,Xiaomi,103059,3.9,56,Dashain,True
+20,Wrangler Jeans #20,Fashion,Jeans,Wrangler,4563,4.3,272,Tihar,True
+21,Allen Solly Shoes #21,Fashion,Shoes,Allen Solly,2862,4.2,97,Tihar,True
+22,Xiaomi Speakers #22,Electronics,Speakers,Xiaomi,121300,4.3,12,Dashain,True
+23,Asus Headphones #23,Electronics,Headphones,Asus,98005,4.0,355,Dashain,True
+24,Cottonworld Kurta #24,Fashion,Kurta,Cottonworld,8178,4.4,137,Tihar,True
+25,Levi's Ethnic Wear #25,Fashion,Ethnic Wear,Levi's,5981,4.2,74,Tihar,True
+26,Anker Screen Protectors #26,Phone Accessories,Screen Protectors,Anker,6000,4.4,34,Dashain,True
+27,Anker Cases #27,Phone Accessories,Cases,Anker,6000,4.5,63,Dashain,True
+28,Cosco Gym Equipment #28,Sports & Fitness,Gym Equipment,Cosco,20744,3.9,172,Dashain,True
+29,Dove Perfume #29,Beauty & Personal Care,Perfume,Dove,3477,4.2,169,Tihar,True
+30,Belkin Cases #30,Phone Accessories,Cases,Belkin,6000,4.4,57,Dashain,True
+31,Wrangler Shoes #31,Fashion,Shoes,Wrangler,3092,4.1,113,Tihar,True
+32,Baseus Cables #32,Phone Accessories,Cables,Baseus,5121,4.2,64,Dashain,True
+33,Oppo Tablets #33,Electronics,Tablets,Oppo,92204,3.9,105,Dashain,True
+34,Himalaya Skincare #34,Beauty & Personal Care,Skincare,Himalaya,5069,4.2,35,Tihar,True
+35,Oppo Speakers #35,Electronics,Speakers,Oppo,85854,4.7,156,Dashain,True
+36,Prestige Storage #36,Home & Kitchen,Storage,Prestige,8572,4.1,51,Dashain,True
+37,HP Laptops #37,Electronics,Laptops,HP,95470,3.8,23,Dashain,True
+38,Wrangler Kurta #38,Fashion,Kurta,Wrangler,8365,4.8,23,Tihar,True
+39,Apple Laptops #39,Electronics,Laptops,Apple,150000,4.7,15,Dashain,True
+40,Cottonworld T-Shirts #40,Fashion,T-Shirts,Cottonworld,5078,3.5,30,Tihar,True
+41,Cosco Football #41,Sports & Fitness,Football,Cosco,14432,4.3,80,Dashain,True
+42,Yonex Yoga #42,Sports & Fitness,Yoga,Yonex,4524,4.7,7,Dashain,True
+43,Garnier Sunscreen #43,Beauty & Personal Care,Sunscreen,Garnier,2566,4.3,208,Tihar,True
+44,Nepali Designs Jackets #44,Fashion,Jackets,Nepali Designs,10841,4.8,43,Tihar,False
+45,Dove Perfume #45,Beauty & Personal Care,Perfume,Dove,2899,4.7,15,Tihar,True
+46,Yonex Cricket #46,Sports & Fitness,Cricket,Yonex,20560,3.5,17,Dashain,True
+47,Dove Sunscreen #47,Beauty & Personal Care,Sunscreen,Dove,1875,4.6,381,Tihar,True
+48,Allen Solly T-Shirts #48,Fashion,T-Shirts,Allen Solly,9419,3.4,32,Tihar,True
+49,Cosco Gym Equipment #49,Sports & Fitness,Gym Equipment,Cosco,11477,4.6,22,Dashain,True
+50,Samsung Smartphones #50,Electronics,Smartphones,Samsung,72152,4.2,44,Dashain,True
+51,Pigeon Cleaning #51,Home & Kitchen,Cleaning,Pigeon,19351,3.4,6,Dashain,True
+52,Anker Earbuds #52,Phone Accessories,Earbuds,Anker,4681,2.6,18,Dashain,False
+53,Yonex Gym Equipment #53,Sports & Fitness,Gym Equipment,Yonex,18636,4.6,86,Dashain,True
+54,Belkin Stands #54,Phone Accessories,Stands,Belkin,6000,4.2,22,Dashain,True
+55,Asus Tablets #55,Electronics,Tablets,Asus,62150,4.7,29,Dashain,True
+56,Dove Men's Grooming #56,Beauty & Personal Care,Men's Grooming,Dove,6436,4.5,614,Tihar,True
+57,Generic Cricket #57,Sports & Fitness,Cricket,Generic,30000,4.7,16,Dashain,True
+58,Zara Jackets #58,Fashion,Jackets,Zara,11813,4.7,49,Tihar,True
+59,Dell Laptops #59,Electronics,Laptops,Dell,80802,4.1,69,Dashain,True
+60,Vector X Yoga #60,Sports & Fitness,Yoga,Vector X,18276,3.4,71,Dashain,True
+61,Cottonworld Jeans #61,Fashion,Jeans,Cottonworld,15000,4.2,278,Tihar,True
+62,Levi's Ethnic Wear #62,Fashion,Ethnic Wear,Levi's,5388,3.4,5,Tihar,True
+63,Nepali Designs Saree #63,Fashion,Saree,Nepali Designs,9597,4.6,20,Tihar,False
+64,Baseus Earbuds #64,Phone Accessories,Earbuds,Baseus,3539,4.1,51,Dashain,True
+65,Nepali Designs Saree #65,Fashion,Saree,Nepali Designs,5064,4.6,24,Tihar,True
+66,Vivo Laptops #66,Electronics,Laptops,Vivo,109724,4.1,132,Dashain,False
+67,Mamaearth Men's Grooming #67,Beauty & Personal Care,Men's Grooming,Mamaearth,2255,4.4,32,Tihar,True
+68,Zara Jeans #68,Fashion,Jeans,Zara,6082,4.4,28,Tihar,True
+69,Belkin Power Banks #69,Phone Accessories,Power Banks,Belkin,6000,2.9,98,Dashain,True
+70,Dell Headphones #70,Electronics,Headphones,Dell,61421,4.9,20,Dashain,True
+71,Pigeon Decor #71,Home & Kitchen,Decor,Pigeon,25000,4.2,160,Dashain,False
+72,Allen Solly T-Shirts #72,Fashion,T-Shirts,Allen Solly,12806,4.3,14,Tihar,True
+73,Dell Tablets #73,Electronics,Tablets,Dell,145613,4.4,187,Dashain,True
+74,Milton Storage #74,Home & Kitchen,Storage,Milton,16363,1.8,44,Dashain,False
+75,Loreal Skincare #75,Beauty & Personal Care,Skincare,Loreal,4511,4.8,116,Tihar,True
+76,Ugreen Cases #76,Phone Accessories,Cases,Ugreen,3271,3.8,101,Dashain,True
+77,Vector X Badminton #77,Sports & Fitness,Badminton,Vector X,26344,4.6,307,Dashain,True
+78,Levi's T-Shirts #78,Fashion,T-Shirts,Levi's,15000,3.9,142,Tihar,True
+79,Pigeon Bedding #79,Home & Kitchen,Bedding,Pigeon,14179,4.8,189,Dashain,True
+80,Prestige Cleaning #80,Home & Kitchen,Cleaning,Prestige,8080,4.6,107,Dashain,True
+81,Cosco Gym Equipment #81,Sports & Fitness,Gym Equipment,Cosco,8984,4.6,102,Dashain,True
+82,Prestige Cleaning #82,Home & Kitchen,Cleaning,Prestige,4862,3.3,153,Dashain,True
+83,Cosco Cricket #83,Sports & Fitness,Cricket,Cosco,15338,4.3,60,Dashain,True
+84,Pigeon Cleaning #84,Home & Kitchen,Cleaning,Pigeon,25000,4.3,79,Dashain,True
+85,Baseus Cables #85,Phone Accessories,Cables,Baseus,818,4.8,53,Dashain,True
+86,Milton Storage #86,Home & Kitchen,Storage,Milton,25000,4.2,30,Dashain,True
+87,Generic Cases #87,Phone Accessories,Cases,Generic,5021,4.9,112,Dashain,True
+88,Cottonworld T-Shirts #88,Fashion,T-Shirts,Cottonworld,5714,4.5,7,Tihar,False
+89,Prestige Decor #89,Home & Kitchen,Decor,Prestige,16896,4.5,7,Dashain,True
+90,HP Smartphones #90,Electronics,Smartphones,HP,111225,3.4,38,Dashain,True
+91,OnePlus Smartphones #91,Electronics,Smartphones,OnePlus,40354,4.8,18,Dashain,True
+92,Milton Cookware #92,Home & Kitchen,Cookware,Milton,5150,4.3,123,Dashain,True
+93,Himalaya Makeup #93,Beauty & Personal Care,Makeup,Himalaya,4720,4.3,59,Tihar,True
+94,Pigeon Cleaning #94,Home & Kitchen,Cleaning,Pigeon,10447,4.4,26,Dashain,True
+95,Mamaearth Makeup #95,Beauty & Personal Care,Makeup,Mamaearth,8000,3.9,35,Tihar,True
+96,Zara Ethnic Wear #96,Fashion,Ethnic Wear,Zara,6158,3.9,16,Tihar,True
+97,Levi's Shoes #97,Fashion,Shoes,Levi's,15000,4.3,60,Tihar,True
+98,Apple Tablets #98,Electronics,Tablets,Apple,119836,4.8,12,Dashain,True
+99,Himalaya Makeup #99,Beauty & Personal Care,Makeup,Himalaya,8000,3.2,228,Tihar,True
+100,Generic Outdoor Gear #100,Sports & Fitness,Outdoor Gear,Generic,23659,4.2,218,Dashain,True
+101,Generic Gym Equipment #101,Sports & Fitness,Gym Equipment,Generic,18470,4.5,65,Dashain,True
+102,Prestige Storage #102,Home & Kitchen,Storage,Prestige,25000,4.5,4,Dashain,True
+103,Belkin Earbuds #103,Phone Accessories,Earbuds,Belkin,3807,3.3,87,Dashain,True
+104,Cottonworld Kurtis #104,Fashion,Kurtis,Cottonworld,1794,4.3,83,Tihar,True
+105,Baseus Stands #105,Phone Accessories,Stands,Baseus,6000,4.1,14,Dashain,True
+106,Levi's Jackets #106,Fashion,Jackets,Levi's,10394,4.6,8,Tihar,True
+107,Asus Laptops #107,Electronics,Laptops,Asus,131150,4.4,65,Dashain,True
+108,Dove Skincare #108,Beauty & Personal Care,Skincare,Dove,6873,5.0,183,Tihar,True
+109,Anker Cases #109,Phone Accessories,Cases,Anker,3785,3.4,20,Dashain,True
+110,Xiaomi Laptops #110,Electronics,Laptops,Xiaomi,100752,4.8,12,Dashain,True
+111,Anker Stands #111,Phone Accessories,Stands,Anker,1814,4.5,25,Dashain,True
+112,Local Cleaning #112,Home & Kitchen,Cleaning,Local,12647,4.1,24,Dashain,True
+113,Nepali Designs Shoes #113,Fashion,Shoes,Nepali Designs,3419,4.9,334,Tihar,True
+114,Nivea Haircare #114,Beauty & Personal Care,Haircare,Nivea,1223,4.8,48,Tihar,True
+115,Vector X Cricket #115,Sports & Fitness,Cricket,Vector X,30000,4.0,730,Dashain,True
+116,Dell Smart Watches #116,Electronics,Smart Watches,Dell,67112,4.2,73,Dashain,True
+117,Dell Smartphones #117,Electronics,Smartphones,Dell,71161,4.2,51,Dashain,True
+118,Realme Laptops #118,Electronics,Laptops,Realme,32456,4.6,75,Dashain,True
+119,Levi's Jeans #119,Fashion,Jeans,Levi's,15000,4.3,12,Tihar,True
+120,Wrangler Kurtis #120,Fashion,Kurtis,Wrangler,13723,2.9,16,Tihar,True
+121,Levi's T-Shirts #121,Fashion,T-Shirts,Levi's,7814,3.2,54,Tihar,True
+122,Biotique Makeup #122,Beauty & Personal Care,Makeup,Biotique,3102,4.3,806,Tihar,True
+123,Himalaya Skincare #123,Beauty & Personal Care,Skincare,Himalaya,8000,4.2,338,Tihar,True
+124,Belkin Cases #124,Phone Accessories,Cases,Belkin,3517,4.5,44,Dashain,True
+125,Garnier Makeup #125,Beauty & Personal Care,Makeup,Garnier,2019,4.1,48,Tihar,True
+126,Cosco Cricket #126,Sports & Fitness,Cricket,Cosco,15250,4.4,50,Dashain,True
+127,OnePlus Smartphones #127,Electronics,Smartphones,OnePlus,111005,4.8,40,Dashain,True
+128,Ugreen Earbuds #128,Phone Accessories,Earbuds,Ugreen,3227,4.3,47,Dashain,True
+129,Prestige Bedding #129,Home & Kitchen,Bedding,Prestige,19731,3.3,39,Dashain,True
+130,Cosco Gym Equipment #130,Sports & Fitness,Gym Equipment,Cosco,19335,4.8,126,Dashain,True
+131,Allen Solly Kurtis #131,Fashion,Kurtis,Allen Solly,5509,3.8,14,Tihar,True
+132,Milton Decor #132,Home & Kitchen,Decor,Milton,11465,3.3,46,Dashain,True
+133,Asus Speakers #133,Electronics,Speakers,Asus,150000,4.9,4,Dashain,True
+134,Anker Cables #134,Phone Accessories,Cables,Anker,2048,4.7,100,Dashain,False
+135,Biotique Skincare #135,Beauty & Personal Care,Skincare,Biotique,4828,4.5,23,Tihar,True
+136,Loreal Perfume #136,Beauty & Personal Care,Perfume,Loreal,8000,4.2,67,Tihar,True
+137,Mamaearth Makeup #137,Beauty & Personal Care,Makeup,Mamaearth,2815,3.7,65,Tihar,True
+138,Himalaya Makeup #138,Beauty & Personal Care,Makeup,Himalaya,1848,4.7,50,Tihar,True
+139,Mamaearth Perfume #139,Beauty & Personal Care,Perfume,Mamaearth,6536,4.3,23,Tihar,True
+140,Cosco Badminton #140,Sports & Fitness,Badminton,Cosco,21168,3.3,19,Dashain,True
+141,Milton Decor #141,Home & Kitchen,Decor,Milton,15256,4.4,66,Dashain,True
+142,Mamaearth Men's Grooming #142,Beauty & Personal Care,Men's Grooming,Mamaearth,3975,3.6,36,Tihar,True
+143,HP Smart Watches #143,Electronics,Smart Watches,HP,63621,3.3,72,Dashain,True
+144,Wrangler Shoes #144,Fashion,Shoes,Wrangler,5624,4.6,157,Tihar,True
+145,Dell Tablets #145,Electronics,Tablets,Dell,68678,4.8,35,Dashain,True
+146,Belkin Earbuds #146,Phone Accessories,Earbuds,Belkin,4085,4.2,3,Dashain,True
+147,Baseus Chargers #147,Phone Accessories,Chargers,Baseus,1129,3.8,60,Dashain,True
+148,Dove Men's Grooming #148,Beauty & Personal Care,Men's Grooming,Dove,5767,4.7,97,Tihar,True
+149,Zara T-Shirts #149,Fashion,T-Shirts,Zara,10930,4.3,299,Tihar,True
+150,Anker Stands #150,Phone Accessories,Stands,Anker,1523,4.4,199,Dashain,True
+151,Generic Outdoor Gear #151,Sports & Fitness,Outdoor Gear,Generic,15871,4.5,128,Dashain,True
+152,Cosco Gym Equipment #152,Sports & Fitness,Gym Equipment,Cosco,25512,3.8,11,Dashain,True
+153,Allen Solly Jeans #153,Fashion,Jeans,Allen Solly,10313,4.0,337,Tihar,True
+154,Garnier Perfume #154,Beauty & Personal Care,Perfume,Garnier,2358,4.8,158,Tihar,True
+155,Belkin Earbuds #155,Phone Accessories,Earbuds,Belkin,6000,4.6,41,Dashain,True
+156,Garnier Skincare #156,Beauty & Personal Care,Skincare,Garnier,5490,4.5,20,Tihar,True
+157,Asus Cameras #157,Electronics,Cameras,Asus,41894,4.7,12,Dashain,True
+158,Allen Solly Jeans #158,Fashion,Jeans,Allen Solly,3627,3.8,21,Tihar,True
+159,Belkin Power Banks #159,Phone Accessories,Power Banks,Belkin,2914,3.1,6,Dashain,True
+160,Generic Cables #160,Phone Accessories,Cables,Generic,5004,4.2,1600,Dashain,True
+161,Asus Speakers #161,Electronics,Speakers,Asus,150000,4.3,103,Dashain,True
+162,Nivia Gym Equipment #162,Sports & Fitness,Gym Equipment,Nivia,5413,4.0,170,Dashain,True
+163,Nivia Yoga #163,Sports & Fitness,Yoga,Nivia,19652,3.8,84,Dashain,False
+164,Tefal Decor #164,Home & Kitchen,Decor,Tefal,2950,4.8,138,Dashain,True
+165,Nepali Designs Saree #165,Fashion,Saree,Nepali Designs,2455,4.7,91,Tihar,True
+166,Prestige Bedding #166,Home & Kitchen,Bedding,Prestige,11479,4.7,28,Dashain,True
+167,HP Headphones #167,Electronics,Headphones,HP,112220,4.1,61,Dashain,True
+168,Levi's Kurtis #168,Fashion,Kurtis,Levi's,12674,3.9,132,Tihar,True
+169,Asus Tablets #169,Electronics,Tablets,Asus,100250,4.2,124,Dashain,True
+170,OnePlus Smartphones #170,Electronics,Smartphones,OnePlus,150000,4.3,28,Dashain,True
+171,Samsung Cameras #171,Electronics,Cameras,Samsung,119800,4.7,26,Dashain,True
+172,Xiaomi Smart Watches #172,Electronics,Smart Watches,Xiaomi,120713,3.9,51,Dashain,True
+173,Anker Power Banks #173,Phone Accessories,Power Banks,Anker,4206,3.9,285,Dashain,True
+174,Allen Solly Saree #174,Fashion,Saree,Allen Solly,8512,3.1,21,Tihar,True
+175,Samsung Smart Watches #175,Electronics,Smart Watches,Samsung,32675,4.5,155,Dashain,True
+176,Mamaearth Men's Grooming #176,Beauty & Personal Care,Men's Grooming,Mamaearth,2283,3.5,56,Tihar,True
+177,Samsung Cameras #177,Electronics,Cameras,Samsung,31044,3.8,25,Dashain,True
+178,HP Speakers #178,Electronics,Speakers,HP,37040,4.0,44,Dashain,True
+179,Dell Speakers #179,Electronics,Speakers,Dell,47953,4.3,16,Dashain,True
+180,Realme Cameras #180,Electronics,Cameras,Realme,53823,3.6,58,Dashain,False
+181,Levi's T-Shirts #181,Fashion,T-Shirts,Levi's,5302,4.4,31,Tihar,True
+182,Zara T-Shirts #182,Fashion,T-Shirts,Zara,14396,4.0,25,Tihar,False
+183,Ugreen Power Banks #183,Phone Accessories,Power Banks,Ugreen,4304,4.7,96,Dashain,False
+184,Anker Chargers #184,Phone Accessories,Chargers,Anker,1586,4.0,7,Dashain,True
+185,Xiaomi Smartphones #185,Electronics,Smartphones,Xiaomi,107805,4.6,34,Dashain,True
+186,Ugreen Cases #186,Phone Accessories,Cases,Ugreen,3128,4.5,27,Dashain,True
+187,Loreal Perfume #187,Beauty & Personal Care,Perfume,Loreal,3321,5.0,20,Tihar,True
+188,Belkin Chargers #188,Phone Accessories,Chargers,Belkin,1132,4.2,38,Dashain,True
+189,Belkin Stands #189,Phone Accessories,Stands,Belkin,3035,4.6,63,Dashain,True
+190,Garnier Men's Grooming #190,Beauty & Personal Care,Men's Grooming,Garnier,8000,4.1,16,Tihar,True
+191,OnePlus Tablets #191,Electronics,Tablets,OnePlus,146344,3.9,20,Dashain,True
+192,Wrangler Kurta #192,Fashion,Kurta,Wrangler,9853,4.4,1091,Tihar,True
+193,Dell Smartphones #193,Electronics,Smartphones,Dell,123179,4.3,120,Dashain,True
+194,Vector X Cricket #194,Sports & Fitness,Cricket,Vector X,30000,3.9,34,Dashain,True
+195,Garnier Haircare #195,Beauty & Personal Care,Haircare,Garnier,2534,4.4,147,Tihar,False
+196,Nepali Designs Shoes #196,Fashion,Shoes,Nepali Designs,4369,4.1,96,Tihar,True
+197,Asus Cameras #197,Electronics,Cameras,Asus,44878,4.9,39,Dashain,True
+198,Anker Earbuds #198,Phone Accessories,Earbuds,Anker,605,4.4,138,Dashain,True
+199,Belkin Cables #199,Phone Accessories,Cables,Belkin,1983,3.9,82,Dashain,True
+200,Oppo Headphones #200,Electronics,Headphones,Oppo,71155,4.0,48,Dashain,True
+201,Baseus Power Banks #201,Phone Accessories,Power Banks,Baseus,6000,4.7,125,Dashain,True
+202,Wrangler Saree #202,Fashion,Saree,Wrangler,11019,4.3,39,Tihar,True
+203,Oppo Tablets #203,Electronics,Tablets,Oppo,44568,4.6,256,Dashain,True
+204,Garnier Men's Grooming #204,Beauty & Personal Care,Men's Grooming,Garnier,2006,4.0,23,Tihar,True
+205,Zara Shoes #205,Fashion,Shoes,Zara,3012,4.2,30,Tihar,True
+206,Wrangler Shoes #206,Fashion,Shoes,Wrangler,5795,3.6,12,Tihar,True
+207,Belkin Screen Protectors #207,Phone Accessories,Screen Protectors,Belkin,1334,3.5,3,Dashain,False
+208,Himalaya Haircare #208,Beauty & Personal Care,Haircare,Himalaya,2500,4.5,42,Tihar,True
+209,Wrangler Shoes #209,Fashion,Shoes,Wrangler,11071,4.2,9,Tihar,True
+210,Himalaya Sunscreen #210,Beauty & Personal Care,Sunscreen,Himalaya,7014,4.8,30,Tihar,False
+211,Cottonworld Jackets #211,Fashion,Jackets,Cottonworld,9663,4.9,44,Tihar,True
+212,Nepali Designs T-Shirts #212,Fashion,T-Shirts,Nepali Designs,6386,4.1,36,Tihar,True
+213,Anker Stands #213,Phone Accessories,Stands,Anker,1578,4.8,41,Dashain,True
+214,Asus Tablets #214,Electronics,Tablets,Asus,86768,4.7,114,Dashain,True
+215,Oppo Tablets #215,Electronics,Tablets,Oppo,74600,4.0,46,Dashain,True
+216,Samsung Smartphones #216,Electronics,Smartphones,Samsung,150000,3.8,44,Dashain,True
+217,Zara Saree #217,Fashion,Saree,Zara,4690,4.8,151,Tihar,True
+218,Himalaya Haircare #218,Beauty & Personal Care,Haircare,Himalaya,7332,4.2,374,Tihar,True
+219,Generic Cables #219,Phone Accessories,Cables,Generic,3896,4.1,171,Dashain,False
+220,Xiaomi Speakers #220,Electronics,Speakers,Xiaomi,31070,3.9,21,Dashain,True
+221,Dell Smart Watches #221,Electronics,Smart Watches,Dell,66329,4.3,94,Dashain,True
+222,Vector X Yoga #222,Sports & Fitness,Yoga,Vector X,23372,3.6,13,Dashain,True
+223,Levi's Saree #223,Fashion,Saree,Levi's,8147,4.5,71,Tihar,True
+224,Oppo Tablets #224,Electronics,Tablets,Oppo,88498,3.6,30,Dashain,True
+225,Ugreen Cases #225,Phone Accessories,Cases,Ugreen,1843,3.3,24,Dashain,True
+226,Loreal Makeup #226,Beauty & Personal Care,Makeup,Loreal,3173,4.7,18,Tihar,True
+227,OnePlus Headphones #227,Electronics,Headphones,OnePlus,100302,3.5,80,Dashain,True
+228,Baseus Earbuds #228,Phone Accessories,Earbuds,Baseus,2841,4.4,147,Dashain,True
+229,Asus Tablets #229,Electronics,Tablets,Asus,54278,3.9,84,Dashain,False
+230,Asus Tablets #230,Electronics,Tablets,Asus,123792,3.8,55,Dashain,False
+231,Dell Cameras #231,Electronics,Cameras,Dell,75419,4.5,16,Dashain,True
+232,Vector X Cricket #232,Sports & Fitness,Cricket,Vector X,18382,4.2,11,Dashain,True
+233,Generic Stands #233,Phone Accessories,Stands,Generic,5243,4.4,197,Dashain,True
+234,Generic Power Banks #234,Phone Accessories,Power Banks,Generic,2659,4.4,26,Dashain,True
+235,HP Speakers #235,Electronics,Speakers,HP,90625,4.4,201,Dashain,True
+236,Garnier Skincare #236,Beauty & Personal Care,Skincare,Garnier,2672,4.5,72,Tihar,True
+237,Nepali Designs Kurtis #237,Fashion,Kurtis,Nepali Designs,4321,4.5,16,Tihar,True
+238,Anker Chargers #238,Phone Accessories,Chargers,Anker,2229,3.3,70,Dashain,True
+239,Oppo Smart Watches #239,Electronics,Smart Watches,Oppo,103947,4.2,156,Dashain,True
+240,Vivo Laptops #240,Electronics,Laptops,Vivo,150000,4.8,121,Dashain,True
+241,Dell Cameras #241,Electronics,Cameras,Dell,108819,4.5,40,Dashain,True
+242,Dell Headphones #242,Electronics,Headphones,Dell,93297,3.9,70,Dashain,True
+243,Milton Air Purifiers #243,Home & Kitchen,Air Purifiers,Milton,18974,3.9,113,Dashain,True
+244,Generic Cables #244,Phone Accessories,Cables,Generic,5300,4.1,10,Dashain,True
+245,Baseus Stands #245,Phone Accessories,Stands,Baseus,3639,4.0,15,Dashain,True
+246,Baseus Cases #246,Phone Accessories,Cases,Baseus,4519,3.6,7,Dashain,True
+247,Samsung Smartphones #247,Electronics,Smartphones,Samsung,39009,4.5,5,Dashain,True
+248,Yonex Badminton #248,Sports & Fitness,Badminton,Yonex,30000,4.0,227,Dashain,True
+249,Asus Smartphones #249,Electronics,Smartphones,Asus,92092,4.6,62,Dashain,True
+250,Oppo Tablets #250,Electronics,Tablets,Oppo,52951,4.1,394,Dashain,True
+251,Baseus Earbuds #251,Phone Accessories,Earbuds,Baseus,1172,4.2,14,Dashain,True
+252,Yonex Outdoor Gear #252,Sports & Fitness,Outdoor Gear,Yonex,30000,4.4,1239,Dashain,True
+253,Generic Badminton #253,Sports & Fitness,Badminton,Generic,11122,3.9,33,Dashain,True
+254,Zara T-Shirts #254,Fashion,T-Shirts,Zara,10592,4.4,108,Tihar,True
+255,Dell Headphones #255,Electronics,Headphones,Dell,85931,4.7,1096,Dashain,True
+256,Garnier Haircare #256,Beauty & Personal Care,Haircare,Garnier,6673,4.4,28,Tihar,True
+257,Biotique Perfume #257,Beauty & Personal Care,Perfume,Biotique,6862,4.2,64,Tihar,True
+258,Apple Cameras #258,Electronics,Cameras,Apple,79546,4.4,148,Dashain,True
+259,Yonex Yoga #259,Sports & Fitness,Yoga,Yonex,7975,4.7,32,Dashain,True
+260,Ugreen Cases #260,Phone Accessories,Cases,Ugreen,2052,4.8,60,Dashain,False
+261,Belkin Stands #261,Phone Accessories,Stands,Belkin,2830,4.3,154,Dashain,True
+262,Belkin Power Banks #262,Phone Accessories,Power Banks,Belkin,940,4.7,254,Dashain,False
+263,HP Smartphones #263,Electronics,Smartphones,HP,150000,4.2,2,Dashain,True
+264,Generic Yoga #264,Sports & Fitness,Yoga,Generic,22468,4.4,10,Dashain,True
+265,Milton Bedding #265,Home & Kitchen,Bedding,Milton,7517,4.5,13,Dashain,True
+266,Allen Solly Jackets #266,Fashion,Jackets,Allen Solly,7413,3.4,43,Tihar,True
+267,Zara Ethnic Wear #267,Fashion,Ethnic Wear,Zara,4886,4.7,21,Tihar,True
+268,Samsung Laptops #268,Electronics,Laptops,Samsung,150000,4.9,59,Dashain,True
+269,Wrangler Ethnic Wear #269,Fashion,Ethnic Wear,Wrangler,11012,4.3,12,Tihar,True
+270,Loreal Skincare #270,Beauty & Personal Care,Skincare,Loreal,6475,4.2,187,Tihar,True
+271,Ugreen Screen Protectors #271,Phone Accessories,Screen Protectors,Ugreen,2955,4.8,328,Dashain,True
+272,Mamaearth Men's Grooming #272,Beauty & Personal Care,Men's Grooming,Mamaearth,2799,3.4,34,Tihar,True
+273,Biotique Sunscreen #273,Beauty & Personal Care,Sunscreen,Biotique,2751,4.4,107,Tihar,True
+274,Vector X Cricket #274,Sports & Fitness,Cricket,Vector X,17479,4.9,1,Dashain,True
+275,Local Storage #275,Home & Kitchen,Storage,Local,16436,3.2,16,Dashain,True
+276,Anker Power Banks #276,Phone Accessories,Power Banks,Anker,1171,2.6,28,Dashain,True
+277,Yonex Badminton #277,Sports & Fitness,Badminton,Yonex,15679,4.3,191,Dashain,True
+278,Biotique Haircare #278,Beauty & Personal Care,Haircare,Biotique,5469,2.6,123,Tihar,False
+279,Belkin Cables #279,Phone Accessories,Cables,Belkin,3660,3.6,37,Dashain,True
+280,Mamaearth Skincare #280,Beauty & Personal Care,Skincare,Mamaearth,5395,4.4,5,Tihar,True
+281,Belkin Earbuds #281,Phone Accessories,Earbuds,Belkin,3701,4.0,54,Dashain,True
+282,Tefal Storage #282,Home & Kitchen,Storage,Tefal,5633,4.6,57,Dashain,True
+283,Xiaomi Tablets #283,Electronics,Tablets,Xiaomi,38427,3.6,96,Dashain,True
+284,HP Cameras #284,Electronics,Cameras,HP,44596,3.9,553,Dashain,True
+285,Pigeon Cleaning #285,Home & Kitchen,Cleaning,Pigeon,12572,3.5,66,Dashain,True
+286,Anker Power Banks #286,Phone Accessories,Power Banks,Anker,1224,4.3,154,Dashain,False
+287,Anker Cases #287,Phone Accessories,Cases,Anker,2664,4.7,112,Dashain,True
+288,Apple Smart Watches #288,Electronics,Smart Watches,Apple,150000,4.6,82,Dashain,True
+289,Local Air Purifiers #289,Home & Kitchen,Air Purifiers,Local,9793,3.7,16,Dashain,True
+290,Vector X Football #290,Sports & Fitness,Football,Vector X,6845,4.7,115,Dashain,True
+291,Pigeon Cleaning #291,Home & Kitchen,Cleaning,Pigeon,25000,4.3,20,Dashain,True
+292,Realme Headphones #292,Electronics,Headphones,Realme,106655,4.1,34,Dashain,False
+293,Apple Smartphones #293,Electronics,Smartphones,Apple,39701,4.6,79,Dashain,True
+294,Tefal Cookware #294,Home & Kitchen,Cookware,Tefal,8444,4.5,25,Dashain,True
+295,Generic Cases #295,Phone Accessories,Cases,Generic,2099,3.5,98,Dashain,True
+296,Loreal Haircare #296,Beauty & Personal Care,Haircare,Loreal,2450,3.6,156,Tihar,True
+297,Cottonworld Jeans #297,Fashion,Jeans,Cottonworld,11708,3.9,143,Tihar,True
+298,Wrangler Ethnic Wear #298,Fashion,Ethnic Wear,Wrangler,15000,4.6,74,Tihar,True
+299,Dove Sunscreen #299,Beauty & Personal Care,Sunscreen,Dove,3589,4.2,35,Tihar,True
+300,Asus Laptops #300,Electronics,Laptops,Asus,54753,4.4,12,Dashain,True
+301,Vector X Outdoor Gear #301,Sports & Fitness,Outdoor Gear,Vector X,30000,4.1,13,Dashain,True
+302,Levi's Kurta #302,Fashion,Kurta,Levi's,12116,3.9,225,Tihar,True
+303,Allen Solly Saree #303,Fashion,Saree,Allen Solly,8124,3.7,103,Tihar,True
+304,Cottonworld Saree #304,Fashion,Saree,Cottonworld,8443,4.5,2,Tihar,True
+305,Dove Haircare #305,Beauty & Personal Care,Haircare,Dove,4249,4.9,12,Tihar,True
+306,Mamaearth Perfume #306,Beauty & Personal Care,Perfume,Mamaearth,1706,4.9,18,Tihar,False
+307,Dove Makeup #307,Beauty & Personal Care,Makeup,Dove,5400,3.9,82,Tihar,True
+308,Ugreen Cases #308,Phone Accessories,Cases,Ugreen,2050,2.4,142,Dashain,True
+309,Anker Cases #309,Phone Accessories,Cases,Anker,1824,4.3,69,Dashain,True
+310,Prestige Air Purifiers #310,Home & Kitchen,Air Purifiers,Prestige,25000,4.2,14,Dashain,True
+311,Oppo Tablets #311,Electronics,Tablets,Oppo,25140,4.6,48,Dashain,True
+312,Baseus Stands #312,Phone Accessories,Stands,Baseus,2028,4.4,66,Dashain,True
+313,Belkin Cases #313,Phone Accessories,Cases,Belkin,1090,4.1,192,Dashain,True
+314,Baseus Earbuds #314,Phone Accessories,Earbuds,Baseus,1809,3.8,638,Dashain,True
+315,Xiaomi Smartphones #315,Electronics,Smartphones,Xiaomi,57521,4.5,332,Dashain,True
+316,Ugreen Chargers #316,Phone Accessories,Chargers,Ugreen,1142,4.0,1,Dashain,True
+317,Loreal Haircare #317,Beauty & Personal Care,Haircare,Loreal,4979,4.5,1750,Tihar,True
+318,Asus Smartphones #318,Electronics,Smartphones,Asus,65131,4.9,93,Dashain,True
+319,HP Speakers #319,Electronics,Speakers,HP,73588,4.4,10,Dashain,True
+320,Himalaya Haircare #320,Beauty & Personal Care,Haircare,Himalaya,1665,3.6,18,Tihar,True
+321,Asus Smartphones #321,Electronics,Smartphones,Asus,150000,4.3,44,Dashain,True
+322,Baseus Stands #322,Phone Accessories,Stands,Baseus,4866,4.0,34,Dashain,True
+323,Prestige Decor #323,Home & Kitchen,Decor,Prestige,25000,4.4,151,Dashain,True
+324,Zara Kurtis #324,Fashion,Kurtis,Zara,11367,3.9,66,Tihar,True
+325,Anker Cases #325,Phone Accessories,Cases,Anker,2199,4.4,60,Dashain,True
+326,Nepali Designs Ethnic Wear #326,Fashion,Ethnic Wear,Nepali Designs,4943,4.9,144,Tihar,False
+327,Belkin Chargers #327,Phone Accessories,Chargers,Belkin,1379,4.2,49,Dashain,True
+328,Pigeon Storage #328,Home & Kitchen,Storage,Pigeon,17477,4.6,36,Dashain,True
+329,Baseus Chargers #329,Phone Accessories,Chargers,Baseus,3325,4.1,99,Dashain,True
+330,Zara Kurta #330,Fashion,Kurta,Zara,6708,2.5,255,Tihar,True
+331,Wrangler T-Shirts #331,Fashion,T-Shirts,Wrangler,14232,4.9,30,Tihar,True
+332,Nivea Makeup #332,Beauty & Personal Care,Makeup,Nivea,2665,4.7,244,Tihar,True
+333,Generic Power Banks #333,Phone Accessories,Power Banks,Generic,6000,3.8,54,Dashain,True
+334,Generic Earbuds #334,Phone Accessories,Earbuds,Generic,4186,4.6,36,Dashain,True
+335,Cosco Gym Equipment #335,Sports & Fitness,Gym Equipment,Cosco,24275,4.3,147,Dashain,True
+336,Ugreen Earbuds #336,Phone Accessories,Earbuds,Ugreen,2333,4.9,108,Dashain,True
+337,Levi's Jeans #337,Fashion,Jeans,Levi's,12293,2.5,59,Tihar,True
+338,Prestige Cleaning #338,Home & Kitchen,Cleaning,Prestige,11653,4.7,223,Dashain,True
+339,Samsung Smart Watches #339,Electronics,Smart Watches,Samsung,150000,4.4,15,Dashain,True
+340,Biotique Men's Grooming #340,Beauty & Personal Care,Men's Grooming,Biotique,2351,4.2,12,Tihar,False
+341,Garnier Haircare #341,Beauty & Personal Care,Haircare,Garnier,3901,3.4,61,Tihar,True
+342,HP Speakers #342,Electronics,Speakers,HP,150000,4.1,38,Dashain,True
+343,Realme Smartphones #343,Electronics,Smartphones,Realme,109399,3.8,148,Dashain,False
+344,Allen Solly T-Shirts #344,Fashion,T-Shirts,Allen Solly,6866,4.4,101,Tihar,True
+345,Anker Screen Protectors #345,Phone Accessories,Screen Protectors,Anker,3638,2.5,161,Dashain,True
+346,Anker Cases #346,Phone Accessories,Cases,Anker,3289,4.3,202,Dashain,True
+347,Nivea Makeup #347,Beauty & Personal Care,Makeup,Nivea,8000,4.6,49,Tihar,False
+348,Realme Cameras #348,Electronics,Cameras,Realme,150000,4.1,21,Dashain,True
+349,Allen Solly Jeans #349,Fashion,Jeans,Allen Solly,7022,3.5,50,Tihar,True
+350,Nepali Designs Jackets #350,Fashion,Jackets,Nepali Designs,6472,4.4,121,Tihar,True
+351,Asus Tablets #351,Electronics,Tablets,Asus,144225,4.3,51,Dashain,True
+352,Biotique Perfume #352,Beauty & Personal Care,Perfume,Biotique,2772,4.4,25,Tihar,True
+353,Levi's Ethnic Wear #353,Fashion,Ethnic Wear,Levi's,4791,4.5,300,Tihar,True
+354,Xiaomi Headphones #354,Electronics,Headphones,Xiaomi,23775,4.9,116,Dashain,False
+355,OnePlus Laptops #355,Electronics,Laptops,OnePlus,73396,4.1,29,Dashain,True
+356,Apple Cameras #356,Electronics,Cameras,Apple,75530,4.8,9,Dashain,True
+357,Generic Badminton #357,Sports & Fitness,Badminton,Generic,9906,4.3,28,Dashain,True
+358,Cosco Cricket #358,Sports & Fitness,Cricket,Cosco,27917,4.7,27,Dashain,True
+359,Realme Speakers #359,Electronics,Speakers,Realme,61354,4.8,82,Dashain,True
+360,Nepali Designs Kurtis #360,Fashion,Kurtis,Nepali Designs,6592,3.3,26,Tihar,True
+361,Dell Cameras #361,Electronics,Cameras,Dell,59896,4.5,320,Dashain,True
+362,OnePlus Smart Watches #362,Electronics,Smart Watches,OnePlus,130741,4.1,88,Dashain,True
+363,Ugreen Stands #363,Phone Accessories,Stands,Ugreen,6000,3.7,2356,Dashain,True
+364,Apple Smart Watches #364,Electronics,Smart Watches,Apple,61876,4.3,133,Dashain,True
+365,Dell Smart Watches #365,Electronics,Smart Watches,Dell,82093,4.2,17,Dashain,True
+366,Realme Cameras #366,Electronics,Cameras,Realme,150000,4.8,355,Dashain,True
+367,Ugreen Earbuds #367,Phone Accessories,Earbuds,Ugreen,3901,3.9,40,Dashain,True
+368,Apple Headphones #368,Electronics,Headphones,Apple,150000,3.2,57,Dashain,True
+369,Garnier Perfume #369,Beauty & Personal Care,Perfume,Garnier,8000,4.5,23,Tihar,True
+370,Vivo Smartphones #370,Electronics,Smartphones,Vivo,35695,3.4,521,Dashain,True
+371,Biotique Makeup #371,Beauty & Personal Care,Makeup,Biotique,4734,4.1,10,Tihar,True
+372,Allen Solly Ethnic Wear #372,Fashion,Ethnic Wear,Allen Solly,12890,4.3,34,Tihar,True
+373,Mamaearth Men's Grooming #373,Beauty & Personal Care,Men's Grooming,Mamaearth,3493,4.5,76,Tihar,True
+374,Vivo Tablets #374,Electronics,Tablets,Vivo,77260,3.0,128,Dashain,True
+375,Belkin Chargers #375,Phone Accessories,Chargers,Belkin,2074,4.2,103,Dashain,True
+376,Baseus Cases #376,Phone Accessories,Cases,Baseus,2216,3.7,54,Dashain,True
+377,Vector X Yoga #377,Sports & Fitness,Yoga,Vector X,13359,3.7,80,Dashain,False
+378,Anker Power Banks #378,Phone Accessories,Power Banks,Anker,1971,4.1,174,Dashain,False
+379,Pigeon Bedding #379,Home & Kitchen,Bedding,Pigeon,9177,4.2,178,Dashain,False
+380,Anker Cases #380,Phone Accessories,Cases,Anker,3580,4.1,1160,Dashain,True
+381,HP Tablets #381,Electronics,Tablets,HP,40472,4.7,123,Dashain,True
+382,Garnier Makeup #382,Beauty & Personal Care,Makeup,Garnier,8000,4.7,196,Tihar,True
+383,Ugreen Stands #383,Phone Accessories,Stands,Ugreen,2149,4.2,33,Dashain,True
+384,Samsung Smartphones #384,Electronics,Smartphones,Samsung,66337,4.8,26,Dashain,True
+385,Dove Makeup #385,Beauty & Personal Care,Makeup,Dove,2107,4.7,27,Tihar,False
+386,Ugreen Cases #386,Phone Accessories,Cases,Ugreen,3773,4.5,36,Dashain,True
+387,Asus Laptops #387,Electronics,Laptops,Asus,99466,4.7,263,Dashain,True
+388,Mamaearth Men's Grooming #388,Beauty & Personal Care,Men's Grooming,Mamaearth,3097,4.9,370,Tihar,True
+389,Garnier Makeup #389,Beauty & Personal Care,Makeup,Garnier,6350,4.1,105,Tihar,True
+390,Apple Smart Watches #390,Electronics,Smart Watches,Apple,84886,4.9,53,Dashain,True
+391,Allen Solly Ethnic Wear #391,Fashion,Ethnic Wear,Allen Solly,5524,3.9,134,Tihar,True
+392,Cosco Badminton #392,Sports & Fitness,Badminton,Cosco,17805,2.9,12,Dashain,True
+393,Anker Earbuds #393,Phone Accessories,Earbuds,Anker,1270,4.4,50,Dashain,True
+394,Cottonworld Jeans #394,Fashion,Jeans,Cottonworld,8101,4.6,48,Tihar,True
+395,Dove Makeup #395,Beauty & Personal Care,Makeup,Dove,2650,4.0,20,Tihar,True
+396,Mamaearth Men's Grooming #396,Beauty & Personal Care,Men's Grooming,Mamaearth,3038,4.0,123,Tihar,True
+397,Apple Speakers #397,Electronics,Speakers,Apple,41440,4.7,36,Dashain,True
+398,Belkin Earbuds #398,Phone Accessories,Earbuds,Belkin,2709,4.3,220,Dashain,True
+399,Belkin Cables #399,Phone Accessories,Cables,Belkin,1271,4.8,16,Dashain,False
+400,HP Headphones #400,Electronics,Headphones,HP,137812,4.4,29,Dashain,True
+401,Realme Laptops #401,Electronics,Laptops,Realme,75428,4.3,22,Dashain,True
+402,Mamaearth Skincare #402,Beauty & Personal Care,Skincare,Mamaearth,2504,4.5,169,Tihar,True
+403,Asus Cameras #403,Electronics,Cameras,Asus,96239,4.5,93,Dashain,True
+404,OnePlus Smartphones #404,Electronics,Smartphones,OnePlus,100364,4.3,84,Dashain,True
+405,Apple Cameras #405,Electronics,Cameras,Apple,87741,4.7,51,Dashain,True
+406,Asus Smartphones #406,Electronics,Smartphones,Asus,74105,3.6,16,Dashain,True
+407,Generic Screen Protectors #407,Phone Accessories,Screen Protectors,Generic,5942,2.8,18,Dashain,False
+408,Local Bedding #408,Home & Kitchen,Bedding,Local,11667,2.9,27,Dashain,True
+409,Pigeon Decor #409,Home & Kitchen,Decor,Pigeon,15701,4.2,178,Dashain,True
+410,Samsung Smart Watches #410,Electronics,Smart Watches,Samsung,25343,3.9,77,Dashain,True
+411,Samsung Headphones #411,Electronics,Headphones,Samsung,96870,4.2,2,Dashain,True
+412,Mamaearth Sunscreen #412,Beauty & Personal Care,Sunscreen,Mamaearth,1236,4.3,46,Tihar,True
+413,Oppo Speakers #413,Electronics,Speakers,Oppo,81518,3.6,18,Dashain,False
+414,Nepali Designs T-Shirts #414,Fashion,T-Shirts,Nepali Designs,15000,3.7,37,Tihar,True
+415,Anker Chargers #415,Phone Accessories,Chargers,Anker,3444,4.8,63,Dashain,True
+416,Wrangler Ethnic Wear #416,Fashion,Ethnic Wear,Wrangler,3565,4.3,669,Tihar,True
+417,Biotique Men's Grooming #417,Beauty & Personal Care,Men's Grooming,Biotique,6593,4.2,148,Tihar,True
+418,Milton Cookware #418,Home & Kitchen,Cookware,Milton,18962,4.5,129,Dashain,True
+419,Baseus Cables #419,Phone Accessories,Cables,Baseus,1150,3.4,25,Dashain,True
+420,Belkin Cases #420,Phone Accessories,Cases,Belkin,2027,2.9,7,Dashain,True
+421,Tefal Cookware #421,Home & Kitchen,Cookware,Tefal,17950,4.6,83,Dashain,True
+422,Vector X Outdoor Gear #422,Sports & Fitness,Outdoor Gear,Vector X,30000,4.4,3,Dashain,True
+423,Vector X Cricket #423,Sports & Fitness,Cricket,Vector X,6838,3.7,72,Dashain,True
+424,Ugreen Stands #424,Phone Accessories,Stands,Ugreen,1075,3.3,46,Dashain,False
+425,Apple Cameras #425,Electronics,Cameras,Apple,56258,3.9,142,Dashain,True
+426,Mamaearth Men's Grooming #426,Beauty & Personal Care,Men's Grooming,Mamaearth,2514,3.7,146,Tihar,True
+427,Asus Headphones #427,Electronics,Headphones,Asus,62695,4.9,68,Dashain,True
+428,Samsung Smart Watches #428,Electronics,Smart Watches,Samsung,58742,3.8,115,Dashain,True
+429,Allen Solly Ethnic Wear #429,Fashion,Ethnic Wear,Allen Solly,9970,4.2,6,Tihar,True
+430,Belkin Cables #430,Phone Accessories,Cables,Belkin,5264,4.7,40,Dashain,True
+431,Nivia Football #431,Sports & Fitness,Football,Nivia,19833,3.5,2,Dashain,True
+432,Cottonworld Shoes #432,Fashion,Shoes,Cottonworld,6889,4.5,214,Tihar,True
+433,Loreal Skincare #433,Beauty & Personal Care,Skincare,Loreal,8000,4.3,56,Tihar,True
+434,Baseus Screen Protectors #434,Phone Accessories,Screen Protectors,Baseus,1400,4.8,170,Dashain,True
+435,Baseus Stands #435,Phone Accessories,Stands,Baseus,2953,4.3,32,Dashain,False
+436,Prestige Storage #436,Home & Kitchen,Storage,Prestige,5409,4.4,70,Dashain,True
+437,Tefal Bedding #437,Home & Kitchen,Bedding,Tefal,18128,4.1,16,Dashain,True
+438,Levi's Saree #438,Fashion,Saree,Levi's,5346,4.5,15,Tihar,False
+439,Anker Cases #439,Phone Accessories,Cases,Anker,1912,4.3,32,Dashain,True
+440,Ugreen Cables #440,Phone Accessories,Cables,Ugreen,4508,4.3,75,Dashain,True
+441,Generic Stands #441,Phone Accessories,Stands,Generic,6000,3.8,262,Dashain,True
+442,Prestige Cookware #442,Home & Kitchen,Cookware,Prestige,8187,4.1,35,Dashain,True
+443,Wrangler Jackets #443,Fashion,Jackets,Wrangler,10150,4.6,271,Tihar,True
+444,Samsung Smartphones #444,Electronics,Smartphones,Samsung,43410,4.1,57,Dashain,True
+445,Apple Headphones #445,Electronics,Headphones,Apple,60067,4.3,31,Dashain,True
+446,Allen Solly Jackets #446,Fashion,Jackets,Allen Solly,8347,4.6,8,Tihar,False
+447,Allen Solly Ethnic Wear #447,Fashion,Ethnic Wear,Allen Solly,5863,4.9,302,Tihar,True
+448,Garnier Sunscreen #448,Beauty & Personal Care,Sunscreen,Garnier,3064,4.4,12,Tihar,True
+449,Local Storage #449,Home & Kitchen,Storage,Local,18458,4.6,21,Dashain,True
+450,Prestige Decor #450,Home & Kitchen,Decor,Prestige,13832,4.3,23,Dashain,True
+451,Ugreen Screen Protectors #451,Phone Accessories,Screen Protectors,Ugreen,1275,2.9,64,Dashain,True
+452,Xiaomi Speakers #452,Electronics,Speakers,Xiaomi,119935,4.0,484,Dashain,True
+453,Oppo Speakers #453,Electronics,Speakers,Oppo,72863,4.4,26,Dashain,False
+454,Yonex Football #454,Sports & Fitness,Football,Yonex,13089,4.1,53,Dashain,True
+455,Cottonworld Jeans #455,Fashion,Jeans,Cottonworld,11352,4.3,36,Tihar,True
+456,Realme Smart Watches #456,Electronics,Smart Watches,Realme,63813,3.6,251,Dashain,True
+457,Zara Kurtis #457,Fashion,Kurtis,Zara,12784,3.9,158,Tihar,True
+458,Ugreen Power Banks #458,Phone Accessories,Power Banks,Ugreen,3305,4.7,24,Dashain,True
+459,Asus Headphones #459,Electronics,Headphones,Asus,105720,4.7,97,Dashain,True
+460,Apple Laptops #460,Electronics,Laptops,Apple,91161,4.0,103,Dashain,True
+461,OnePlus Headphones #461,Electronics,Headphones,OnePlus,55127,3.7,12,Dashain,True
+462,Prestige Air Purifiers #462,Home & Kitchen,Air Purifiers,Prestige,25000,4.0,43,Dashain,True
+463,Generic Cricket #463,Sports & Fitness,Cricket,Generic,11684,4.4,147,Dashain,True
+464,Anker Stands #464,Phone Accessories,Stands,Anker,6000,3.5,128,Dashain,True
+465,Realme Tablets #465,Electronics,Tablets,Realme,41901,4.0,16,Dashain,True
+466,Apple Tablets #466,Electronics,Tablets,Apple,100817,4.4,440,Dashain,True
+467,Belkin Cases #467,Phone Accessories,Cases,Belkin,4971,4.1,15,Dashain,True
+468,Levi's T-Shirts #468,Fashion,T-Shirts,Levi's,15000,4.6,73,Tihar,True
+469,Zara T-Shirts #469,Fashion,T-Shirts,Zara,15000,4.3,169,Tihar,True
+470,Tefal Storage #470,Home & Kitchen,Storage,Tefal,9929,4.8,46,Dashain,True
+471,Pigeon Decor #471,Home & Kitchen,Decor,Pigeon,17343,4.8,69,Dashain,True
+472,Loreal Perfume #472,Beauty & Personal Care,Perfume,Loreal,4499,3.3,24,Tihar,True
+473,Levi's Shoes #473,Fashion,Shoes,Levi's,6759,4.4,13,Tihar,True
+474,Generic Badminton #474,Sports & Fitness,Badminton,Generic,10912,4.7,86,Dashain,True
+475,HP Smart Watches #475,Electronics,Smart Watches,HP,92324,3.9,174,Dashain,False
+476,Zara Jackets #476,Fashion,Jackets,Zara,6528,4.4,515,Tihar,False
+477,Xiaomi Cameras #477,Electronics,Cameras,Xiaomi,81521,3.5,21,Dashain,True
+478,Vivo Speakers #478,Electronics,Speakers,Vivo,40678,4.0,48,Dashain,True
+479,Xiaomi Smartphones #479,Electronics,Smartphones,Xiaomi,63973,4.0,152,Dashain,True
+480,HP Laptops #480,Electronics,Laptops,HP,65819,4.0,500,Dashain,True
+481,Asus Cameras #481,Electronics,Cameras,Asus,76476,4.5,256,Dashain,True
+482,Nepali Designs Saree #482,Fashion,Saree,Nepali Designs,15000,4.7,33,Tihar,True
+483,Prestige Storage #483,Home & Kitchen,Storage,Prestige,25000,3.9,110,Dashain,True
+484,Himalaya Makeup #484,Beauty & Personal Care,Makeup,Himalaya,2034,4.0,85,Tihar,True
+485,Ugreen Screen Protectors #485,Phone Accessories,Screen Protectors,Ugreen,2373,3.8,498,Dashain,False
+486,Generic Stands #486,Phone Accessories,Stands,Generic,1010,4.8,65,Dashain,True
+487,Baseus Cables #487,Phone Accessories,Cables,Baseus,4978,4.2,512,Dashain,False
+488,Asus Laptops #488,Electronics,Laptops,Asus,108302,4.3,14,Dashain,True
+489,Baseus Cases #489,Phone Accessories,Cases,Baseus,1732,3.6,47,Dashain,True
+490,Samsung Laptops #490,Electronics,Laptops,Samsung,35043,4.0,6,Dashain,True
+491,Xiaomi Cameras #491,Electronics,Cameras,Xiaomi,150000,3.4,112,Dashain,True
+492,Samsung Headphones #492,Electronics,Headphones,Samsung,59558,3.4,51,Dashain,True
+493,Dove Perfume #493,Beauty & Personal Care,Perfume,Dove,6756,4.3,82,Tihar,True
+494,Yonex Badminton #494,Sports & Fitness,Badminton,Yonex,15336,4.6,165,Dashain,True
+495,Nivea Makeup #495,Beauty & Personal Care,Makeup,Nivea,5539,4.9,46,Tihar,True
+496,Cottonworld Jeans #496,Fashion,Jeans,Cottonworld,3667,4.4,171,Tihar,True
+497,Allen Solly Jeans #497,Fashion,Jeans,Allen Solly,7807,4.8,43,Tihar,True
+498,Levi's Ethnic Wear #498,Fashion,Ethnic Wear,Levi's,15000,4.6,16,Tihar,True
+499,Nepali Designs Kurta #499,Fashion,Kurta,Nepali Designs,11546,3.8,9,Tihar,True
+500,Dell Smart Watches #500,Electronics,Smart Watches,Dell,14552,4.3,10,Dashain,True
+501,Milton Cleaning #501,Home & Kitchen,Cleaning,Milton,23936,3.9,180,Dashain,True
+502,Belkin Cases #502,Phone Accessories,Cases,Belkin,1481,4.1,169,Dashain,False
+503,Allen Solly Jackets #503,Fashion,Jackets,Allen Solly,15000,4.8,57,Tihar,True
+504,Samsung Smartphones #504,Electronics,Smartphones,Samsung,67534,4.3,304,Dashain,True
+505,Tefal Air Purifiers #505,Home & Kitchen,Air Purifiers,Tefal,14749,4.6,38,Dashain,True
+506,Dell Tablets #506,Electronics,Tablets,Dell,150000,3.4,62,Dashain,True
+507,Ugreen Screen Protectors #507,Phone Accessories,Screen Protectors,Ugreen,4555,3.6,146,Dashain,True
+508,Himalaya Haircare #508,Beauty & Personal Care,Haircare,Himalaya,3588,3.3,34,Tihar,True
+509,Generic Screen Protectors #509,Phone Accessories,Screen Protectors,Generic,3696,4.6,58,Dashain,False
+510,Local Bedding #510,Home & Kitchen,Bedding,Local,5852,4.8,152,Dashain,True
+511,Belkin Earbuds #511,Phone Accessories,Earbuds,Belkin,2495,4.1,107,Dashain,True
+512,Yonex Badminton #512,Sports & Fitness,Badminton,Yonex,18831,4.5,50,Dashain,True
+513,Dove Skincare #513,Beauty & Personal Care,Skincare,Dove,8000,4.5,19,Tihar,True
+514,Dove Skincare #514,Beauty & Personal Care,Skincare,Dove,2384,3.9,116,Tihar,True
+515,Baseus Screen Protectors #515,Phone Accessories,Screen Protectors,Baseus,6000,4.4,212,Dashain,True
+516,Apple Laptops #516,Electronics,Laptops,Apple,56479,3.2,127,Dashain,True
+517,Loreal Skincare #517,Beauty & Personal Care,Skincare,Loreal,5753,3.7,24,Tihar,True
+518,OnePlus Smart Watches #518,Electronics,Smart Watches,OnePlus,56493,4.8,52,Dashain,True
+519,Nivia Yoga #519,Sports & Fitness,Yoga,Nivia,17503,4.6,66,Dashain,True
+520,Nivia Badminton #520,Sports & Fitness,Badminton,Nivia,16763,4.0,23,Dashain,True
+521,Realme Headphones #521,Electronics,Headphones,Realme,42814,4.6,131,Dashain,True
+522,Dell Smart Watches #522,Electronics,Smart Watches,Dell,68475,4.7,67,Dashain,True
+523,Dell Cameras #523,Electronics,Cameras,Dell,59909,4.2,23,Dashain,True
+524,Anker Cases #524,Phone Accessories,Cases,Anker,1774,3.3,35,Dashain,True
+525,Nepali Designs Jackets #525,Fashion,Jackets,Nepali Designs,15000,4.7,50,Tihar,False
+526,Xiaomi Laptops #526,Electronics,Laptops,Xiaomi,64250,4.0,45,Dashain,True
+527,Allen Solly Saree #527,Fashion,Saree,Allen Solly,9489,4.7,60,Tihar,True
+528,OnePlus Tablets #528,Electronics,Tablets,OnePlus,56827,4.5,12,Dashain,True
+529,Generic Outdoor Gear #529,Sports & Fitness,Outdoor Gear,Generic,8027,4.9,11,Dashain,False
+530,Samsung Headphones #530,Electronics,Headphones,Samsung,150000,4.0,448,Dashain,True
+531,Xiaomi Smartphones #531,Electronics,Smartphones,Xiaomi,110785,4.7,360,Dashain,True
+532,Dove Men's Grooming #532,Beauty & Personal Care,Men's Grooming,Dove,5339,4.8,29,Tihar,True
+533,Belkin Earbuds #533,Phone Accessories,Earbuds,Belkin,1528,4.4,145,Dashain,True
+534,Zara Jackets #534,Fashion,Jackets,Zara,6717,4.3,10,Tihar,True
+535,Xiaomi Laptops #535,Electronics,Laptops,Xiaomi,96217,4.2,41,Dashain,True
+536,Zara Shoes #536,Fashion,Shoes,Zara,15000,4.8,468,Tihar,True
+537,Levi's Jeans #537,Fashion,Jeans,Levi's,7690,4.7,50,Tihar,True
+538,Allen Solly Kurta #538,Fashion,Kurta,Allen Solly,11170,3.9,340,Tihar,True
+539,Garnier Perfume #539,Beauty & Personal Care,Perfume,Garnier,8000,4.6,89,Tihar,True
+540,Asus Smartphones #540,Electronics,Smartphones,Asus,78196,4.2,45,Dashain,True
+541,Allen Solly Ethnic Wear #541,Fashion,Ethnic Wear,Allen Solly,8935,3.7,54,Tihar,True
+542,Levi's T-Shirts #542,Fashion,T-Shirts,Levi's,11531,4.1,47,Tihar,True
+543,Apple Headphones #543,Electronics,Headphones,Apple,46422,4.1,46,Dashain,True
+544,Zara Kurta #544,Fashion,Kurta,Zara,9673,4.7,36,Tihar,True
+545,Baseus Stands #545,Phone Accessories,Stands,Baseus,4510,4.6,67,Dashain,True
+546,Ugreen Earbuds #546,Phone Accessories,Earbuds,Ugreen,1894,3.6,120,Dashain,True
+547,Biotique Perfume #547,Beauty & Personal Care,Perfume,Biotique,8000,3.8,118,Tihar,True
+548,Asus Smartphones #548,Electronics,Smartphones,Asus,36075,4.2,11,Dashain,True
+549,Tefal Storage #549,Home & Kitchen,Storage,Tefal,12989,4.1,14,Dashain,True
+550,Wrangler Jeans #550,Fashion,Jeans,Wrangler,2713,4.5,239,Tihar,True
+551,Samsung Speakers #551,Electronics,Speakers,Samsung,150000,3.7,29,Dashain,True
+552,OnePlus Smart Watches #552,Electronics,Smart Watches,OnePlus,117706,3.7,95,Dashain,True
+553,Realme Speakers #553,Electronics,Speakers,Realme,129895,3.7,4,Dashain,True
+554,Local Cleaning #554,Home & Kitchen,Cleaning,Local,25000,4.3,31,Dashain,True
+555,Anker Screen Protectors #555,Phone Accessories,Screen Protectors,Anker,6000,4.3,55,Dashain,True
+556,Loreal Skincare #556,Beauty & Personal Care,Skincare,Loreal,3323,4.0,134,Tihar,True
+557,Milton Bedding #557,Home & Kitchen,Bedding,Milton,25000,4.0,8,Dashain,True
+558,Asus Cameras #558,Electronics,Cameras,Asus,76536,4.7,12,Dashain,True
+559,HP Tablets #559,Electronics,Tablets,HP,34889,3.3,15,Dashain,True
+560,Zara Jackets #560,Fashion,Jackets,Zara,12702,4.6,75,Tihar,True
+561,Milton Decor #561,Home & Kitchen,Decor,Milton,12249,4.8,25,Dashain,True
+562,Himalaya Makeup #562,Beauty & Personal Care,Makeup,Himalaya,3328,4.2,6,Tihar,False
+563,HP Smartphones #563,Electronics,Smartphones,HP,53589,4.1,318,Dashain,True
+564,Dove Makeup #564,Beauty & Personal Care,Makeup,Dove,6857,3.3,285,Tihar,True
+565,Cottonworld Shoes #565,Fashion,Shoes,Cottonworld,15000,4.1,9,Tihar,True
+566,Wrangler Kurtis #566,Fashion,Kurtis,Wrangler,6843,4.0,125,Tihar,True
+567,Vivo Headphones #567,Electronics,Headphones,Vivo,72011,4.4,109,Dashain,True
+568,Dove Sunscreen #568,Beauty & Personal Care,Sunscreen,Dove,6073,3.5,23,Tihar,True
+569,Anker Cases #569,Phone Accessories,Cases,Anker,4183,4.4,23,Dashain,True
+570,Levi's Ethnic Wear #570,Fashion,Ethnic Wear,Levi's,6328,4.5,7,Tihar,True
+571,Garnier Sunscreen #571,Beauty & Personal Care,Sunscreen,Garnier,6291,4.0,37,Tihar,True
+572,Himalaya Makeup #572,Beauty & Personal Care,Makeup,Himalaya,3774,4.3,5,Tihar,True
+573,Cosco Gym Equipment #573,Sports & Fitness,Gym Equipment,Cosco,4409,4.9,80,Dashain,True
+574,Allen Solly Ethnic Wear #574,Fashion,Ethnic Wear,Allen Solly,10082,4.4,30,Tihar,True
+575,Nivia Yoga #575,Sports & Fitness,Yoga,Nivia,10500,3.6,13,Dashain,True
+576,Dell Laptops #576,Electronics,Laptops,Dell,62818,4.4,41,Dashain,True
+577,Loreal Sunscreen #577,Beauty & Personal Care,Sunscreen,Loreal,3973,4.1,199,Tihar,True
+578,Vivo Headphones #578,Electronics,Headphones,Vivo,113588,4.2,43,Dashain,True
+579,Cottonworld Kurtis #579,Fashion,Kurtis,Cottonworld,3957,4.7,174,Tihar,True
+580,Allen Solly Kurta #580,Fashion,Kurta,Allen Solly,11835,4.3,90,Tihar,True
+581,Milton Air Purifiers #581,Home & Kitchen,Air Purifiers,Milton,6694,3.8,29,Dashain,True
+582,Belkin Chargers #582,Phone Accessories,Chargers,Belkin,4622,3.9,47,Dashain,True
+583,Dell Smart Watches #583,Electronics,Smart Watches,Dell,47611,4.7,45,Dashain,True
+584,Vector X Cricket #584,Sports & Fitness,Cricket,Vector X,6315,3.5,198,Dashain,True
+585,Samsung Laptops #585,Electronics,Laptops,Samsung,68049,3.7,39,Dashain,True
+586,Local Cleaning #586,Home & Kitchen,Cleaning,Local,5687,4.5,253,Dashain,True
+587,HP Tablets #587,Electronics,Tablets,HP,46552,4.1,206,Dashain,True
+588,Oppo Speakers #588,Electronics,Speakers,Oppo,115585,4.0,449,Dashain,True
+589,Dell Smartphones #589,Electronics,Smartphones,Dell,72052,3.9,254,Dashain,True
+590,Asus Speakers #590,Electronics,Speakers,Asus,46120,3.5,15,Dashain,True
+591,Vector X Badminton #591,Sports & Fitness,Badminton,Vector X,18812,4.0,164,Dashain,True
+592,Apple Headphones #592,Electronics,Headphones,Apple,46401,3.4,86,Dashain,True
+593,Tefal Cookware #593,Home & Kitchen,Cookware,Tefal,9210,4.5,78,Dashain,True
+594,Nepali Designs Kurta #594,Fashion,Kurta,Nepali Designs,6664,4.1,27,Tihar,False
+595,Anker Cables #595,Phone Accessories,Cables,Anker,3344,4.6,192,Dashain,True
+596,Ugreen Earbuds #596,Phone Accessories,Earbuds,Ugreen,6000,4.6,291,Dashain,True
+597,Biotique Men's Grooming #597,Beauty & Personal Care,Men's Grooming,Biotique,3822,4.5,32,Tihar,True
+598,Pigeon Air Purifiers #598,Home & Kitchen,Air Purifiers,Pigeon,24199,4.2,154,Dashain,True
+599,Asus Headphones #599,Electronics,Headphones,Asus,42521,4.5,6,Dashain,True
+600,Apple Headphones #600,Electronics,Headphones,Apple,98997,4.2,224,Dashain,True
+601,Wrangler Jackets #601,Fashion,Jackets,Wrangler,14183,4.6,156,Tihar,False
+602,Loreal Perfume #602,Beauty & Personal Care,Perfume,Loreal,8000,3.9,5,Tihar,False
+603,Allen Solly Saree #603,Fashion,Saree,Allen Solly,10787,4.7,33,Tihar,True
+604,Oppo Speakers #604,Electronics,Speakers,Oppo,116900,3.9,55,Dashain,True
+605,Wrangler Jeans #605,Fashion,Jeans,Wrangler,7648,3.2,110,Tihar,True
+606,OnePlus Cameras #606,Electronics,Cameras,OnePlus,150000,4.6,29,Dashain,True
+607,Himalaya Skincare #607,Beauty & Personal Care,Skincare,Himalaya,8000,3.7,102,Tihar,True
+608,Nivia Cricket #608,Sports & Fitness,Cricket,Nivia,30000,3.9,74,Dashain,True
+609,Allen Solly T-Shirts #609,Fashion,T-Shirts,Allen Solly,10830,4.8,13,Tihar,True
+610,Allen Solly Kurta #610,Fashion,Kurta,Allen Solly,15000,3.8,772,Tihar,True
+611,Vivo Headphones #611,Electronics,Headphones,Vivo,150000,2.8,18,Dashain,True
+612,Generic Outdoor Gear #612,Sports & Fitness,Outdoor Gear,Generic,27466,3.5,18,Dashain,True
+613,Wrangler Kurta #613,Fashion,Kurta,Wrangler,3596,4.6,102,Tihar,False
+614,Nivea Sunscreen #614,Beauty & Personal Care,Sunscreen,Nivea,3024,4.8,25,Tihar,True
+615,Anker Screen Protectors #615,Phone Accessories,Screen Protectors,Anker,3566,4.4,34,Dashain,True
+616,Generic Power Banks #616,Phone Accessories,Power Banks,Generic,4546,3.4,422,Dashain,True
+617,Milton Cookware #617,Home & Kitchen,Cookware,Milton,16340,3.8,87,Dashain,True
+618,Samsung Laptops #618,Electronics,Laptops,Samsung,20532,3.5,4,Dashain,True
+619,HP Cameras #619,Electronics,Cameras,HP,82219,4.9,92,Dashain,True
+620,Yonex Yoga #620,Sports & Fitness,Yoga,Yonex,24505,3.7,586,Dashain,True
+621,Tefal Decor #621,Home & Kitchen,Decor,Tefal,14832,4.2,86,Dashain,False
+622,Milton Cookware #622,Home & Kitchen,Cookware,Milton,9805,4.3,36,Dashain,True
+623,Biotique Makeup #623,Beauty & Personal Care,Makeup,Biotique,2546,4.7,327,Tihar,True
+624,Anker Chargers #624,Phone Accessories,Chargers,Anker,6000,4.5,73,Dashain,True
+625,Zara Ethnic Wear #625,Fashion,Ethnic Wear,Zara,7316,3.4,179,Tihar,True
+626,Oppo Headphones #626,Electronics,Headphones,Oppo,98048,3.8,56,Dashain,True
+627,Anker Screen Protectors #627,Phone Accessories,Screen Protectors,Anker,6000,4.4,272,Dashain,True
+628,Garnier Makeup #628,Beauty & Personal Care,Makeup,Garnier,2616,3.7,208,Tihar,True
+629,Vivo Cameras #629,Electronics,Cameras,Vivo,135072,3.8,220,Dashain,False
+630,Allen Solly Saree #630,Fashion,Saree,Allen Solly,7915,3.7,64,Tihar,True
+631,Baseus Chargers #631,Phone Accessories,Chargers,Baseus,2217,4.0,1167,Dashain,True
+632,Cottonworld Jackets #632,Fashion,Jackets,Cottonworld,5282,3.8,88,Tihar,True
+633,Cottonworld Kurtis #633,Fashion,Kurtis,Cottonworld,10647,4.3,19,Tihar,True
+634,Himalaya Haircare #634,Beauty & Personal Care,Haircare,Himalaya,1779,4.5,142,Tihar,True
+635,Belkin Stands #635,Phone Accessories,Stands,Belkin,2907,4.5,486,Dashain,True
+636,Levi's Jeans #636,Fashion,Jeans,Levi's,4499,4.2,100,Tihar,True
+637,Zara Kurtis #637,Fashion,Kurtis,Zara,15000,4.8,181,Tihar,True
+638,Generic Cricket #638,Sports & Fitness,Cricket,Generic,8612,3.8,23,Dashain,False
+639,HP Tablets #639,Electronics,Tablets,HP,130209,4.2,28,Dashain,True
+640,HP Cameras #640,Electronics,Cameras,HP,86309,4.6,106,Dashain,True
+641,Nepali Designs Ethnic Wear #641,Fashion,Ethnic Wear,Nepali Designs,8832,4.9,69,Tihar,True
+642,Belkin Power Banks #642,Phone Accessories,Power Banks,Belkin,6000,4.5,16,Dashain,True
+643,Prestige Decor #643,Home & Kitchen,Decor,Prestige,6962,3.8,13,Dashain,True
+644,Samsung Smart Watches #644,Electronics,Smart Watches,Samsung,112106,4.4,47,Dashain,True
+645,Wrangler Ethnic Wear #645,Fashion,Ethnic Wear,Wrangler,11139,4.6,49,Tihar,True
+646,Cottonworld Kurta #646,Fashion,Kurta,Cottonworld,6843,4.7,72,Tihar,True
+647,Anker Chargers #647,Phone Accessories,Chargers,Anker,2902,4.3,45,Dashain,True
+648,Vivo Smart Watches #648,Electronics,Smart Watches,Vivo,67780,4.3,354,Dashain,True
+649,Pigeon Bedding #649,Home & Kitchen,Bedding,Pigeon,7492,3.8,304,Dashain,True
+650,Generic Earbuds #650,Phone Accessories,Earbuds,Generic,4414,4.6,96,Dashain,True
+651,OnePlus Smart Watches #651,Electronics,Smart Watches,OnePlus,63104,3.0,15,Dashain,True
+652,Nepali Designs T-Shirts #652,Fashion,T-Shirts,Nepali Designs,5891,3.7,333,Tihar,True
+653,Dell Laptops #653,Electronics,Laptops,Dell,82570,4.8,57,Dashain,True
+654,Nivia Outdoor Gear #654,Sports & Fitness,Outdoor Gear,Nivia,8453,4.3,222,Dashain,True
+655,Vivo Cameras #655,Electronics,Cameras,Vivo,104401,4.3,25,Dashain,True
+656,Mamaearth Perfume #656,Beauty & Personal Care,Perfume,Mamaearth,3112,3.7,11,Tihar,True
+657,Wrangler T-Shirts #657,Fashion,T-Shirts,Wrangler,10169,4.8,389,Tihar,True
+658,Nivea Skincare #658,Beauty & Personal Care,Skincare,Nivea,7261,2.7,32,Tihar,True
+659,Allen Solly Jeans #659,Fashion,Jeans,Allen Solly,7756,3.2,353,Tihar,False
+660,Prestige Cleaning #660,Home & Kitchen,Cleaning,Prestige,6625,2.9,29,Dashain,True
+661,Ugreen Stands #661,Phone Accessories,Stands,Ugreen,1153,4.0,8,Dashain,True
+662,Himalaya Men's Grooming #662,Beauty & Personal Care,Men's Grooming,Himalaya,6617,3.5,174,Tihar,True
+663,Nivea Sunscreen #663,Beauty & Personal Care,Sunscreen,Nivea,4273,4.7,60,Tihar,True
+664,Wrangler T-Shirts #664,Fashion,T-Shirts,Wrangler,3106,4.0,50,Tihar,True
+665,Zara T-Shirts #665,Fashion,T-Shirts,Zara,15000,4.1,30,Tihar,True
+666,Vivo Laptops #666,Electronics,Laptops,Vivo,29138,3.6,212,Dashain,True
+667,Local Storage #667,Home & Kitchen,Storage,Local,16569,3.3,73,Dashain,False
+668,Tefal Air Purifiers #668,Home & Kitchen,Air Purifiers,Tefal,5262,4.0,22,Dashain,True
+669,Levi's Kurta #669,Fashion,Kurta,Levi's,10871,2.7,60,Tihar,True
+670,Cosco Outdoor Gear #670,Sports & Fitness,Outdoor Gear,Cosco,8495,4.6,228,Dashain,True
+671,Zara Jackets #671,Fashion,Jackets,Zara,4027,2.8,64,Tihar,False
+672,Prestige Bedding #672,Home & Kitchen,Bedding,Prestige,10515,4.4,57,Dashain,True
+673,Asus Speakers #673,Electronics,Speakers,Asus,150000,4.9,57,Dashain,True
+674,Wrangler Saree #674,Fashion,Saree,Wrangler,15000,4.9,22,Tihar,True
+675,Baseus Cases #675,Phone Accessories,Cases,Baseus,4800,4.3,486,Dashain,True
+676,Oppo Laptops #676,Electronics,Laptops,Oppo,64511,4.4,18,Dashain,True
+677,Biotique Skincare #677,Beauty & Personal Care,Skincare,Biotique,4437,3.8,2238,Tihar,True
+678,Realme Smartphones #678,Electronics,Smartphones,Realme,150000,4.3,89,Dashain,True
+679,Wrangler Saree #679,Fashion,Saree,Wrangler,3185,4.1,214,Tihar,True
+680,Samsung Cameras #680,Electronics,Cameras,Samsung,64015,3.6,227,Dashain,True
+681,Nepali Designs Kurtis #681,Fashion,Kurtis,Nepali Designs,13151,4.7,20,Tihar,False
+682,Apple Smartphones #682,Electronics,Smartphones,Apple,35930,3.9,4,Dashain,True
+683,Nepali Designs Jackets #683,Fashion,Jackets,Nepali Designs,8321,4.3,104,Tihar,True
+684,Xiaomi Cameras #684,Electronics,Cameras,Xiaomi,93605,4.4,50,Dashain,True
+685,Anker Stands #685,Phone Accessories,Stands,Anker,3510,4.1,333,Dashain,True
+686,Cottonworld Jackets #686,Fashion,Jackets,Cottonworld,6034,4.1,41,Tihar,True
+687,Asus Tablets #687,Electronics,Tablets,Asus,117473,3.4,121,Dashain,True
+688,Biotique Sunscreen #688,Beauty & Personal Care,Sunscreen,Biotique,1691,4.5,29,Tihar,True
+689,Himalaya Skincare #689,Beauty & Personal Care,Skincare,Himalaya,8000,2.9,223,Tihar,True
+690,Nivia Yoga #690,Sports & Fitness,Yoga,Nivia,21802,4.5,271,Dashain,False
+691,Levi's Kurta #691,Fashion,Kurta,Levi's,11691,4.4,425,Tihar,True
+692,Realme Speakers #692,Electronics,Speakers,Realme,38178,3.9,48,Dashain,True
+693,Local Storage #693,Home & Kitchen,Storage,Local,24528,4.9,271,Dashain,True
+694,Nepali Designs Saree #694,Fashion,Saree,Nepali Designs,14891,4.4,33,Tihar,True
+695,Allen Solly Kurtis #695,Fashion,Kurtis,Allen Solly,7660,3.8,151,Tihar,True
+696,Apple Headphones #696,Electronics,Headphones,Apple,24825,3.7,115,Dashain,True
+697,Himalaya Men's Grooming #697,Beauty & Personal Care,Men's Grooming,Himalaya,1726,4.6,13,Tihar,True
+698,OnePlus Headphones #698,Electronics,Headphones,OnePlus,48292,3.7,21,Dashain,True
+699,Belkin Power Banks #699,Phone Accessories,Power Banks,Belkin,1470,4.4,203,Dashain,False
+700,Apple Tablets #700,Electronics,Tablets,Apple,42310,4.6,36,Dashain,True
+701,Tefal Decor #701,Home & Kitchen,Decor,Tefal,8043,3.9,726,Dashain,True
+702,Pigeon Decor #702,Home & Kitchen,Decor,Pigeon,15819,4.1,296,Dashain,True
+703,Nivea Skincare #703,Beauty & Personal Care,Skincare,Nivea,5251,4.7,111,Tihar,True
+704,Prestige Decor #704,Home & Kitchen,Decor,Prestige,9225,3.6,160,Dashain,True
+705,Belkin Earbuds #705,Phone Accessories,Earbuds,Belkin,3326,4.3,21,Dashain,True
+706,Generic Gym Equipment #706,Sports & Fitness,Gym Equipment,Generic,25417,4.6,32,Dashain,True
+707,Prestige Bedding #707,Home & Kitchen,Bedding,Prestige,15317,4.3,612,Dashain,True
+708,Wrangler Kurtis #708,Fashion,Kurtis,Wrangler,7261,4.1,38,Tihar,True
+709,Anker Chargers #709,Phone Accessories,Chargers,Anker,2534,4.6,37,Dashain,True
+710,Asus Cameras #710,Electronics,Cameras,Asus,53133,3.7,76,Dashain,True
+711,Baseus Chargers #711,Phone Accessories,Chargers,Baseus,6000,4.1,76,Dashain,False
+712,Nivea Haircare #712,Beauty & Personal Care,Haircare,Nivea,5968,3.9,27,Tihar,True
+713,Vivo Smart Watches #713,Electronics,Smart Watches,Vivo,138689,4.5,41,Dashain,True
+714,Ugreen Screen Protectors #714,Phone Accessories,Screen Protectors,Ugreen,1943,4.8,21,Dashain,True
+715,Generic Outdoor Gear #715,Sports & Fitness,Outdoor Gear,Generic,30000,4.5,473,Dashain,True
+716,Vivo Cameras #716,Electronics,Cameras,Vivo,145118,4.2,46,Dashain,True
+717,Levi's Jeans #717,Fashion,Jeans,Levi's,4238,3.5,72,Tihar,True
+718,Xiaomi Tablets #718,Electronics,Tablets,Xiaomi,107649,4.3,80,Dashain,True
+719,Zara Shoes #719,Fashion,Shoes,Zara,1733,4.3,42,Tihar,False
+720,Biotique Sunscreen #720,Beauty & Personal Care,Sunscreen,Biotique,1936,3.6,310,Tihar,True
+721,Himalaya Makeup #721,Beauty & Personal Care,Makeup,Himalaya,2076,3.6,182,Tihar,True
+722,Pigeon Air Purifiers #722,Home & Kitchen,Air Purifiers,Pigeon,6122,3.5,9,Dashain,True
+723,Milton Bedding #723,Home & Kitchen,Bedding,Milton,5681,4.8,37,Dashain,False
+724,Wrangler Ethnic Wear #724,Fashion,Ethnic Wear,Wrangler,6838,4.9,48,Tihar,True
+725,Belkin Stands #725,Phone Accessories,Stands,Belkin,1072,4.5,48,Dashain,True
+726,Himalaya Perfume #726,Beauty & Personal Care,Perfume,Himalaya,2571,3.9,13,Tihar,True
+727,Dove Men's Grooming #727,Beauty & Personal Care,Men's Grooming,Dove,2441,4.4,43,Tihar,True
+728,Cottonworld Kurta #728,Fashion,Kurta,Cottonworld,8189,4.2,5,Tihar,True
+729,Vivo Tablets #729,Electronics,Tablets,Vivo,129728,4.7,57,Dashain,True
+730,Levi's Jackets #730,Fashion,Jackets,Levi's,5561,4.6,54,Tihar,True
+731,HP Tablets #731,Electronics,Tablets,HP,33872,4.9,72,Dashain,True
+732,Oppo Smart Watches #732,Electronics,Smart Watches,Oppo,72683,5.0,50,Dashain,True
+733,Oppo Headphones #733,Electronics,Headphones,Oppo,80128,4.5,102,Dashain,True
+734,Wrangler Ethnic Wear #734,Fashion,Ethnic Wear,Wrangler,4605,4.6,47,Tihar,True
+735,Nivia Gym Equipment #735,Sports & Fitness,Gym Equipment,Nivia,22839,4.8,50,Dashain,True
+736,Levi's Kurta #736,Fashion,Kurta,Levi's,15000,4.8,4,Tihar,True
+737,Dove Skincare #737,Beauty & Personal Care,Skincare,Dove,6566,4.4,213,Tihar,True
+738,Nepali Designs Jeans #738,Fashion,Jeans,Nepali Designs,15000,3.0,22,Tihar,True
+739,Himalaya Sunscreen #739,Beauty & Personal Care,Sunscreen,Himalaya,2095,4.2,181,Tihar,True
+740,Levi's Shoes #740,Fashion,Shoes,Levi's,12370,4.3,108,Tihar,True
+741,Wrangler Saree #741,Fashion,Saree,Wrangler,9046,4.9,8,Tihar,False
+742,Dell Laptops #742,Electronics,Laptops,Dell,20316,3.9,78,Dashain,True
+743,Belkin Stands #743,Phone Accessories,Stands,Belkin,4734,4.2,22,Dashain,True
+744,Samsung Smartphones #744,Electronics,Smartphones,Samsung,45382,4.3,7,Dashain,True
+745,Milton Cleaning #745,Home & Kitchen,Cleaning,Milton,20972,3.8,21,Dashain,True
+746,Samsung Smartphones #746,Electronics,Smartphones,Samsung,38151,3.9,63,Dashain,True
+747,Nivia Outdoor Gear #747,Sports & Fitness,Outdoor Gear,Nivia,15729,4.6,220,Dashain,True
+748,Milton Decor #748,Home & Kitchen,Decor,Milton,8931,4.5,9,Dashain,True
+749,Levi's T-Shirts #749,Fashion,T-Shirts,Levi's,3711,3.9,96,Tihar,True
+750,Nivia Cricket #750,Sports & Fitness,Cricket,Nivia,8064,3.7,4,Dashain,True
+751,Belkin Cables #751,Phone Accessories,Cables,Belkin,6000,4.9,83,Dashain,True
+752,Levi's Ethnic Wear #752,Fashion,Ethnic Wear,Levi's,15000,4.4,11,Tihar,True
+753,Biotique Sunscreen #753,Beauty & Personal Care,Sunscreen,Biotique,2333,3.6,6,Tihar,True
+754,Cosco Badminton #754,Sports & Fitness,Badminton,Cosco,10013,4.6,54,Dashain,True
+755,Allen Solly Saree #755,Fashion,Saree,Allen Solly,8331,4.6,24,Tihar,True
+756,Yonex Football #756,Sports & Fitness,Football,Yonex,13935,3.4,187,Dashain,True
+757,Nivea Sunscreen #757,Beauty & Personal Care,Sunscreen,Nivea,8000,4.7,47,Tihar,True
+758,Realme Laptops #758,Electronics,Laptops,Realme,76214,3.4,13,Dashain,True
+759,Xiaomi Tablets #759,Electronics,Tablets,Xiaomi,84327,4.6,26,Dashain,True
+760,Mamaearth Perfume #760,Beauty & Personal Care,Perfume,Mamaearth,3764,3.4,309,Tihar,False
+761,Cosco Badminton #761,Sports & Fitness,Badminton,Cosco,30000,4.1,23,Dashain,True
+762,Generic Cases #762,Phone Accessories,Cases,Generic,3201,4.2,10,Dashain,True
+763,Apple Smartphones #763,Electronics,Smartphones,Apple,57986,4.1,68,Dashain,True
+764,Loreal Haircare #764,Beauty & Personal Care,Haircare,Loreal,3333,4.0,5,Tihar,True
+765,Loreal Haircare #765,Beauty & Personal Care,Haircare,Loreal,1704,4.8,5,Tihar,True
+766,Belkin Chargers #766,Phone Accessories,Chargers,Belkin,4338,4.6,34,Dashain,True
+767,Allen Solly Jeans #767,Fashion,Jeans,Allen Solly,4554,4.1,28,Tihar,True
+768,Dove Haircare #768,Beauty & Personal Care,Haircare,Dove,7146,4.1,279,Tihar,True
+769,Levi's Kurtis #769,Fashion,Kurtis,Levi's,6393,3.3,11,Tihar,True
+770,Generic Yoga #770,Sports & Fitness,Yoga,Generic,16898,4.1,66,Dashain,True
+771,Belkin Stands #771,Phone Accessories,Stands,Belkin,3597,4.2,356,Dashain,True
+772,Allen Solly Shoes #772,Fashion,Shoes,Allen Solly,7095,4.0,292,Tihar,True
+773,Wrangler Kurta #773,Fashion,Kurta,Wrangler,6138,2.8,3,Tihar,True
+774,Dell Cameras #774,Electronics,Cameras,Dell,150000,4.5,21,Dashain,True
+775,Dell Tablets #775,Electronics,Tablets,Dell,44970,4.7,196,Dashain,True
+776,Biotique Skincare #776,Beauty & Personal Care,Skincare,Biotique,3982,4.2,65,Tihar,True
+777,Levi's Jeans #777,Fashion,Jeans,Levi's,3755,4.6,60,Tihar,True
+778,Vector X Badminton #778,Sports & Fitness,Badminton,Vector X,15640,3.8,18,Dashain,True
+779,Wrangler Jeans #779,Fashion,Jeans,Wrangler,5985,4.6,17,Tihar,True
+780,Realme Cameras #780,Electronics,Cameras,Realme,113996,3.9,18,Dashain,True
+781,Generic Gym Equipment #781,Sports & Fitness,Gym Equipment,Generic,7978,3.8,30,Dashain,True
+782,HP Smart Watches #782,Electronics,Smart Watches,HP,79954,3.8,1314,Dashain,True
+783,Anker Cases #783,Phone Accessories,Cases,Anker,1940,4.5,52,Dashain,True
+784,Ugreen Stands #784,Phone Accessories,Stands,Ugreen,847,4.6,12,Dashain,False
+785,Ugreen Stands #785,Phone Accessories,Stands,Ugreen,2575,4.6,903,Dashain,True
+786,Vector X Football #786,Sports & Fitness,Football,Vector X,23080,4.7,68,Dashain,True
+787,Pigeon Cookware #787,Home & Kitchen,Cookware,Pigeon,25000,4.4,125,Dashain,True
+788,Prestige Bedding #788,Home & Kitchen,Bedding,Prestige,6648,3.7,191,Dashain,True
+789,Local Cleaning #789,Home & Kitchen,Cleaning,Local,6678,4.1,11,Dashain,True
+790,Cottonworld Saree #790,Fashion,Saree,Cottonworld,14502,4.5,12,Tihar,True
+791,Local Cleaning #791,Home & Kitchen,Cleaning,Local,15766,3.7,140,Dashain,True
+792,Nepali Designs Jackets #792,Fashion,Jackets,Nepali Designs,15000,4.1,33,Tihar,True
+793,Nivia Badminton #793,Sports & Fitness,Badminton,Nivia,14670,4.5,69,Dashain,True
+794,Prestige Cleaning #794,Home & Kitchen,Cleaning,Prestige,8395,4.4,318,Dashain,True
+795,Asus Smart Watches #795,Electronics,Smart Watches,Asus,121871,3.4,353,Dashain,True
+796,Dove Makeup #796,Beauty & Personal Care,Makeup,Dove,1950,4.0,5,Tihar,True
+797,Samsung Smartphones #797,Electronics,Smartphones,Samsung,63166,4.1,30,Dashain,True
+798,Nepali Designs Shoes #798,Fashion,Shoes,Nepali Designs,10014,4.3,117,Tihar,True
+799,Levi's Jackets #799,Fashion,Jackets,Levi's,15000,4.3,77,Tihar,False
+800,Baseus Chargers #800,Phone Accessories,Chargers,Baseus,1388,3.3,142,Dashain,True
+801,Realme Laptops #801,Electronics,Laptops,Realme,20565,4.4,44,Dashain,True
+802,Zara Shoes #802,Fashion,Shoes,Zara,5662,4.1,25,Tihar,False
+803,Anker Cases #803,Phone Accessories,Cases,Anker,1771,3.9,515,Dashain,True
+804,Apple Cameras #804,Electronics,Cameras,Apple,38251,4.6,541,Dashain,True
+805,Generic Stands #805,Phone Accessories,Stands,Generic,1997,3.6,65,Dashain,True
+806,Allen Solly T-Shirts #806,Fashion,T-Shirts,Allen Solly,6713,4.5,80,Tihar,True
+807,Nepali Designs Jeans #807,Fashion,Jeans,Nepali Designs,11126,4.2,17,Tihar,True
+808,Oppo Smart Watches #808,Electronics,Smart Watches,Oppo,36716,4.2,139,Dashain,True
+809,Biotique Skincare #809,Beauty & Personal Care,Skincare,Biotique,4078,2.8,26,Tihar,True
+810,Garnier Perfume #810,Beauty & Personal Care,Perfume,Garnier,3785,4.8,3,Tihar,True
+811,Samsung Headphones #811,Electronics,Headphones,Samsung,86651,4.0,6,Dashain,True
+812,Samsung Smartphones #812,Electronics,Smartphones,Samsung,150000,4.5,102,Dashain,False
+813,Generic Football #813,Sports & Fitness,Football,Generic,18184,3.6,304,Dashain,True
+814,Ugreen Screen Protectors #814,Phone Accessories,Screen Protectors,Ugreen,2107,4.7,79,Dashain,True
+815,Asus Cameras #815,Electronics,Cameras,Asus,124201,3.8,69,Dashain,True
+816,Pigeon Bedding #816,Home & Kitchen,Bedding,Pigeon,8132,4.7,58,Dashain,True
+817,Loreal Skincare #817,Beauty & Personal Care,Skincare,Loreal,3506,4.5,18,Tihar,True
+818,Cosco Gym Equipment #818,Sports & Fitness,Gym Equipment,Cosco,14496,3.6,117,Dashain,True
+819,Generic Earbuds #819,Phone Accessories,Earbuds,Generic,5570,4.7,21,Dashain,True
+820,Dove Perfume #820,Beauty & Personal Care,Perfume,Dove,6429,4.6,22,Tihar,True
+821,Dove Sunscreen #821,Beauty & Personal Care,Sunscreen,Dove,2446,4.2,26,Tihar,True
+822,Biotique Skincare #822,Beauty & Personal Care,Skincare,Biotique,3846,4.5,60,Tihar,True
+823,Samsung Cameras #823,Electronics,Cameras,Samsung,37761,3.9,78,Dashain,True
+824,Mamaearth Perfume #824,Beauty & Personal Care,Perfume,Mamaearth,8000,4.0,52,Tihar,False
+825,Pigeon Decor #825,Home & Kitchen,Decor,Pigeon,18371,4.6,124,Dashain,True
+826,Zara Ethnic Wear #826,Fashion,Ethnic Wear,Zara,5149,4.4,55,Tihar,True
+827,Local Decor #827,Home & Kitchen,Decor,Local,6663,4.2,21,Dashain,True
+828,Wrangler Kurta #828,Fashion,Kurta,Wrangler,8151,3.6,6,Tihar,True
+829,Loreal Perfume #829,Beauty & Personal Care,Perfume,Loreal,4516,4.0,27,Tihar,True
+830,Allen Solly Shoes #830,Fashion,Shoes,Allen Solly,15000,4.6,96,Tihar,True
+831,HP Laptops #831,Electronics,Laptops,HP,58850,4.8,26,Dashain,True
+832,Wrangler Ethnic Wear #832,Fashion,Ethnic Wear,Wrangler,13367,4.5,206,Tihar,True
+833,Garnier Haircare #833,Beauty & Personal Care,Haircare,Garnier,1876,3.9,137,Tihar,True
+834,Generic Gym Equipment #834,Sports & Fitness,Gym Equipment,Generic,11595,4.8,147,Dashain,True
+835,Realme Smartphones #835,Electronics,Smartphones,Realme,46245,4.5,22,Dashain,True
+836,Vivo Cameras #836,Electronics,Cameras,Vivo,107164,4.3,11,Dashain,True
+837,Prestige Cleaning #837,Home & Kitchen,Cleaning,Prestige,25000,4.1,19,Dashain,True
+838,Cosco Gym Equipment #838,Sports & Fitness,Gym Equipment,Cosco,14883,4.5,48,Dashain,False
+839,Prestige Cookware #839,Home & Kitchen,Cookware,Prestige,8602,4.6,25,Dashain,True
+840,Anker Cases #840,Phone Accessories,Cases,Anker,3344,3.7,25,Dashain,True
+841,Levi's Kurtis #841,Fashion,Kurtis,Levi's,12964,4.4,115,Tihar,True
+842,Loreal Makeup #842,Beauty & Personal Care,Makeup,Loreal,3627,4.1,20,Tihar,False
+843,Ugreen Chargers #843,Phone Accessories,Chargers,Ugreen,2931,4.7,5,Dashain,True
+844,Anker Earbuds #844,Phone Accessories,Earbuds,Anker,4204,3.5,44,Dashain,False
+845,Anker Chargers #845,Phone Accessories,Chargers,Anker,3656,3.8,29,Dashain,True
+846,Yonex Badminton #846,Sports & Fitness,Badminton,Yonex,7854,4.4,12,Dashain,True
+847,Dove Perfume #847,Beauty & Personal Care,Perfume,Dove,3164,3.4,133,Tihar,True
+848,Dove Skincare #848,Beauty & Personal Care,Skincare,Dove,2595,4.8,42,Tihar,True
+849,Apple Smartphones #849,Electronics,Smartphones,Apple,150000,3.8,292,Dashain,True
+850,Local Bedding #850,Home & Kitchen,Bedding,Local,25000,4.6,66,Dashain,True
+851,Nepali Designs Saree #851,Fashion,Saree,Nepali Designs,10436,4.6,126,Tihar,True
+852,Levi's Shoes #852,Fashion,Shoes,Levi's,6275,3.8,81,Tihar,True
+853,Ugreen Power Banks #853,Phone Accessories,Power Banks,Ugreen,6000,4.4,53,Dashain,True
+854,Local Bedding #854,Home & Kitchen,Bedding,Local,25000,3.7,14,Dashain,True
+855,Realme Headphones #855,Electronics,Headphones,Realme,150000,4.3,6,Dashain,True
+856,Ugreen Earbuds #856,Phone Accessories,Earbuds,Ugreen,2958,3.3,38,Dashain,True
+857,Generic Cricket #857,Sports & Fitness,Cricket,Generic,12035,4.6,757,Dashain,True
+858,Apple Smart Watches #858,Electronics,Smart Watches,Apple,35245,4.6,65,Dashain,True
+859,Milton Cookware #859,Home & Kitchen,Cookware,Milton,22408,4.5,350,Dashain,True
+860,Dove Perfume #860,Beauty & Personal Care,Perfume,Dove,1362,4.7,58,Tihar,True
+861,Allen Solly Kurtis #861,Fashion,Kurtis,Allen Solly,15000,3.2,29,Tihar,True
+862,Levi's Jeans #862,Fashion,Jeans,Levi's,6783,4.8,2,Tihar,False
+863,Generic Screen Protectors #863,Phone Accessories,Screen Protectors,Generic,5209,3.9,204,Dashain,True
+864,OnePlus Laptops #864,Electronics,Laptops,OnePlus,96637,4.6,156,Dashain,True
+865,Local Air Purifiers #865,Home & Kitchen,Air Purifiers,Local,17106,3.6,39,Dashain,True
+866,Prestige Storage #866,Home & Kitchen,Storage,Prestige,13255,3.7,33,Dashain,True
+867,Cosco Cricket #867,Sports & Fitness,Cricket,Cosco,10538,4.5,130,Dashain,True
+868,Realme Smartphones #868,Electronics,Smartphones,Realme,88976,3.6,7,Dashain,True
+869,Zara Kurtis #869,Fashion,Kurtis,Zara,11842,3.7,27,Tihar,True
+870,Asus Speakers #870,Electronics,Speakers,Asus,40431,4.0,4,Dashain,True
+871,Loreal Skincare #871,Beauty & Personal Care,Skincare,Loreal,2789,4.8,103,Tihar,True
+872,Baseus Power Banks #872,Phone Accessories,Power Banks,Baseus,3107,3.5,86,Dashain,True
+873,OnePlus Headphones #873,Electronics,Headphones,OnePlus,52737,4.3,251,Dashain,True
+874,Yonex Badminton #874,Sports & Fitness,Badminton,Yonex,13271,4.1,423,Dashain,True
+875,Prestige Bedding #875,Home & Kitchen,Bedding,Prestige,25000,4.7,48,Dashain,True
+876,OnePlus Smartphones #876,Electronics,Smartphones,OnePlus,104055,4.5,432,Dashain,True
+877,Yonex Badminton #877,Sports & Fitness,Badminton,Yonex,17487,4.1,99,Dashain,True
+878,Samsung Cameras #878,Electronics,Cameras,Samsung,150000,4.6,144,Dashain,True
+879,Belkin Stands #879,Phone Accessories,Stands,Belkin,4042,4.7,13,Dashain,True
+880,Nepali Designs Ethnic Wear #880,Fashion,Ethnic Wear,Nepali Designs,15000,4.1,56,Tihar,False
+881,Levi's T-Shirts #881,Fashion,T-Shirts,Levi's,15000,4.2,107,Tihar,True
+882,Dell Laptops #882,Electronics,Laptops,Dell,80931,4.1,42,Dashain,True
+883,Yonex Yoga #883,Sports & Fitness,Yoga,Yonex,14419,4.7,151,Dashain,True
+884,Samsung Smart Watches #884,Electronics,Smart Watches,Samsung,150000,3.1,26,Dashain,True
+885,Milton Air Purifiers #885,Home & Kitchen,Air Purifiers,Milton,6838,3.7,102,Dashain,False
+886,Cottonworld T-Shirts #886,Fashion,T-Shirts,Cottonworld,6755,4.5,211,Tihar,False
+887,Wrangler Shoes #887,Fashion,Shoes,Wrangler,2886,4.7,15,Tihar,True
+888,Ugreen Earbuds #888,Phone Accessories,Earbuds,Ugreen,3799,3.5,48,Dashain,True
+889,Generic Cricket #889,Sports & Fitness,Cricket,Generic,24778,3.8,156,Dashain,True
+890,Wrangler Saree #890,Fashion,Saree,Wrangler,5687,4.4,68,Tihar,True
+891,Zara Shoes #891,Fashion,Shoes,Zara,5791,4.3,395,Tihar,True
+892,Generic Stands #892,Phone Accessories,Stands,Generic,3162,4.2,88,Dashain,False
+893,Yonex Football #893,Sports & Fitness,Football,Yonex,10966,4.6,96,Dashain,True
+894,Baseus Stands #894,Phone Accessories,Stands,Baseus,2130,3.5,15,Dashain,False
+895,Apple Speakers #895,Electronics,Speakers,Apple,46244,4.6,89,Dashain,True
+896,Himalaya Men's Grooming #896,Beauty & Personal Care,Men's Grooming,Himalaya,2040,4.3,17,Tihar,True
+897,Ugreen Cables #897,Phone Accessories,Cables,Ugreen,3829,3.5,62,Dashain,True
+898,Yonex Badminton #898,Sports & Fitness,Badminton,Yonex,6269,4.2,171,Dashain,True
+899,Biotique Perfume #899,Beauty & Personal Care,Perfume,Biotique,2459,3.0,35,Tihar,True
+900,Biotique Sunscreen #900,Beauty & Personal Care,Sunscreen,Biotique,1773,4.9,108,Tihar,True
+901,Vivo Speakers #901,Electronics,Speakers,Vivo,58029,4.6,45,Dashain,True
+902,Xiaomi Headphones #902,Electronics,Headphones,Xiaomi,99620,3.7,34,Dashain,True
+903,Himalaya Perfume #903,Beauty & Personal Care,Perfume,Himalaya,8000,3.4,31,Tihar,True
+904,Realme Tablets #904,Electronics,Tablets,Realme,118042,3.9,17,Dashain,False
+905,Loreal Haircare #905,Beauty & Personal Care,Haircare,Loreal,3337,4.7,118,Tihar,True
+906,Vector X Cricket #906,Sports & Fitness,Cricket,Vector X,11587,3.0,55,Dashain,True
+907,Levi's Jeans #907,Fashion,Jeans,Levi's,6217,3.8,34,Tihar,True
+908,Milton Cleaning #908,Home & Kitchen,Cleaning,Milton,19542,4.0,46,Dashain,True
+909,Cottonworld Shoes #909,Fashion,Shoes,Cottonworld,6210,4.6,44,Tihar,False
+910,Prestige Decor #910,Home & Kitchen,Decor,Prestige,21819,4.5,22,Dashain,True
+911,Allen Solly Jackets #911,Fashion,Jackets,Allen Solly,7888,4.8,66,Tihar,True
+912,Milton Bedding #912,Home & Kitchen,Bedding,Milton,2469,3.6,134,Dashain,True
+913,Local Air Purifiers #913,Home & Kitchen,Air Purifiers,Local,12187,3.4,27,Dashain,True
+914,Baseus Cases #914,Phone Accessories,Cases,Baseus,3680,4.8,5,Dashain,True
+915,Generic Chargers #915,Phone Accessories,Chargers,Generic,6000,3.8,399,Dashain,True
+916,Ugreen Cables #916,Phone Accessories,Cables,Ugreen,6000,4.8,266,Dashain,False
+917,Ugreen Stands #917,Phone Accessories,Stands,Ugreen,1551,4.7,111,Dashain,False
+918,Xiaomi Speakers #918,Electronics,Speakers,Xiaomi,150000,3.2,116,Dashain,True
+919,Tefal Decor #919,Home & Kitchen,Decor,Tefal,25000,4.3,37,Dashain,True
+920,Asus Smartphones #920,Electronics,Smartphones,Asus,48728,3.8,29,Dashain,False
+921,Asus Smartphones #921,Electronics,Smartphones,Asus,42451,4.8,48,Dashain,True
+922,Vector X Gym Equipment #922,Sports & Fitness,Gym Equipment,Vector X,30000,3.9,25,Dashain,True
+923,Vivo Cameras #923,Electronics,Cameras,Vivo,36776,4.1,311,Dashain,True
+924,Himalaya Haircare #924,Beauty & Personal Care,Haircare,Himalaya,2281,4.0,37,Tihar,True
+925,Oppo Smartphones #925,Electronics,Smartphones,Oppo,77197,3.7,33,Dashain,True
+926,Allen Solly Jeans #926,Fashion,Jeans,Allen Solly,8530,4.6,31,Tihar,True
+927,Generic Badminton #927,Sports & Fitness,Badminton,Generic,17889,3.6,45,Dashain,True
+928,Nivia Cricket #928,Sports & Fitness,Cricket,Nivia,29256,4.2,5,Dashain,True
+929,Garnier Perfume #929,Beauty & Personal Care,Perfume,Garnier,1679,4.5,53,Tihar,True
+930,Allen Solly Jackets #930,Fashion,Jackets,Allen Solly,3174,3.8,93,Tihar,True
+931,Belkin Chargers #931,Phone Accessories,Chargers,Belkin,2615,3.7,44,Dashain,True
+932,Cosco Yoga #932,Sports & Fitness,Yoga,Cosco,25751,4.8,105,Dashain,False
+933,Xiaomi Tablets #933,Electronics,Tablets,Xiaomi,43002,4.3,142,Dashain,True
+934,Cottonworld Kurta #934,Fashion,Kurta,Cottonworld,5569,4.4,66,Tihar,True
+935,Nivia Outdoor Gear #935,Sports & Fitness,Outdoor Gear,Nivia,21427,4.0,6,Dashain,True
+936,Wrangler Saree #936,Fashion,Saree,Wrangler,14745,4.5,84,Tihar,True
+937,Baseus Cables #937,Phone Accessories,Cables,Baseus,2809,4.5,105,Dashain,True
+938,Zara Kurta #938,Fashion,Kurta,Zara,7070,4.0,79,Tihar,True
+939,Belkin Earbuds #939,Phone Accessories,Earbuds,Belkin,2041,3.3,41,Dashain,True
+940,Ugreen Earbuds #940,Phone Accessories,Earbuds,Ugreen,3329,3.3,18,Dashain,True
+941,Generic Gym Equipment #941,Sports & Fitness,Gym Equipment,Generic,6867,4.6,14,Dashain,True
+942,Pigeon Air Purifiers #942,Home & Kitchen,Air Purifiers,Pigeon,25000,4.8,19,Dashain,True
+943,OnePlus Smartphones #943,Electronics,Smartphones,OnePlus,44435,4.4,924,Dashain,True
+944,Prestige Bedding #944,Home & Kitchen,Bedding,Prestige,25000,4.6,10,Dashain,True
+945,Milton Air Purifiers #945,Home & Kitchen,Air Purifiers,Milton,8128,4.6,164,Dashain,True
+946,Dove Men's Grooming #946,Beauty & Personal Care,Men's Grooming,Dove,4525,4.3,48,Tihar,True
+947,Generic Cases #947,Phone Accessories,Cases,Generic,5175,4.8,59,Dashain,False
+948,HP Laptops #948,Electronics,Laptops,HP,114491,4.5,86,Dashain,True
+949,Wrangler Jeans #949,Fashion,Jeans,Wrangler,10079,4.7,15,Tihar,False
+950,Himalaya Men's Grooming #950,Beauty & Personal Care,Men's Grooming,Himalaya,3127,4.4,39,Tihar,True
+951,Biotique Skincare #951,Beauty & Personal Care,Skincare,Biotique,5405,4.5,908,Tihar,True
+952,Levi's Jeans #952,Fashion,Jeans,Levi's,15000,4.1,25,Tihar,True
+953,HP Laptops #953,Electronics,Laptops,HP,39922,4.3,67,Dashain,True
+954,Nivea Men's Grooming #954,Beauty & Personal Care,Men's Grooming,Nivea,3601,3.9,5,Tihar,True
+955,Wrangler Ethnic Wear #955,Fashion,Ethnic Wear,Wrangler,8708,4.5,48,Tihar,True
+956,Yonex Outdoor Gear #956,Sports & Fitness,Outdoor Gear,Yonex,3766,4.5,211,Dashain,True
+957,Levi's Jackets #957,Fashion,Jackets,Levi's,5081,4.6,49,Tihar,True
+958,HP Smartphones #958,Electronics,Smartphones,HP,50252,4.3,79,Dashain,True
+959,Ugreen Earbuds #959,Phone Accessories,Earbuds,Ugreen,1241,4.8,120,Dashain,True
+960,Belkin Chargers #960,Phone Accessories,Chargers,Belkin,2435,4.1,191,Dashain,False
+961,Nepali Designs Shoes #961,Fashion,Shoes,Nepali Designs,14179,4.5,26,Tihar,True
+962,Generic Cricket #962,Sports & Fitness,Cricket,Generic,11064,4.7,34,Dashain,False
+963,Anker Cases #963,Phone Accessories,Cases,Anker,1283,3.4,40,Dashain,True
+964,Loreal Makeup #964,Beauty & Personal Care,Makeup,Loreal,3927,4.8,37,Tihar,True
+965,Anker Chargers #965,Phone Accessories,Chargers,Anker,3254,4.4,59,Dashain,True
+966,Nivia Badminton #966,Sports & Fitness,Badminton,Nivia,9677,4.7,11,Dashain,True
+967,Biotique Skincare #967,Beauty & Personal Care,Skincare,Biotique,6545,4.6,148,Tihar,True
+968,HP Laptops #968,Electronics,Laptops,HP,38506,3.9,41,Dashain,True
+969,Local Cleaning #969,Home & Kitchen,Cleaning,Local,10135,3.4,146,Dashain,False
+970,Generic Stands #970,Phone Accessories,Stands,Generic,4494,4.7,140,Dashain,True
+971,HP Tablets #971,Electronics,Tablets,HP,60845,3.1,20,Dashain,True
+972,Himalaya Haircare #972,Beauty & Personal Care,Haircare,Himalaya,5711,4.3,59,Tihar,True
+973,Generic Stands #973,Phone Accessories,Stands,Generic,6000,4.3,644,Dashain,True
+974,Anker Cases #974,Phone Accessories,Cases,Anker,4481,4.1,81,Dashain,True
+975,Zara Ethnic Wear #975,Fashion,Ethnic Wear,Zara,10743,4.1,31,Tihar,True
+976,Wrangler Jeans #976,Fashion,Jeans,Wrangler,4109,4.2,7,Tihar,False
+977,Local Storage #977,Home & Kitchen,Storage,Local,25000,3.9,36,Dashain,True
+978,Generic Badminton #978,Sports & Fitness,Badminton,Generic,14681,4.8,213,Dashain,True
+979,Vivo Tablets #979,Electronics,Tablets,Vivo,148465,3.9,10,Dashain,True
+980,Dell Tablets #980,Electronics,Tablets,Dell,20161,4.0,172,Dashain,False
+981,Dove Men's Grooming #981,Beauty & Personal Care,Men's Grooming,Dove,5021,4.2,38,Tihar,True
+982,Vivo Smartphones #982,Electronics,Smartphones,Vivo,150000,4.8,451,Dashain,True
+983,Biotique Skincare #983,Beauty & Personal Care,Skincare,Biotique,4773,4.0,80,Tihar,True
+984,Generic Power Banks #984,Phone Accessories,Power Banks,Generic,2657,3.6,86,Dashain,True
+985,Tefal Cleaning #985,Home & Kitchen,Cleaning,Tefal,7817,4.2,16,Dashain,True
+986,OnePlus Headphones #986,Electronics,Headphones,OnePlus,87357,4.3,63,Dashain,False
+987,Oppo Laptops #987,Electronics,Laptops,Oppo,80727,4.6,79,Dashain,True
+988,Garnier Makeup #988,Beauty & Personal Care,Makeup,Garnier,8000,4.9,16,Tihar,True
+989,Cosco Cricket #989,Sports & Fitness,Cricket,Cosco,13553,3.2,97,Dashain,False
+990,HP Speakers #990,Electronics,Speakers,HP,27798,4.5,9,Dashain,True
+991,Tefal Storage #991,Home & Kitchen,Storage,Tefal,8775,4.0,41,Dashain,True
+992,Nivia Cricket #992,Sports & Fitness,Cricket,Nivia,30000,4.2,104,Dashain,True
+993,Garnier Sunscreen #993,Beauty & Personal Care,Sunscreen,Garnier,1237,4.6,15,Tihar,True
+994,Dove Perfume #994,Beauty & Personal Care,Perfume,Dove,4978,4.4,153,Tihar,True
+995,Nivea Perfume #995,Beauty & Personal Care,Perfume,Nivea,6632,4.7,76,Tihar,False
+996,Ugreen Cases #996,Phone Accessories,Cases,Ugreen,4697,4.7,224,Dashain,True
+997,Allen Solly Jeans #997,Fashion,Jeans,Allen Solly,8039,4.6,335,Tihar,True
+998,Yonex Outdoor Gear #998,Sports & Fitness,Outdoor Gear,Yonex,15344,4.7,125,Dashain,True
+999,Cosco Badminton #999,Sports & Fitness,Badminton,Cosco,11634,4.4,50,Dashain,True
+1000,Yonex Football #1000,Sports & Fitness,Football,Yonex,24591,3.3,41,Dashain,True

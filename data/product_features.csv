@@ -1,0 +1,1001 @@
+product_id,product_name,category,subcategory,brand,price_npr,rating,review_count,festival_relevance,in_stock,price_tier,popularity_count,view,wishlist,purchase,conversion_rate,category_enc,price_tier_enc,festival_enc
+1,Himalaya Perfume #1,Beauty & Personal Care,Perfume,Himalaya,5618,4.5,34,Tihar,False,Premium,461,397,59,36,0.09045226130653267,0,2,2
+2,Himalaya Sunscreen #2,Beauty & Personal Care,Sunscreen,Himalaya,5187,5.0,278,Tihar,True,Premium,477,395,63,38,0.09595959595959595,0,2,2
+3,Levi's Shoes #3,Fashion,Shoes,Levi's,4741,4.6,163,Tihar,False,Mid,360,295,43,38,0.12837837837837837,1,1,2
+4,Garnier Sunscreen #4,Beauty & Personal Care,Sunscreen,Garnier,6282,4.7,575,Tihar,True,Premium,440,375,39,39,0.10372340425531915,0,2,2
+5,Himalaya Perfume #5,Beauty & Personal Care,Perfume,Himalaya,4919,3.9,36,Tihar,True,Mid,446,388,46,34,0.08740359897172237,0,1,2
+6,Asus Smart Watches #6,Electronics,Smart Watches,Asus,83137,4.0,35,Dashain,True,Luxury,295,286,13,10,0.03484320557491289,2,3,1
+7,Biotique Men's Grooming #7,Beauty & Personal Care,Men's Grooming,Biotique,2638,4.5,9,Tihar,True,Mid,481,413,59,34,0.0821256038647343,0,1,2
+8,Generic Power Banks #8,Phone Accessories,Power Banks,Generic,5522,4.2,80,Dashain,True,Premium,402,329,55,35,0.10606060606060606,3,2,1
+9,Anker Earbuds #9,Phone Accessories,Earbuds,Anker,6000,4.3,417,Dashain,True,Premium,388,344,47,19,0.05507246376811594,3,2,1
+10,Apple Cameras #10,Electronics,Cameras,Apple,59865,4.2,28,Dashain,True,Luxury,325,323,9,2,0.006172839506172839,2,3,1
+11,Belkin Earbuds #11,Phone Accessories,Earbuds,Belkin,5105,4.6,11,Dashain,True,Premium,399,350,50,24,0.06837606837606838,3,2,1
+12,Oppo Smart Watches #12,Electronics,Smart Watches,Oppo,150000,3.6,13,Dashain,True,Luxury,301,305,8,4,0.013071895424836602,2,3,1
+13,Cosco Outdoor Gear #13,Sports & Fitness,Outdoor Gear,Cosco,15886,4.8,20,Dashain,True,Premium,587,498,75,47,0.09418837675350701,4,2,1
+14,Baseus Cables #14,Phone Accessories,Cables,Baseus,2058,2.7,10,Dashain,False,Mid,425,364,52,39,0.10684931506849316,3,1,1
+15,Nivea Haircare #15,Beauty & Personal Care,Haircare,Nivea,3371,4.4,31,Tihar,True,Mid,430,367,41,42,0.11413043478260869,0,1,2
+16,Cosco Gym Equipment #16,Sports & Fitness,Gym Equipment,Cosco,17342,4.6,40,Dashain,True,Premium,616,546,72,43,0.07861060329067641,4,2,1
+17,Samsung Speakers #17,Electronics,Speakers,Samsung,52846,4.9,30,Dashain,True,Luxury,310,301,10,11,0.03642384105960265,2,3,1
+18,Generic Chargers #18,Phone Accessories,Chargers,Generic,2245,4.3,11,Dashain,True,Mid,363,303,41,29,0.09539473684210527,3,1,1
+19,Xiaomi Cameras #19,Electronics,Cameras,Xiaomi,103059,3.9,56,Dashain,True,Luxury,327,325,7,9,0.027607361963190184,2,3,1
+20,Wrangler Jeans #20,Fashion,Jeans,Wrangler,4563,4.3,272,Tihar,True,Mid,439,383,40,32,0.08333333333333333,1,1,2
+21,Allen Solly Shoes #21,Fashion,Shoes,Allen Solly,2862,4.2,97,Tihar,True,Mid,397,329,55,35,0.10606060606060606,1,1,2
+22,Xiaomi Speakers #22,Electronics,Speakers,Xiaomi,121300,4.3,12,Dashain,True,Luxury,303,297,6,7,0.02348993288590604,2,3,1
+23,Asus Headphones #23,Electronics,Headphones,Asus,98005,4.0,355,Dashain,True,Luxury,297,288,9,12,0.04152249134948097,2,3,1
+24,Cottonworld Kurta #24,Fashion,Kurta,Cottonworld,8178,4.4,137,Tihar,True,Premium,398,334,57,32,0.0955223880597015,1,2,2
+25,Levi's Ethnic Wear #25,Fashion,Ethnic Wear,Levi's,5981,4.2,74,Tihar,True,Premium,418,358,44,36,0.10027855153203342,1,2,2
+26,Anker Screen Protectors #26,Phone Accessories,Screen Protectors,Anker,6000,4.4,34,Dashain,True,Premium,408,347,50,27,0.07758620689655173,3,2,1
+27,Anker Cases #27,Phone Accessories,Cases,Anker,6000,4.5,63,Dashain,True,Premium,405,351,40,27,0.07670454545454546,3,2,1
+28,Cosco Gym Equipment #28,Sports & Fitness,Gym Equipment,Cosco,20744,3.9,172,Dashain,True,Luxury,593,564,41,22,0.03893805309734513,4,3,1
+29,Dove Perfume #29,Beauty & Personal Care,Perfume,Dove,3477,4.2,169,Tihar,True,Mid,475,415,51,35,0.08413461538461539,0,1,2
+30,Belkin Cases #30,Phone Accessories,Cases,Belkin,6000,4.4,57,Dashain,True,Premium,390,338,43,30,0.08849557522123894,3,2,1
+31,Wrangler Shoes #31,Fashion,Shoes,Wrangler,3092,4.1,113,Tihar,True,Mid,397,341,39,34,0.09941520467836257,1,1,2
+32,Baseus Cables #32,Phone Accessories,Cables,Baseus,5121,4.2,64,Dashain,True,Premium,434,364,59,31,0.08493150684931507,3,2,1
+33,Oppo Tablets #33,Electronics,Tablets,Oppo,92204,3.9,105,Dashain,True,Luxury,327,323,9,10,0.030864197530864196,2,3,1
+34,Himalaya Skincare #34,Beauty & Personal Care,Skincare,Himalaya,5069,4.2,35,Tihar,True,Premium,429,366,47,33,0.08991825613079019,0,2,2
+35,Oppo Speakers #35,Electronics,Speakers,Oppo,85854,4.7,156,Dashain,True,Luxury,316,306,10,11,0.035830618892508145,2,3,1
+36,Prestige Storage #36,Home & Kitchen,Storage,Prestige,8572,4.1,51,Dashain,True,Premium,607,553,56,37,0.06678700361010831,5,2,1
+37,HP Laptops #37,Electronics,Laptops,HP,95470,3.8,23,Dashain,True,Luxury,317,303,14,11,0.03618421052631579,2,3,1
+38,Wrangler Kurta #38,Fashion,Kurta,Wrangler,8365,4.8,23,Tihar,True,Premium,371,307,46,33,0.10714285714285714,1,2,2
+39,Apple Laptops #39,Electronics,Laptops,Apple,150000,4.7,15,Dashain,True,Luxury,280,272,9,5,0.018315018315018316,2,3,1
+40,Cottonworld T-Shirts #40,Fashion,T-Shirts,Cottonworld,5078,3.5,30,Tihar,True,Premium,425,358,35,45,0.12534818941504178,1,2,2
+41,Cosco Football #41,Sports & Fitness,Football,Cosco,14432,4.3,80,Dashain,True,Premium,604,527,66,47,0.08901515151515152,4,2,1
+42,Yonex Yoga #42,Sports & Fitness,Yoga,Yonex,4524,4.7,7,Dashain,True,Mid,603,505,83,53,0.10474308300395258,4,1,1
+43,Garnier Sunscreen #43,Beauty & Personal Care,Sunscreen,Garnier,2566,4.3,208,Tihar,True,Mid,462,406,56,29,0.07125307125307126,0,1,2
+44,Nepali Designs Jackets #44,Fashion,Jackets,Nepali Designs,10841,4.8,43,Tihar,False,Premium,376,326,39,24,0.07339449541284404,1,2,2
+45,Dove Perfume #45,Beauty & Personal Care,Perfume,Dove,2899,4.7,15,Tihar,True,Mid,425,352,66,26,0.07365439093484419,0,1,2
+46,Yonex Cricket #46,Sports & Fitness,Cricket,Yonex,20560,3.5,17,Dashain,True,Luxury,584,550,42,23,0.041742286751361164,4,3,1
+47,Dove Sunscreen #47,Beauty & Personal Care,Sunscreen,Dove,1875,4.6,381,Tihar,True,Mid,446,386,64,30,0.07751937984496124,0,1,2
+48,Allen Solly T-Shirts #48,Fashion,T-Shirts,Allen Solly,9419,3.4,32,Tihar,True,Premium,353,308,35,25,0.08090614886731391,1,2,2
+49,Cosco Gym Equipment #49,Sports & Fitness,Gym Equipment,Cosco,11477,4.6,22,Dashain,True,Premium,618,558,61,42,0.07513416815742398,4,2,1
+50,Samsung Smartphones #50,Electronics,Smartphones,Samsung,72152,4.2,44,Dashain,True,Luxury,308,301,13,5,0.016556291390728478,2,3,1
+51,Pigeon Cleaning #51,Home & Kitchen,Cleaning,Pigeon,19351,3.4,6,Dashain,True,Premium,580,516,62,48,0.09284332688588008,5,2,1
+52,Anker Earbuds #52,Phone Accessories,Earbuds,Anker,4681,2.6,18,Dashain,False,Mid,383,319,38,38,0.11875,3,1,1
+53,Yonex Gym Equipment #53,Sports & Fitness,Gym Equipment,Yonex,18636,4.6,86,Dashain,True,Premium,617,540,62,57,0.10536044362292052,4,2,1
+54,Belkin Stands #54,Phone Accessories,Stands,Belkin,6000,4.2,22,Dashain,True,Premium,382,333,32,33,0.09880239520958084,3,2,1
+55,Asus Tablets #55,Electronics,Tablets,Asus,62150,4.7,29,Dashain,True,Luxury,316,314,11,4,0.012698412698412698,2,3,1
+56,Dove Men's Grooming #56,Beauty & Personal Care,Men's Grooming,Dove,6436,4.5,614,Tihar,True,Premium,433,352,57,44,0.12464589235127478,0,2,2
+57,Generic Cricket #57,Sports & Fitness,Cricket,Generic,30000,4.7,16,Dashain,True,Luxury,574,540,50,30,0.05545286506469501,4,3,1
+58,Zara Jackets #58,Fashion,Jackets,Zara,11813,4.7,49,Tihar,True,Premium,378,313,50,29,0.09235668789808917,1,2,2
+59,Dell Laptops #59,Electronics,Laptops,Dell,80802,4.1,69,Dashain,True,Luxury,307,304,6,9,0.029508196721311476,2,3,1
+60,Vector X Yoga #60,Sports & Fitness,Yoga,Vector X,18276,3.4,71,Dashain,True,Premium,577,502,66,39,0.0775347912524851,4,2,1
+61,Cottonworld Jeans #61,Fashion,Jeans,Cottonworld,15000,4.2,278,Tihar,True,Premium,370,315,47,22,0.06962025316455696,1,2,2
+62,Levi's Ethnic Wear #62,Fashion,Ethnic Wear,Levi's,5388,3.4,5,Tihar,True,Premium,390,324,40,31,0.09538461538461539,1,2,2
+63,Nepali Designs Saree #63,Fashion,Saree,Nepali Designs,9597,4.6,20,Tihar,False,Premium,406,362,45,25,0.06887052341597796,1,2,2
+64,Baseus Earbuds #64,Phone Accessories,Earbuds,Baseus,3539,4.1,51,Dashain,True,Mid,420,349,56,34,0.09714285714285714,3,1,1
+65,Nepali Designs Saree #65,Fashion,Saree,Nepali Designs,5064,4.6,24,Tihar,True,Premium,398,341,51,23,0.06725146198830409,1,2,2
+66,Vivo Laptops #66,Electronics,Laptops,Vivo,109724,4.1,132,Dashain,False,Luxury,287,279,14,5,0.017857142857142856,2,3,1
+67,Mamaearth Men's Grooming #67,Beauty & Personal Care,Men's Grooming,Mamaearth,2255,4.4,32,Tihar,True,Mid,461,377,70,39,0.10317460317460317,0,1,2
+68,Zara Jeans #68,Fashion,Jeans,Zara,6082,4.4,28,Tihar,True,Premium,419,366,41,34,0.09264305177111716,1,2,2
+69,Belkin Power Banks #69,Phone Accessories,Power Banks,Belkin,6000,2.9,98,Dashain,True,Premium,401,344,48,30,0.08695652173913043,3,2,1
+70,Dell Headphones #70,Electronics,Headphones,Dell,61421,4.9,20,Dashain,True,Luxury,294,283,7,10,0.035211267605633804,2,3,1
+71,Pigeon Decor #71,Home & Kitchen,Decor,Pigeon,25000,4.2,160,Dashain,False,Luxury,649,619,49,26,0.041935483870967745,5,3,1
+72,Allen Solly T-Shirts #72,Fashion,T-Shirts,Allen Solly,12806,4.3,14,Tihar,True,Premium,396,337,47,34,0.10059171597633136,1,2,2
+73,Dell Tablets #73,Electronics,Tablets,Dell,145613,4.4,187,Dashain,True,Luxury,330,331,7,6,0.018072289156626505,2,3,1
+74,Milton Storage #74,Home & Kitchen,Storage,Milton,16363,1.8,44,Dashain,False,Premium,606,529,62,40,0.07547169811320754,5,2,1
+75,Loreal Skincare #75,Beauty & Personal Care,Skincare,Loreal,4511,4.8,116,Tihar,True,Mid,441,374,62,23,0.06133333333333333,0,1,2
+76,Ugreen Cases #76,Phone Accessories,Cases,Ugreen,3271,3.8,101,Dashain,True,Mid,423,373,42,29,0.07754010695187166,3,1,1
+77,Vector X Badminton #77,Sports & Fitness,Badminton,Vector X,26344,4.6,307,Dashain,True,Luxury,562,561,28,20,0.03558718861209965,4,3,1
+78,Levi's T-Shirts #78,Fashion,T-Shirts,Levi's,15000,3.9,142,Tihar,True,Premium,409,357,43,25,0.06983240223463687,1,2,2
+79,Pigeon Bedding #79,Home & Kitchen,Bedding,Pigeon,14179,4.8,189,Dashain,True,Premium,593,514,65,49,0.09514563106796116,5,2,1
+80,Prestige Cleaning #80,Home & Kitchen,Cleaning,Prestige,8080,4.6,107,Dashain,True,Premium,586,512,55,60,0.11695906432748537,5,2,1
+81,Cosco Gym Equipment #81,Sports & Fitness,Gym Equipment,Cosco,8984,4.6,102,Dashain,True,Premium,635,544,79,61,0.11192660550458716,4,2,1
+82,Prestige Cleaning #82,Home & Kitchen,Cleaning,Prestige,4862,3.3,153,Dashain,True,Mid,591,513,67,45,0.08754863813229571,5,1,1
+83,Cosco Cricket #83,Sports & Fitness,Cricket,Cosco,15338,4.3,60,Dashain,True,Premium,571,503,60,45,0.08928571428571429,4,2,1
+84,Pigeon Cleaning #84,Home & Kitchen,Cleaning,Pigeon,25000,4.3,79,Dashain,True,Luxury,627,609,42,23,0.03770491803278689,5,3,1
+85,Baseus Cables #85,Phone Accessories,Cables,Baseus,818,4.8,53,Dashain,True,Budget,412,359,41,32,0.08888888888888889,3,0,1
+86,Milton Storage #86,Home & Kitchen,Storage,Milton,25000,4.2,30,Dashain,True,Luxury,620,595,45,26,0.0436241610738255,5,3,1
+87,Generic Cases #87,Phone Accessories,Cases,Generic,5021,4.9,112,Dashain,True,Premium,400,354,48,21,0.059154929577464786,3,2,1
+88,Cottonworld T-Shirts #88,Fashion,T-Shirts,Cottonworld,5714,4.5,7,Tihar,False,Premium,355,296,48,26,0.08754208754208755,1,2,2
+89,Prestige Decor #89,Home & Kitchen,Decor,Prestige,16896,4.5,7,Dashain,True,Premium,604,517,69,54,0.10424710424710425,5,2,1
+90,HP Smartphones #90,Electronics,Smartphones,HP,111225,3.4,38,Dashain,True,Luxury,331,318,13,10,0.03134796238244514,2,3,1
+91,OnePlus Smartphones #91,Electronics,Smartphones,OnePlus,40354,4.8,18,Dashain,True,Luxury,307,284,18,12,0.042105263157894736,2,3,1
+92,Milton Cookware #92,Home & Kitchen,Cookware,Milton,5150,4.3,123,Dashain,True,Premium,575,500,66,45,0.08982035928143713,5,2,1
+93,Himalaya Makeup #93,Beauty & Personal Care,Makeup,Himalaya,4720,4.3,59,Tihar,True,Mid,457,397,57,23,0.05778894472361809,0,1,2
+94,Pigeon Cleaning #94,Home & Kitchen,Cleaning,Pigeon,10447,4.4,26,Dashain,True,Premium,613,541,76,49,0.09040590405904059,5,2,1
+95,Mamaearth Makeup #95,Beauty & Personal Care,Makeup,Mamaearth,8000,3.9,35,Tihar,True,Premium,483,407,59,36,0.08823529411764706,0,2,2
+96,Zara Ethnic Wear #96,Fashion,Ethnic Wear,Zara,6158,3.9,16,Tihar,True,Premium,377,321,46,24,0.07453416149068323,1,2,2
+97,Levi's Shoes #97,Fashion,Shoes,Levi's,15000,4.3,60,Tihar,True,Premium,393,333,47,32,0.09580838323353294,1,2,2
+98,Apple Tablets #98,Electronics,Tablets,Apple,119836,4.8,12,Dashain,True,Luxury,288,278,15,6,0.021505376344086023,2,3,1
+99,Himalaya Makeup #99,Beauty & Personal Care,Makeup,Himalaya,8000,3.2,228,Tihar,True,Premium,453,382,49,38,0.09921671018276762,0,2,2
+100,Generic Outdoor Gear #100,Sports & Fitness,Outdoor Gear,Generic,23659,4.2,218,Dashain,True,Luxury,615,576,42,36,0.06239168110918544,4,3,1
+101,Generic Gym Equipment #101,Sports & Fitness,Gym Equipment,Generic,18470,4.5,65,Dashain,True,Premium,591,505,66,50,0.09881422924901186,4,2,1
+102,Prestige Storage #102,Home & Kitchen,Storage,Prestige,25000,4.5,4,Dashain,True,Luxury,641,613,39,26,0.04234527687296417,5,3,1
+103,Belkin Earbuds #103,Phone Accessories,Earbuds,Belkin,3807,3.3,87,Dashain,True,Mid,416,358,46,33,0.09192200557103064,3,1,1
+104,Cottonworld Kurtis #104,Fashion,Kurtis,Cottonworld,1794,4.3,83,Tihar,True,Mid,419,346,50,34,0.09798270893371758,1,1,2
+105,Baseus Stands #105,Phone Accessories,Stands,Baseus,6000,4.1,14,Dashain,True,Premium,381,323,46,29,0.08950617283950617,3,2,1
+106,Levi's Jackets #106,Fashion,Jackets,Levi's,10394,4.6,8,Tihar,True,Premium,406,342,53,31,0.09037900874635568,1,2,2
+107,Asus Laptops #107,Electronics,Laptops,Asus,131150,4.4,65,Dashain,True,Luxury,332,326,10,6,0.01834862385321101,2,3,1
+108,Dove Skincare #108,Beauty & Personal Care,Skincare,Dove,6873,5.0,183,Tihar,True,Premium,453,381,53,38,0.09947643979057591,0,2,2
+109,Anker Cases #109,Phone Accessories,Cases,Anker,3785,3.4,20,Dashain,True,Mid,396,345,41,27,0.07803468208092486,3,1,1
+110,Xiaomi Laptops #110,Electronics,Laptops,Xiaomi,100752,4.8,12,Dashain,True,Luxury,317,303,22,3,0.009868421052631578,2,3,1
+111,Anker Stands #111,Phone Accessories,Stands,Anker,1814,4.5,25,Dashain,True,Mid,411,345,40,45,0.13005780346820808,3,1,1
+112,Local Cleaning #112,Home & Kitchen,Cleaning,Local,12647,4.1,24,Dashain,True,Premium,635,566,71,44,0.07760141093474426,5,2,1
+113,Nepali Designs Shoes #113,Fashion,Shoes,Nepali Designs,3419,4.9,334,Tihar,True,Mid,364,311,45,25,0.08012820512820513,1,1,2
+114,Nivea Haircare #114,Beauty & Personal Care,Haircare,Nivea,1223,4.8,48,Tihar,True,Mid,412,363,37,37,0.10164835164835165,0,1,2
+115,Vector X Cricket #115,Sports & Fitness,Cricket,Vector X,30000,4.0,730,Dashain,True,Luxury,585,559,43,23,0.04107142857142857,4,3,1
+116,Dell Smart Watches #116,Electronics,Smart Watches,Dell,67112,4.2,73,Dashain,True,Luxury,330,322,11,5,0.015479876160990712,2,3,1
+117,Dell Smartphones #117,Electronics,Smartphones,Dell,71161,4.2,51,Dashain,True,Luxury,298,292,11,8,0.027303754266211604,2,3,1
+118,Realme Laptops #118,Electronics,Laptops,Realme,32456,4.6,75,Dashain,True,Luxury,333,305,20,21,0.06862745098039216,2,3,1
+119,Levi's Jeans #119,Fashion,Jeans,Levi's,15000,4.3,12,Tihar,True,Premium,427,363,57,24,0.06593406593406594,1,2,2
+120,Wrangler Kurtis #120,Fashion,Kurtis,Wrangler,13723,2.9,16,Tihar,True,Premium,387,321,48,39,0.12111801242236025,1,2,2
+121,Levi's T-Shirts #121,Fashion,T-Shirts,Levi's,7814,3.2,54,Tihar,True,Premium,420,368,41,33,0.08943089430894309,1,2,2
+122,Biotique Makeup #122,Beauty & Personal Care,Makeup,Biotique,3102,4.3,806,Tihar,True,Mid,452,381,57,35,0.09162303664921466,0,1,2
+123,Himalaya Skincare #123,Beauty & Personal Care,Skincare,Himalaya,8000,4.2,338,Tihar,True,Premium,456,383,45,41,0.10677083333333333,0,2,2
+124,Belkin Cases #124,Phone Accessories,Cases,Belkin,3517,4.5,44,Dashain,True,Mid,379,333,42,23,0.0688622754491018,3,1,1
+125,Garnier Makeup #125,Beauty & Personal Care,Makeup,Garnier,2019,4.1,48,Tihar,True,Mid,432,362,59,39,0.10743801652892562,0,1,2
+126,Cosco Cricket #126,Sports & Fitness,Cricket,Cosco,15250,4.4,50,Dashain,True,Premium,613,534,66,46,0.08598130841121496,4,2,1
+127,OnePlus Smartphones #127,Electronics,Smartphones,OnePlus,111005,4.8,40,Dashain,True,Luxury,319,307,12,6,0.01948051948051948,2,3,1
+128,Ugreen Earbuds #128,Phone Accessories,Earbuds,Ugreen,3227,4.3,47,Dashain,True,Mid,400,351,36,28,0.07954545454545454,3,1,1
+129,Prestige Bedding #129,Home & Kitchen,Bedding,Prestige,19731,3.3,39,Dashain,True,Premium,644,568,66,54,0.09490333919156414,5,2,1
+130,Cosco Gym Equipment #130,Sports & Fitness,Gym Equipment,Cosco,19335,4.8,126,Dashain,True,Premium,571,506,62,37,0.07297830374753451,4,2,1
+131,Allen Solly Kurtis #131,Fashion,Kurtis,Allen Solly,5509,3.8,14,Tihar,True,Premium,395,343,39,26,0.0755813953488372,1,2,2
+132,Milton Decor #132,Home & Kitchen,Decor,Milton,11465,3.3,46,Dashain,True,Premium,580,506,70,52,0.10256410256410256,5,2,1
+133,Asus Speakers #133,Electronics,Speakers,Asus,150000,4.9,4,Dashain,True,Luxury,256,246,6,8,0.032388663967611336,2,3,1
+134,Anker Cables #134,Phone Accessories,Cables,Anker,2048,4.7,100,Dashain,False,Mid,426,370,50,28,0.07547169811320754,3,1,1
+135,Biotique Skincare #135,Beauty & Personal Care,Skincare,Biotique,4828,4.5,23,Tihar,True,Mid,469,395,61,37,0.09343434343434344,0,1,2
+136,Loreal Perfume #136,Beauty & Personal Care,Perfume,Loreal,8000,4.2,67,Tihar,True,Premium,410,347,54,30,0.08620689655172414,0,2,2
+137,Mamaearth Makeup #137,Beauty & Personal Care,Makeup,Mamaearth,2815,3.7,65,Tihar,True,Mid,428,366,53,30,0.08174386920980926,0,1,2
+138,Himalaya Makeup #138,Beauty & Personal Care,Makeup,Himalaya,1848,4.7,50,Tihar,True,Mid,446,369,48,39,0.10540540540540541,0,1,2
+139,Mamaearth Perfume #139,Beauty & Personal Care,Perfume,Mamaearth,6536,4.3,23,Tihar,True,Premium,425,353,57,40,0.11299435028248588,0,2,2
+140,Cosco Badminton #140,Sports & Fitness,Badminton,Cosco,21168,3.3,19,Dashain,True,Luxury,596,570,38,19,0.03327495621716287,4,3,1
+141,Milton Decor #141,Home & Kitchen,Decor,Milton,15256,4.4,66,Dashain,True,Premium,623,550,80,46,0.08348457350272233,5,2,1
+142,Mamaearth Men's Grooming #142,Beauty & Personal Care,Men's Grooming,Mamaearth,3975,3.6,36,Tihar,True,Mid,453,392,53,36,0.0916030534351145,0,1,2
+143,HP Smart Watches #143,Electronics,Smart Watches,HP,63621,3.3,72,Dashain,True,Luxury,312,307,6,12,0.03896103896103896,2,3,1
+144,Wrangler Shoes #144,Fashion,Shoes,Wrangler,5624,4.6,157,Tihar,True,Premium,383,326,40,35,0.10703363914373089,1,2,2
+145,Dell Tablets #145,Electronics,Tablets,Dell,68678,4.8,35,Dashain,True,Luxury,319,304,11,13,0.04262295081967213,2,3,1
+146,Belkin Earbuds #146,Phone Accessories,Earbuds,Belkin,4085,4.2,3,Dashain,True,Mid,389,353,39,25,0.07062146892655367,3,1,1
+147,Baseus Chargers #147,Phone Accessories,Chargers,Baseus,1129,3.8,60,Dashain,True,Mid,372,323,45,21,0.06481481481481481,3,1,1
+148,Dove Men's Grooming #148,Beauty & Personal Care,Men's Grooming,Dove,5767,4.7,97,Tihar,True,Premium,490,427,56,32,0.07476635514018691,0,2,2
+149,Zara T-Shirts #149,Fashion,T-Shirts,Zara,10930,4.3,299,Tihar,True,Premium,402,335,60,25,0.0744047619047619,1,2,2
+150,Anker Stands #150,Phone Accessories,Stands,Anker,1523,4.4,199,Dashain,True,Mid,404,350,41,30,0.08547008547008547,3,1,1
+151,Generic Outdoor Gear #151,Sports & Fitness,Outdoor Gear,Generic,15871,4.5,128,Dashain,True,Premium,612,531,71,44,0.08270676691729323,4,2,1
+152,Cosco Gym Equipment #152,Sports & Fitness,Gym Equipment,Cosco,25512,3.8,11,Dashain,True,Luxury,590,568,32,29,0.050966608084358524,4,3,1
+153,Allen Solly Jeans #153,Fashion,Jeans,Allen Solly,10313,4.0,337,Tihar,True,Premium,413,367,29,37,0.10054347826086957,1,2,2
+154,Garnier Perfume #154,Beauty & Personal Care,Perfume,Garnier,2358,4.8,158,Tihar,True,Mid,442,375,61,27,0.07180851063829788,0,1,2
+155,Belkin Earbuds #155,Phone Accessories,Earbuds,Belkin,6000,4.6,41,Dashain,True,Premium,385,335,43,32,0.09523809523809523,3,2,1
+156,Garnier Skincare #156,Beauty & Personal Care,Skincare,Garnier,5490,4.5,20,Tihar,True,Premium,451,395,47,33,0.08333333333333333,0,2,2
+157,Asus Cameras #157,Electronics,Cameras,Asus,41894,4.7,12,Dashain,True,Luxury,327,286,27,18,0.0627177700348432,2,3,1
+158,Allen Solly Jeans #158,Fashion,Jeans,Allen Solly,3627,3.8,21,Tihar,True,Mid,380,323,44,28,0.08641975308641975,1,1,2
+159,Belkin Power Banks #159,Phone Accessories,Power Banks,Belkin,2914,3.1,6,Dashain,True,Mid,368,312,41,29,0.0926517571884984,3,1,1
+160,Generic Cables #160,Phone Accessories,Cables,Generic,5004,4.2,1600,Dashain,True,Premium,416,355,37,38,0.10674157303370786,3,2,1
+161,Asus Speakers #161,Electronics,Speakers,Asus,150000,4.3,103,Dashain,True,Luxury,326,324,3,9,0.027692307692307693,2,3,1
+162,Nivia Gym Equipment #162,Sports & Fitness,Gym Equipment,Nivia,5413,4.0,170,Dashain,True,Premium,575,514,80,29,0.05631067961165048,4,2,1
+163,Nivia Yoga #163,Sports & Fitness,Yoga,Nivia,19652,3.8,84,Dashain,False,Premium,627,538,72,50,0.09276437847866419,4,2,1
+164,Tefal Decor #164,Home & Kitchen,Decor,Tefal,2950,4.8,138,Dashain,True,Mid,612,534,71,49,0.09158878504672897,5,1,1
+165,Nepali Designs Saree #165,Fashion,Saree,Nepali Designs,2455,4.7,91,Tihar,True,Mid,373,302,56,30,0.09900990099009901,1,1,2
+166,Prestige Bedding #166,Home & Kitchen,Bedding,Prestige,11479,4.7,28,Dashain,True,Premium,587,511,82,35,0.068359375,5,2,1
+167,HP Headphones #167,Electronics,Headphones,HP,112220,4.1,61,Dashain,True,Luxury,292,284,11,3,0.010526315789473684,2,3,1
+168,Levi's Kurtis #168,Fashion,Kurtis,Levi's,12674,3.9,132,Tihar,True,Premium,385,325,45,31,0.0950920245398773,1,2,2
+169,Asus Tablets #169,Electronics,Tablets,Asus,100250,4.2,124,Dashain,True,Luxury,311,307,7,7,0.022727272727272728,2,3,1
+170,OnePlus Smartphones #170,Electronics,Smartphones,OnePlus,150000,4.3,28,Dashain,True,Luxury,301,280,19,11,0.03914590747330961,2,3,1
+171,Samsung Cameras #171,Electronics,Cameras,Samsung,119800,4.7,26,Dashain,True,Luxury,296,291,5,12,0.0410958904109589,2,3,1
+172,Xiaomi Smart Watches #172,Electronics,Smart Watches,Xiaomi,120713,3.9,51,Dashain,True,Luxury,327,311,15,11,0.035256410256410256,2,3,1
+173,Anker Power Banks #173,Phone Accessories,Power Banks,Anker,4206,3.9,285,Dashain,True,Mid,392,322,52,27,0.08359133126934984,3,1,1
+174,Allen Solly Saree #174,Fashion,Saree,Allen Solly,8512,3.1,21,Tihar,True,Premium,427,354,63,34,0.09577464788732394,1,2,2
+175,Samsung Smart Watches #175,Electronics,Smart Watches,Samsung,32675,4.5,155,Dashain,True,Luxury,311,297,24,8,0.026845637583892617,2,3,1
+176,Mamaearth Men's Grooming #176,Beauty & Personal Care,Men's Grooming,Mamaearth,2283,3.5,56,Tihar,True,Mid,443,378,46,47,0.12401055408970976,0,1,2
+177,Samsung Cameras #177,Electronics,Cameras,Samsung,31044,3.8,25,Dashain,True,Luxury,332,312,22,16,0.051118210862619806,2,3,1
+178,HP Speakers #178,Electronics,Speakers,HP,37040,4.0,44,Dashain,True,Luxury,327,310,20,13,0.04180064308681672,2,3,1
+179,Dell Speakers #179,Electronics,Speakers,Dell,47953,4.3,16,Dashain,True,Luxury,322,295,21,19,0.06418918918918919,2,3,1
+180,Realme Cameras #180,Electronics,Cameras,Realme,53823,3.6,58,Dashain,False,Luxury,315,310,7,5,0.01607717041800643,2,3,1
+181,Levi's T-Shirts #181,Fashion,T-Shirts,Levi's,5302,4.4,31,Tihar,True,Premium,385,336,48,22,0.06528189910979229,1,2,2
+182,Zara T-Shirts #182,Fashion,T-Shirts,Zara,14396,4.0,25,Tihar,False,Premium,395,338,59,24,0.07079646017699115,1,2,2
+183,Ugreen Power Banks #183,Phone Accessories,Power Banks,Ugreen,4304,4.7,96,Dashain,False,Mid,402,360,40,25,0.06925207756232687,3,1,1
+184,Anker Chargers #184,Phone Accessories,Chargers,Anker,1586,4.0,7,Dashain,True,Mid,368,322,36,28,0.08668730650154799,3,1,1
+185,Xiaomi Smartphones #185,Electronics,Smartphones,Xiaomi,107805,4.6,34,Dashain,True,Luxury,305,306,8,2,0.006514657980456026,2,3,1
+186,Ugreen Cases #186,Phone Accessories,Cases,Ugreen,3128,4.5,27,Dashain,True,Mid,384,322,54,21,0.06501547987616099,3,1,1
+187,Loreal Perfume #187,Beauty & Personal Care,Perfume,Loreal,3321,5.0,20,Tihar,True,Mid,472,405,48,39,0.0960591133004926,0,1,2
+188,Belkin Chargers #188,Phone Accessories,Chargers,Belkin,1132,4.2,38,Dashain,True,Mid,381,324,40,29,0.08923076923076922,3,1,1
+189,Belkin Stands #189,Phone Accessories,Stands,Belkin,3035,4.6,63,Dashain,True,Mid,411,342,55,30,0.08746355685131195,3,1,1
+190,Garnier Men's Grooming #190,Beauty & Personal Care,Men's Grooming,Garnier,8000,4.1,16,Tihar,True,Premium,414,342,48,45,0.13119533527696792,0,2,2
+191,OnePlus Tablets #191,Electronics,Tablets,OnePlus,146344,3.9,20,Dashain,True,Luxury,327,333,7,8,0.023952095808383235,2,3,1
+192,Wrangler Kurta #192,Fashion,Kurta,Wrangler,9853,4.4,1091,Tihar,True,Premium,411,352,48,39,0.11048158640226628,1,2,2
+193,Dell Smartphones #193,Electronics,Smartphones,Dell,123179,4.3,120,Dashain,True,Luxury,294,285,16,3,0.01048951048951049,2,3,1
+194,Vector X Cricket #194,Sports & Fitness,Cricket,Vector X,30000,3.9,34,Dashain,True,Luxury,645,625,37,23,0.036741214057507986,4,3,1
+195,Garnier Haircare #195,Beauty & Personal Care,Haircare,Garnier,2534,4.4,147,Tihar,False,Mid,464,407,45,36,0.08823529411764706,0,1,2
+196,Nepali Designs Shoes #196,Fashion,Shoes,Nepali Designs,4369,4.1,96,Tihar,True,Mid,375,305,54,33,0.10784313725490197,1,1,2
+197,Asus Cameras #197,Electronics,Cameras,Asus,44878,4.9,39,Dashain,True,Luxury,309,285,15,16,0.055944055944055944,2,3,1
+198,Anker Earbuds #198,Phone Accessories,Earbuds,Anker,605,4.4,138,Dashain,True,Budget,415,362,48,23,0.06336088154269973,3,0,1
+199,Belkin Cables #199,Phone Accessories,Cables,Belkin,1983,3.9,82,Dashain,True,Mid,429,365,51,27,0.07377049180327869,3,1,1
+200,Oppo Headphones #200,Electronics,Headphones,Oppo,71155,4.0,48,Dashain,True,Luxury,297,283,11,11,0.03873239436619718,2,3,1
+201,Baseus Power Banks #201,Phone Accessories,Power Banks,Baseus,6000,4.7,125,Dashain,True,Premium,384,328,50,25,0.07598784194528875,3,2,1
+202,Wrangler Saree #202,Fashion,Saree,Wrangler,11019,4.3,39,Tihar,True,Premium,362,296,45,33,0.1111111111111111,1,2,2
+203,Oppo Tablets #203,Electronics,Tablets,Oppo,44568,4.6,256,Dashain,True,Luxury,305,286,14,17,0.059233449477351915,2,3,1
+204,Garnier Men's Grooming #204,Beauty & Personal Care,Men's Grooming,Garnier,2006,4.0,23,Tihar,True,Mid,457,384,49,39,0.1012987012987013,0,1,2
+205,Zara Shoes #205,Fashion,Shoes,Zara,3012,4.2,30,Tihar,True,Mid,443,375,60,33,0.08776595744680851,1,1,2
+206,Wrangler Shoes #206,Fashion,Shoes,Wrangler,5795,3.6,12,Tihar,True,Premium,408,357,37,32,0.0893854748603352,1,2,2
+207,Belkin Screen Protectors #207,Phone Accessories,Screen Protectors,Belkin,1334,3.5,3,Dashain,False,Mid,421,360,42,31,0.08587257617728532,3,1,1
+208,Himalaya Haircare #208,Beauty & Personal Care,Haircare,Himalaya,2500,4.5,42,Tihar,True,Mid,484,416,48,43,0.10311750599520383,0,1,2
+209,Wrangler Shoes #209,Fashion,Shoes,Wrangler,11071,4.2,9,Tihar,True,Premium,406,348,36,38,0.10888252148997135,1,2,2
+210,Himalaya Sunscreen #210,Beauty & Personal Care,Sunscreen,Himalaya,7014,4.8,30,Tihar,False,Premium,462,414,41,36,0.08674698795180723,0,2,2
+211,Cottonworld Jackets #211,Fashion,Jackets,Cottonworld,9663,4.9,44,Tihar,True,Premium,365,315,35,30,0.0949367088607595,1,2,2
+212,Nepali Designs T-Shirts #212,Fashion,T-Shirts,Nepali Designs,6386,4.1,36,Tihar,True,Premium,352,302,41,23,0.07590759075907591,1,2,2
+213,Anker Stands #213,Phone Accessories,Stands,Anker,1578,4.8,41,Dashain,True,Mid,392,338,40,32,0.0943952802359882,3,1,1
+214,Asus Tablets #214,Electronics,Tablets,Asus,86768,4.7,114,Dashain,True,Luxury,303,290,14,11,0.037800687285223365,2,3,1
+215,Oppo Tablets #215,Electronics,Tablets,Oppo,74600,4.0,46,Dashain,True,Luxury,314,313,5,7,0.022292993630573247,2,3,1
+216,Samsung Smartphones #216,Electronics,Smartphones,Samsung,150000,3.8,44,Dashain,True,Luxury,297,285,14,8,0.027972027972027972,2,3,1
+217,Zara Saree #217,Fashion,Saree,Zara,4690,4.8,151,Tihar,True,Mid,378,325,46,19,0.05828220858895705,1,1,2
+218,Himalaya Haircare #218,Beauty & Personal Care,Haircare,Himalaya,7332,4.2,374,Tihar,True,Premium,481,408,49,42,0.10268948655256724,0,2,2
+219,Generic Cables #219,Phone Accessories,Cables,Generic,3896,4.1,171,Dashain,False,Mid,420,370,42,27,0.07277628032345014,3,1,1
+220,Xiaomi Speakers #220,Electronics,Speakers,Xiaomi,31070,3.9,21,Dashain,True,Luxury,287,258,27,12,0.04633204633204633,2,3,1
+221,Dell Smart Watches #221,Electronics,Smart Watches,Dell,66329,4.3,94,Dashain,True,Luxury,317,304,11,12,0.03934426229508197,2,3,1
+222,Vector X Yoga #222,Sports & Fitness,Yoga,Vector X,23372,3.6,13,Dashain,True,Luxury,619,596,42,29,0.048576214405360134,4,3,1
+223,Levi's Saree #223,Fashion,Saree,Levi's,8147,4.5,71,Tihar,True,Premium,373,325,37,29,0.08895705521472393,1,2,2
+224,Oppo Tablets #224,Electronics,Tablets,Oppo,88498,3.6,30,Dashain,True,Luxury,334,324,15,9,0.027692307692307693,2,3,1
+225,Ugreen Cases #225,Phone Accessories,Cases,Ugreen,1843,3.3,24,Dashain,True,Mid,371,310,41,32,0.10289389067524116,3,1,1
+226,Loreal Makeup #226,Beauty & Personal Care,Makeup,Loreal,3173,4.7,18,Tihar,True,Mid,487,421,56,34,0.08056872037914692,0,1,2
+227,OnePlus Headphones #227,Electronics,Headphones,OnePlus,100302,3.5,80,Dashain,True,Luxury,327,324,9,7,0.021538461538461538,2,3,1
+228,Baseus Earbuds #228,Phone Accessories,Earbuds,Baseus,2841,4.4,147,Dashain,True,Mid,383,340,41,26,0.07624633431085044,3,1,1
+229,Asus Tablets #229,Electronics,Tablets,Asus,54278,3.9,84,Dashain,False,Luxury,273,270,5,6,0.02214022140221402,2,3,1
+230,Asus Tablets #230,Electronics,Tablets,Asus,123792,3.8,55,Dashain,False,Luxury,290,285,11,6,0.02097902097902098,2,3,1
+231,Dell Cameras #231,Electronics,Cameras,Dell,75419,4.5,16,Dashain,True,Luxury,287,280,10,8,0.028469750889679714,2,3,1
+232,Vector X Cricket #232,Sports & Fitness,Cricket,Vector X,18382,4.2,11,Dashain,True,Premium,636,547,74,49,0.08941605839416059,4,2,1
+233,Generic Stands #233,Phone Accessories,Stands,Generic,5243,4.4,197,Dashain,True,Premium,379,328,44,35,0.10638297872340426,3,2,1
+234,Generic Power Banks #234,Phone Accessories,Power Banks,Generic,2659,4.4,26,Dashain,True,Mid,425,352,56,34,0.09631728045325778,3,1,1
+235,HP Speakers #235,Electronics,Speakers,HP,90625,4.4,201,Dashain,True,Luxury,305,292,11,8,0.027303754266211604,2,3,1
+236,Garnier Skincare #236,Beauty & Personal Care,Skincare,Garnier,2672,4.5,72,Tihar,True,Mid,432,381,36,35,0.09162303664921466,0,1,2
+237,Nepali Designs Kurtis #237,Fashion,Kurtis,Nepali Designs,4321,4.5,16,Tihar,True,Mid,392,326,45,33,0.10091743119266056,1,1,2
+238,Anker Chargers #238,Phone Accessories,Chargers,Anker,2229,3.3,70,Dashain,True,Mid,374,316,44,30,0.0946372239747634,3,1,1
+239,Oppo Smart Watches #239,Electronics,Smart Watches,Oppo,103947,4.2,156,Dashain,True,Luxury,333,331,10,4,0.012048192771084338,2,3,1
+240,Vivo Laptops #240,Electronics,Laptops,Vivo,150000,4.8,121,Dashain,True,Luxury,314,294,16,11,0.03728813559322034,2,3,1
+241,Dell Cameras #241,Electronics,Cameras,Dell,108819,4.5,40,Dashain,True,Luxury,278,264,16,4,0.01509433962264151,2,3,1
+242,Dell Headphones #242,Electronics,Headphones,Dell,93297,3.9,70,Dashain,True,Luxury,306,304,11,4,0.013114754098360656,2,3,1
+243,Milton Air Purifiers #243,Home & Kitchen,Air Purifiers,Milton,18974,3.9,113,Dashain,True,Premium,602,511,66,55,0.107421875,5,2,1
+244,Generic Cables #244,Phone Accessories,Cables,Generic,5300,4.1,10,Dashain,True,Premium,393,339,47,25,0.07352941176470588,3,2,1
+245,Baseus Stands #245,Phone Accessories,Stands,Baseus,3639,4.0,15,Dashain,True,Mid,397,336,50,31,0.09198813056379822,3,1,1
+246,Baseus Cases #246,Phone Accessories,Cases,Baseus,4519,3.6,7,Dashain,True,Mid,431,363,61,30,0.08241758241758242,3,1,1
+247,Samsung Smartphones #247,Electronics,Smartphones,Samsung,39009,4.5,5,Dashain,True,Luxury,275,250,22,14,0.055776892430278883,2,3,1
+248,Yonex Badminton #248,Sports & Fitness,Badminton,Yonex,30000,4.0,227,Dashain,True,Luxury,603,582,37,25,0.04288164665523156,4,3,1
+249,Asus Smartphones #249,Electronics,Smartphones,Asus,92092,4.6,62,Dashain,True,Luxury,319,314,13,4,0.012698412698412698,2,3,1
+250,Oppo Tablets #250,Electronics,Tablets,Oppo,52951,4.1,394,Dashain,True,Luxury,301,296,13,3,0.010101010101010102,2,3,1
+251,Baseus Earbuds #251,Phone Accessories,Earbuds,Baseus,1172,4.2,14,Dashain,True,Mid,390,335,55,28,0.08333333333333333,3,1,1
+252,Yonex Outdoor Gear #252,Sports & Fitness,Outdoor Gear,Yonex,30000,4.4,1239,Dashain,True,Luxury,607,568,50,27,0.04745166959578207,4,3,1
+253,Generic Badminton #253,Sports & Fitness,Badminton,Generic,11122,3.9,33,Dashain,True,Premium,583,516,70,41,0.07930367504835589,4,2,1
+254,Zara T-Shirts #254,Fashion,T-Shirts,Zara,10592,4.4,108,Tihar,True,Premium,391,334,44,30,0.08955223880597014,1,2,2
+255,Dell Headphones #255,Electronics,Headphones,Dell,85931,4.7,1096,Dashain,True,Luxury,325,318,8,6,0.018808777429467086,2,3,1
+256,Garnier Haircare #256,Beauty & Personal Care,Haircare,Garnier,6673,4.4,28,Tihar,True,Premium,458,386,58,30,0.07751937984496124,0,2,2
+257,Biotique Perfume #257,Beauty & Personal Care,Perfume,Biotique,6862,4.2,64,Tihar,True,Premium,479,425,46,24,0.056338028169014086,0,2,2
+258,Apple Cameras #258,Electronics,Cameras,Apple,79546,4.4,148,Dashain,True,Luxury,312,306,10,6,0.019543973941368076,2,3,1
+259,Yonex Yoga #259,Sports & Fitness,Yoga,Yonex,7975,4.7,32,Dashain,True,Premium,603,531,55,48,0.09022556390977443,4,2,1
+260,Ugreen Cases #260,Phone Accessories,Cases,Ugreen,2052,4.8,60,Dashain,False,Mid,399,338,46,33,0.09734513274336283,3,1,1
+261,Belkin Stands #261,Phone Accessories,Stands,Belkin,2830,4.3,154,Dashain,True,Mid,407,341,46,30,0.08771929824561403,3,1,1
+262,Belkin Power Banks #262,Phone Accessories,Power Banks,Belkin,940,4.7,254,Dashain,False,Budget,391,340,38,32,0.093841642228739,3,0,1
+263,HP Smartphones #263,Electronics,Smartphones,HP,150000,4.2,2,Dashain,True,Luxury,320,305,12,11,0.03594771241830065,2,3,1
+264,Generic Yoga #264,Sports & Fitness,Yoga,Generic,22468,4.4,10,Dashain,True,Luxury,594,556,44,27,0.04847396768402154,4,3,1
+265,Milton Bedding #265,Home & Kitchen,Bedding,Milton,7517,4.5,13,Dashain,True,Premium,594,502,77,49,0.09741550695825049,5,2,1
+266,Allen Solly Jackets #266,Fashion,Jackets,Allen Solly,7413,3.4,43,Tihar,True,Premium,376,328,39,29,0.08814589665653495,1,2,2
+267,Zara Ethnic Wear #267,Fashion,Ethnic Wear,Zara,4886,4.7,21,Tihar,True,Mid,376,312,40,41,0.13099041533546327,1,1,2
+268,Samsung Laptops #268,Electronics,Laptops,Samsung,150000,4.9,59,Dashain,True,Luxury,318,302,16,8,0.026402640264026403,2,3,1
+269,Wrangler Ethnic Wear #269,Fashion,Ethnic Wear,Wrangler,11012,4.3,12,Tihar,True,Premium,390,326,48,36,0.11009174311926606,1,2,2
+270,Loreal Skincare #270,Beauty & Personal Care,Skincare,Loreal,6475,4.2,187,Tihar,True,Premium,448,401,47,38,0.0945273631840796,0,2,2
+271,Ugreen Screen Protectors #271,Phone Accessories,Screen Protectors,Ugreen,2955,4.8,328,Dashain,True,Mid,404,345,49,26,0.07514450867052024,3,1,1
+272,Mamaearth Men's Grooming #272,Beauty & Personal Care,Men's Grooming,Mamaearth,2799,3.4,34,Tihar,True,Mid,414,353,47,32,0.0903954802259887,0,1,2
+273,Biotique Sunscreen #273,Beauty & Personal Care,Sunscreen,Biotique,2751,4.4,107,Tihar,True,Mid,448,382,53,34,0.08877284595300261,0,1,2
+274,Vector X Cricket #274,Sports & Fitness,Cricket,Vector X,17479,4.9,1,Dashain,True,Premium,635,542,85,47,0.0865561694290976,4,2,1
+275,Local Storage #275,Home & Kitchen,Storage,Local,16436,3.2,16,Dashain,True,Premium,593,529,69,38,0.07169811320754717,5,2,1
+276,Anker Power Banks #276,Phone Accessories,Power Banks,Anker,1171,2.6,28,Dashain,True,Mid,363,320,33,26,0.08099688473520249,3,1,1
+277,Yonex Badminton #277,Sports & Fitness,Badminton,Yonex,15679,4.3,191,Dashain,True,Premium,608,537,74,44,0.08178438661710037,4,2,1
+278,Biotique Haircare #278,Beauty & Personal Care,Haircare,Biotique,5469,2.6,123,Tihar,False,Premium,452,377,57,41,0.10846560846560846,0,2,2
+279,Belkin Cables #279,Phone Accessories,Cables,Belkin,3660,3.6,37,Dashain,True,Mid,379,321,39,29,0.09006211180124224,3,1,1
+280,Mamaearth Skincare #280,Beauty & Personal Care,Skincare,Mamaearth,5395,4.4,5,Tihar,True,Premium,486,403,71,31,0.07673267326732673,0,2,2
+281,Belkin Earbuds #281,Phone Accessories,Earbuds,Belkin,3701,4.0,54,Dashain,True,Mid,425,366,43,29,0.07901907356948229,3,1,1
+282,Tefal Storage #282,Home & Kitchen,Storage,Tefal,5633,4.6,57,Dashain,True,Premium,594,534,61,47,0.08785046728971962,5,2,1
+283,Xiaomi Tablets #283,Electronics,Tablets,Xiaomi,38427,3.6,96,Dashain,True,Luxury,307,286,18,10,0.03484320557491289,2,3,1
+284,HP Cameras #284,Electronics,Cameras,HP,44596,3.9,553,Dashain,True,Luxury,321,292,21,18,0.06143344709897611,2,3,1
+285,Pigeon Cleaning #285,Home & Kitchen,Cleaning,Pigeon,12572,3.5,66,Dashain,True,Premium,626,558,64,44,0.07871198568872988,5,2,1
+286,Anker Power Banks #286,Phone Accessories,Power Banks,Anker,1224,4.3,154,Dashain,False,Mid,383,345,33,29,0.0838150289017341,3,1,1
+287,Anker Cases #287,Phone Accessories,Cases,Anker,2664,4.7,112,Dashain,True,Mid,418,355,47,33,0.09269662921348315,3,1,1
+288,Apple Smart Watches #288,Electronics,Smart Watches,Apple,150000,4.6,82,Dashain,True,Luxury,306,310,7,6,0.01929260450160772,2,3,1
+289,Local Air Purifiers #289,Home & Kitchen,Air Purifiers,Local,9793,3.7,16,Dashain,True,Premium,646,557,90,40,0.07168458781362007,5,2,1
+290,Vector X Football #290,Sports & Fitness,Football,Vector X,6845,4.7,115,Dashain,True,Premium,555,472,70,49,0.10359408033826638,4,2,1
+291,Pigeon Cleaning #291,Home & Kitchen,Cleaning,Pigeon,25000,4.3,20,Dashain,True,Luxury,632,616,48,17,0.027552674230145867,5,3,1
+292,Realme Headphones #292,Electronics,Headphones,Realme,106655,4.1,34,Dashain,False,Luxury,314,300,13,7,0.023255813953488372,2,3,1
+293,Apple Smartphones #293,Electronics,Smartphones,Apple,39701,4.6,79,Dashain,True,Luxury,294,280,17,10,0.03558718861209965,2,3,1
+294,Tefal Cookware #294,Home & Kitchen,Cookware,Tefal,8444,4.5,25,Dashain,True,Premium,582,517,65,35,0.06756756756756757,5,2,1
+295,Generic Cases #295,Phone Accessories,Cases,Generic,2099,3.5,98,Dashain,True,Mid,403,343,41,33,0.09593023255813954,3,1,1
+296,Loreal Haircare #296,Beauty & Personal Care,Haircare,Loreal,2450,3.6,156,Tihar,True,Mid,462,391,64,34,0.08673469387755102,0,1,2
+297,Cottonworld Jeans #297,Fashion,Jeans,Cottonworld,11708,3.9,143,Tihar,True,Premium,393,344,42,32,0.0927536231884058,1,2,2
+298,Wrangler Ethnic Wear #298,Fashion,Ethnic Wear,Wrangler,15000,4.6,74,Tihar,True,Premium,360,309,39,25,0.08064516129032258,1,2,2
+299,Dove Sunscreen #299,Beauty & Personal Care,Sunscreen,Dove,3589,4.2,35,Tihar,True,Mid,478,391,67,43,0.1096938775510204,0,1,2
+300,Asus Laptops #300,Electronics,Laptops,Asus,54753,4.4,12,Dashain,True,Luxury,296,291,8,8,0.0273972602739726,2,3,1
+301,Vector X Outdoor Gear #301,Sports & Fitness,Outdoor Gear,Vector X,30000,4.1,13,Dashain,True,Luxury,601,572,38,25,0.04363001745200698,4,3,1
+302,Levi's Kurta #302,Fashion,Kurta,Levi's,12116,3.9,225,Tihar,True,Premium,394,330,46,37,0.11178247734138973,1,2,2
+303,Allen Solly Saree #303,Fashion,Saree,Allen Solly,8124,3.7,103,Tihar,True,Premium,386,349,35,27,0.07714285714285714,1,2,2
+304,Cottonworld Saree #304,Fashion,Saree,Cottonworld,8443,4.5,2,Tihar,True,Premium,431,363,52,28,0.07692307692307693,1,2,2
+305,Dove Haircare #305,Beauty & Personal Care,Haircare,Dove,4249,4.9,12,Tihar,True,Mid,470,391,56,42,0.10714285714285714,0,1,2
+306,Mamaearth Perfume #306,Beauty & Personal Care,Perfume,Mamaearth,1706,4.9,18,Tihar,False,Mid,436,398,36,25,0.06265664160401002,0,1,2
+307,Dove Makeup #307,Beauty & Personal Care,Makeup,Dove,5400,3.9,82,Tihar,True,Premium,461,406,43,33,0.08108108108108109,0,2,2
+308,Ugreen Cases #308,Phone Accessories,Cases,Ugreen,2050,2.4,142,Dashain,True,Mid,399,345,42,25,0.07225433526011561,3,1,1
+309,Anker Cases #309,Phone Accessories,Cases,Anker,1824,4.3,69,Dashain,True,Mid,418,347,56,33,0.09482758620689655,3,1,1
+310,Prestige Air Purifiers #310,Home & Kitchen,Air Purifiers,Prestige,25000,4.2,14,Dashain,True,Luxury,604,543,62,26,0.04779411764705882,5,3,1
+311,Oppo Tablets #311,Electronics,Tablets,Oppo,25140,4.6,48,Dashain,True,Luxury,312,292,23,12,0.040955631399317405,2,3,1
+312,Baseus Stands #312,Phone Accessories,Stands,Baseus,2028,4.4,66,Dashain,True,Mid,366,306,52,24,0.0781758957654723,3,1,1
+313,Belkin Cases #313,Phone Accessories,Cases,Belkin,1090,4.1,192,Dashain,True,Mid,393,333,42,31,0.09281437125748503,3,1,1
+314,Baseus Earbuds #314,Phone Accessories,Earbuds,Baseus,1809,3.8,638,Dashain,True,Mid,385,332,47,26,0.07807807807807808,3,1,1
+315,Xiaomi Smartphones #315,Electronics,Smartphones,Xiaomi,57521,4.5,332,Dashain,True,Luxury,322,322,9,6,0.018575851393188854,2,3,1
+316,Ugreen Chargers #316,Phone Accessories,Chargers,Ugreen,1142,4.0,1,Dashain,True,Mid,355,291,53,24,0.0821917808219178,3,1,1
+317,Loreal Haircare #317,Beauty & Personal Care,Haircare,Loreal,4979,4.5,1750,Tihar,True,Mid,412,355,45,37,0.10393258426966293,0,1,2
+318,Asus Smartphones #318,Electronics,Smartphones,Asus,65131,4.9,93,Dashain,True,Luxury,301,299,13,4,0.013333333333333334,2,3,1
+319,HP Speakers #319,Electronics,Speakers,HP,73588,4.4,10,Dashain,True,Luxury,304,296,10,7,0.02356902356902357,2,3,1
+320,Himalaya Haircare #320,Beauty & Personal Care,Haircare,Himalaya,1665,3.6,18,Tihar,True,Mid,426,370,43,32,0.0862533692722372,0,1,2
+321,Asus Smartphones #321,Electronics,Smartphones,Asus,150000,4.3,44,Dashain,True,Luxury,313,308,12,5,0.016181229773462782,2,3,1
+322,Baseus Stands #322,Phone Accessories,Stands,Baseus,4866,4.0,34,Dashain,True,Mid,365,306,48,29,0.09446254071661238,3,1,1
+323,Prestige Decor #323,Home & Kitchen,Decor,Prestige,25000,4.4,151,Dashain,True,Luxury,610,578,43,25,0.04317789291882556,5,3,1
+324,Zara Kurtis #324,Fashion,Kurtis,Zara,11367,3.9,66,Tihar,True,Premium,375,328,42,24,0.0729483282674772,1,2,2
+325,Anker Cases #325,Phone Accessories,Cases,Anker,2199,4.4,60,Dashain,True,Mid,420,353,53,36,0.1016949152542373,3,1,1
+326,Nepali Designs Ethnic Wear #326,Fashion,Ethnic Wear,Nepali Designs,4943,4.9,144,Tihar,False,Mid,383,323,46,28,0.08641975308641975,1,1,2
+327,Belkin Chargers #327,Phone Accessories,Chargers,Belkin,1379,4.2,49,Dashain,True,Mid,407,357,44,28,0.0782122905027933,3,1,1
+328,Pigeon Storage #328,Home & Kitchen,Storage,Pigeon,17477,4.6,36,Dashain,True,Premium,617,552,65,46,0.08318264014466546,5,2,1
+329,Baseus Chargers #329,Phone Accessories,Chargers,Baseus,3325,4.1,99,Dashain,True,Mid,401,342,42,35,0.10204081632653061,3,1,1
+330,Zara Kurta #330,Fashion,Kurta,Zara,6708,2.5,255,Tihar,True,Premium,390,322,48,35,0.10835913312693499,1,2,2
+331,Wrangler T-Shirts #331,Fashion,T-Shirts,Wrangler,14232,4.9,30,Tihar,True,Premium,390,323,46,32,0.09876543209876543,1,2,2
+332,Nivea Makeup #332,Beauty & Personal Care,Makeup,Nivea,2665,4.7,244,Tihar,True,Mid,441,386,49,25,0.06459948320413436,0,1,2
+333,Generic Power Banks #333,Phone Accessories,Power Banks,Generic,6000,3.8,54,Dashain,True,Premium,422,352,43,40,0.11331444759206799,3,2,1
+334,Generic Earbuds #334,Phone Accessories,Earbuds,Generic,4186,4.6,36,Dashain,True,Mid,416,346,44,36,0.1037463976945245,3,1,1
+335,Cosco Gym Equipment #335,Sports & Fitness,Gym Equipment,Cosco,24275,4.3,147,Dashain,True,Luxury,602,575,30,34,0.059027777777777776,4,3,1
+336,Ugreen Earbuds #336,Phone Accessories,Earbuds,Ugreen,2333,4.9,108,Dashain,True,Mid,382,325,51,26,0.07975460122699386,3,1,1
+337,Levi's Jeans #337,Fashion,Jeans,Levi's,12293,2.5,59,Tihar,True,Premium,398,327,61,26,0.07926829268292683,1,2,2
+338,Prestige Cleaning #338,Home & Kitchen,Cleaning,Prestige,11653,4.7,223,Dashain,True,Premium,605,516,70,56,0.10831721470019343,5,2,1
+339,Samsung Smart Watches #339,Electronics,Smart Watches,Samsung,150000,4.4,15,Dashain,True,Luxury,301,301,10,4,0.013245033112582781,2,3,1
+340,Biotique Men's Grooming #340,Beauty & Personal Care,Men's Grooming,Biotique,2351,4.2,12,Tihar,False,Mid,512,451,56,33,0.07300884955752213,0,1,2
+341,Garnier Haircare #341,Beauty & Personal Care,Haircare,Garnier,3901,3.4,61,Tihar,True,Mid,447,387,55,27,0.06958762886597938,0,1,2
+342,HP Speakers #342,Electronics,Speakers,HP,150000,4.1,38,Dashain,True,Luxury,310,298,10,11,0.03678929765886288,2,3,1
+343,Realme Smartphones #343,Electronics,Smartphones,Realme,109399,3.8,148,Dashain,False,Luxury,329,329,10,4,0.012121212121212121,2,3,1
+344,Allen Solly T-Shirts #344,Fashion,T-Shirts,Allen Solly,6866,4.4,101,Tihar,True,Premium,390,329,52,28,0.08484848484848485,1,2,2
+345,Anker Screen Protectors #345,Phone Accessories,Screen Protectors,Anker,3638,2.5,161,Dashain,True,Mid,416,367,42,24,0.06521739130434782,3,1,1
+346,Anker Cases #346,Phone Accessories,Cases,Anker,3289,4.3,202,Dashain,True,Mid,388,331,47,28,0.08433734939759036,3,1,1
+347,Nivea Makeup #347,Beauty & Personal Care,Makeup,Nivea,8000,4.6,49,Tihar,False,Premium,444,367,55,39,0.10597826086956522,0,2,2
+348,Realme Cameras #348,Electronics,Cameras,Realme,150000,4.1,21,Dashain,True,Luxury,313,311,5,10,0.03205128205128205,2,3,1
+349,Allen Solly Jeans #349,Fashion,Jeans,Allen Solly,7022,3.5,50,Tihar,True,Premium,409,348,44,37,0.10601719197707736,1,2,2
+350,Nepali Designs Jackets #350,Fashion,Jackets,Nepali Designs,6472,4.4,121,Tihar,True,Premium,376,311,53,36,0.11538461538461539,1,2,2
+351,Asus Tablets #351,Electronics,Tablets,Asus,144225,4.3,51,Dashain,True,Luxury,313,308,8,7,0.022653721682847898,2,3,1
+352,Biotique Perfume #352,Beauty & Personal Care,Perfume,Biotique,2772,4.4,25,Tihar,True,Mid,490,420,55,37,0.08788598574821853,0,1,2
+353,Levi's Ethnic Wear #353,Fashion,Ethnic Wear,Levi's,4791,4.5,300,Tihar,True,Mid,445,367,50,44,0.11956521739130435,1,1,2
+354,Xiaomi Headphones #354,Electronics,Headphones,Xiaomi,23775,4.9,116,Dashain,False,Luxury,318,296,22,10,0.03367003367003367,2,3,1
+355,OnePlus Laptops #355,Electronics,Laptops,OnePlus,73396,4.1,29,Dashain,True,Luxury,302,299,6,7,0.023333333333333334,2,3,1
+356,Apple Cameras #356,Electronics,Cameras,Apple,75530,4.8,9,Dashain,True,Luxury,311,302,13,3,0.009900990099009901,2,3,1
+357,Generic Badminton #357,Sports & Fitness,Badminton,Generic,9906,4.3,28,Dashain,True,Premium,650,564,70,62,0.10973451327433628,4,2,1
+358,Cosco Cricket #358,Sports & Fitness,Cricket,Cosco,27917,4.7,27,Dashain,True,Luxury,601,569,51,21,0.03684210526315789,4,3,1
+359,Realme Speakers #359,Electronics,Speakers,Realme,61354,4.8,82,Dashain,True,Luxury,333,329,5,9,0.02727272727272727,2,3,1
+360,Nepali Designs Kurtis #360,Fashion,Kurtis,Nepali Designs,6592,3.3,26,Tihar,True,Premium,397,350,48,16,0.045584045584045586,1,2,2
+361,Dell Cameras #361,Electronics,Cameras,Dell,59896,4.5,320,Dashain,True,Luxury,291,281,10,10,0.03546099290780142,2,3,1
+362,OnePlus Smart Watches #362,Electronics,Smart Watches,OnePlus,130741,4.1,88,Dashain,True,Luxury,325,320,14,5,0.01557632398753894,2,3,1
+363,Ugreen Stands #363,Phone Accessories,Stands,Ugreen,6000,3.7,2356,Dashain,True,Premium,380,324,41,30,0.09230769230769231,3,2,1
+364,Apple Smart Watches #364,Electronics,Smart Watches,Apple,61876,4.3,133,Dashain,True,Luxury,310,297,12,12,0.040268456375838924,2,3,1
+365,Dell Smart Watches #365,Electronics,Smart Watches,Dell,82093,4.2,17,Dashain,True,Luxury,287,269,12,7,0.025925925925925925,2,3,1
+366,Realme Cameras #366,Electronics,Cameras,Realme,150000,4.8,355,Dashain,True,Luxury,315,306,12,10,0.03257328990228013,2,3,1
+367,Ugreen Earbuds #367,Phone Accessories,Earbuds,Ugreen,3901,3.9,40,Dashain,True,Mid,413,349,54,28,0.08,3,1,1
+368,Apple Headphones #368,Electronics,Headphones,Apple,150000,3.2,57,Dashain,True,Luxury,308,300,16,4,0.013289036544850499,2,3,1
+369,Garnier Perfume #369,Beauty & Personal Care,Perfume,Garnier,8000,4.5,23,Tihar,True,Premium,424,359,52,30,0.08333333333333333,0,2,2
+370,Vivo Smartphones #370,Electronics,Smartphones,Vivo,35695,3.4,521,Dashain,True,Luxury,293,267,21,11,0.041044776119402986,2,3,1
+371,Biotique Makeup #371,Beauty & Personal Care,Makeup,Biotique,4734,4.1,10,Tihar,True,Mid,440,367,50,39,0.10597826086956522,0,1,2
+372,Allen Solly Ethnic Wear #372,Fashion,Ethnic Wear,Allen Solly,12890,4.3,34,Tihar,True,Premium,393,338,40,38,0.11209439528023599,1,2,2
+373,Mamaearth Men's Grooming #373,Beauty & Personal Care,Men's Grooming,Mamaearth,3493,4.5,76,Tihar,True,Mid,446,376,61,32,0.08488063660477453,0,1,2
+374,Vivo Tablets #374,Electronics,Tablets,Vivo,77260,3.0,128,Dashain,True,Luxury,297,297,8,3,0.010067114093959731,2,3,1
+375,Belkin Chargers #375,Phone Accessories,Chargers,Belkin,2074,4.2,103,Dashain,True,Mid,379,321,42,32,0.09937888198757763,3,1,1
+376,Baseus Cases #376,Phone Accessories,Cases,Baseus,2216,3.7,54,Dashain,True,Mid,395,339,51,24,0.07058823529411765,3,1,1
+377,Vector X Yoga #377,Sports & Fitness,Yoga,Vector X,13359,3.7,80,Dashain,False,Premium,603,502,85,50,0.09940357852882704,4,2,1
+378,Anker Power Banks #378,Phone Accessories,Power Banks,Anker,1971,4.1,174,Dashain,False,Mid,406,347,40,34,0.09770114942528736,3,1,1
+379,Pigeon Bedding #379,Home & Kitchen,Bedding,Pigeon,9177,4.2,178,Dashain,False,Premium,616,527,71,51,0.09659090909090909,5,2,1
+380,Anker Cases #380,Phone Accessories,Cases,Anker,3580,4.1,1160,Dashain,True,Mid,408,353,42,28,0.07909604519774012,3,1,1
+381,HP Tablets #381,Electronics,Tablets,HP,40472,4.7,123,Dashain,True,Luxury,294,278,22,10,0.035842293906810034,2,3,1
+382,Garnier Makeup #382,Beauty & Personal Care,Makeup,Garnier,8000,4.7,196,Tihar,True,Premium,439,365,57,37,0.10109289617486339,0,2,2
+383,Ugreen Stands #383,Phone Accessories,Stands,Ugreen,2149,4.2,33,Dashain,True,Mid,382,319,53,31,0.096875,3,1,1
+384,Samsung Smartphones #384,Electronics,Smartphones,Samsung,66337,4.8,26,Dashain,True,Luxury,288,279,11,10,0.03571428571428571,2,3,1
+385,Dove Makeup #385,Beauty & Personal Care,Makeup,Dove,2107,4.7,27,Tihar,False,Mid,458,396,55,35,0.08816120906801007,0,1,2
+386,Ugreen Cases #386,Phone Accessories,Cases,Ugreen,3773,4.5,36,Dashain,True,Mid,375,329,45,17,0.051515151515151514,3,1,1
+387,Asus Laptops #387,Electronics,Laptops,Asus,99466,4.7,263,Dashain,True,Luxury,294,291,11,7,0.023972602739726026,2,3,1
+388,Mamaearth Men's Grooming #388,Beauty & Personal Care,Men's Grooming,Mamaearth,3097,4.9,370,Tihar,True,Mid,489,415,66,35,0.08413461538461539,0,1,2
+389,Garnier Makeup #389,Beauty & Personal Care,Makeup,Garnier,6350,4.1,105,Tihar,True,Premium,449,387,46,39,0.10051546391752578,0,2,2
+390,Apple Smart Watches #390,Electronics,Smart Watches,Apple,84886,4.9,53,Dashain,True,Luxury,304,287,9,14,0.04861111111111111,2,3,1
+391,Allen Solly Ethnic Wear #391,Fashion,Ethnic Wear,Allen Solly,5524,3.9,134,Tihar,True,Premium,405,339,48,34,0.1,1,2,2
+392,Cosco Badminton #392,Sports & Fitness,Badminton,Cosco,17805,2.9,12,Dashain,True,Premium,580,501,66,48,0.09561752988047809,4,2,1
+393,Anker Earbuds #393,Phone Accessories,Earbuds,Anker,1270,4.4,50,Dashain,True,Mid,385,336,43,22,0.06528189910979229,3,1,1
+394,Cottonworld Jeans #394,Fashion,Jeans,Cottonworld,8101,4.6,48,Tihar,True,Premium,387,328,50,26,0.0790273556231003,1,2,2
+395,Dove Makeup #395,Beauty & Personal Care,Makeup,Dove,2650,4.0,20,Tihar,True,Mid,457,388,56,36,0.09254498714652956,0,1,2
+396,Mamaearth Men's Grooming #396,Beauty & Personal Care,Men's Grooming,Mamaearth,3038,4.0,123,Tihar,True,Mid,424,369,58,25,0.06756756756756757,0,1,2
+397,Apple Speakers #397,Electronics,Speakers,Apple,41440,4.7,36,Dashain,True,Luxury,310,291,19,13,0.04452054794520548,2,3,1
+398,Belkin Earbuds #398,Phone Accessories,Earbuds,Belkin,2709,4.3,220,Dashain,True,Mid,424,370,38,38,0.10242587601078167,3,1,1
+399,Belkin Cables #399,Phone Accessories,Cables,Belkin,1271,4.8,16,Dashain,False,Mid,399,345,41,36,0.10404624277456648,3,1,1
+400,HP Headphones #400,Electronics,Headphones,HP,137812,4.4,29,Dashain,True,Luxury,313,308,6,7,0.022653721682847898,2,3,1
+401,Realme Laptops #401,Electronics,Laptops,Realme,75428,4.3,22,Dashain,True,Luxury,328,317,13,10,0.031446540880503145,2,3,1
+402,Mamaearth Skincare #402,Beauty & Personal Care,Skincare,Mamaearth,2504,4.5,169,Tihar,True,Mid,464,397,55,37,0.09296482412060302,0,1,2
+403,Asus Cameras #403,Electronics,Cameras,Asus,96239,4.5,93,Dashain,True,Luxury,315,311,8,7,0.022435897435897436,2,3,1
+404,OnePlus Smartphones #404,Electronics,Smartphones,OnePlus,100364,4.3,84,Dashain,True,Luxury,318,310,9,11,0.03536977491961415,2,3,1
+405,Apple Cameras #405,Electronics,Cameras,Apple,87741,4.7,51,Dashain,True,Luxury,302,296,12,6,0.020202020202020204,2,3,1
+406,Asus Smartphones #406,Electronics,Smartphones,Asus,74105,3.6,16,Dashain,True,Luxury,282,286,4,4,0.013937282229965157,2,3,1
+407,Generic Screen Protectors #407,Phone Accessories,Screen Protectors,Generic,5942,2.8,18,Dashain,False,Premium,373,322,38,27,0.08359133126934984,3,2,1
+408,Local Bedding #408,Home & Kitchen,Bedding,Local,11667,2.9,27,Dashain,True,Premium,645,557,86,58,0.1039426523297491,5,2,1
+409,Pigeon Decor #409,Home & Kitchen,Decor,Pigeon,15701,4.2,178,Dashain,True,Premium,610,516,81,45,0.08704061895551257,5,2,1
+410,Samsung Smart Watches #410,Electronics,Smart Watches,Samsung,25343,3.9,77,Dashain,True,Luxury,303,276,33,7,0.02527075812274368,2,3,1
+411,Samsung Headphones #411,Electronics,Headphones,Samsung,96870,4.2,2,Dashain,True,Luxury,302,287,11,8,0.027777777777777776,2,3,1
+412,Mamaearth Sunscreen #412,Beauty & Personal Care,Sunscreen,Mamaearth,1236,4.3,46,Tihar,True,Mid,418,364,48,35,0.0958904109589041,0,1,2
+413,Oppo Speakers #413,Electronics,Speakers,Oppo,81518,3.6,18,Dashain,False,Luxury,321,311,8,9,0.028846153846153848,2,3,1
+414,Nepali Designs T-Shirts #414,Fashion,T-Shirts,Nepali Designs,15000,3.7,37,Tihar,True,Premium,389,332,40,29,0.08708708708708708,1,2,2
+415,Anker Chargers #415,Phone Accessories,Chargers,Anker,3444,4.8,63,Dashain,True,Mid,399,340,38,27,0.07917888563049853,3,1,1
+416,Wrangler Ethnic Wear #416,Fashion,Ethnic Wear,Wrangler,3565,4.3,669,Tihar,True,Mid,433,374,39,36,0.096,1,1,2
+417,Biotique Men's Grooming #417,Beauty & Personal Care,Men's Grooming,Biotique,6593,4.2,148,Tihar,True,Premium,426,358,54,33,0.09192200557103064,0,2,2
+418,Milton Cookware #418,Home & Kitchen,Cookware,Milton,18962,4.5,129,Dashain,True,Premium,616,548,78,37,0.06739526411657559,5,2,1
+419,Baseus Cables #419,Phone Accessories,Cables,Baseus,1150,3.4,25,Dashain,True,Mid,394,352,37,27,0.0764872521246459,3,1,1
+420,Belkin Cases #420,Phone Accessories,Cases,Belkin,2027,2.9,7,Dashain,True,Mid,398,321,53,37,0.11490683229813664,3,1,1
+421,Tefal Cookware #421,Home & Kitchen,Cookware,Tefal,17950,4.6,83,Dashain,True,Premium,595,510,68,43,0.08414872798434442,5,2,1
+422,Vector X Outdoor Gear #422,Sports & Fitness,Outdoor Gear,Vector X,30000,4.4,3,Dashain,True,Luxury,607,583,34,32,0.0547945205479452,4,3,1
+423,Vector X Cricket #423,Sports & Fitness,Cricket,Vector X,6838,3.7,72,Dashain,True,Premium,574,487,65,60,0.12295081967213115,4,2,1
+424,Ugreen Stands #424,Phone Accessories,Stands,Ugreen,1075,3.3,46,Dashain,False,Mid,395,322,50,41,0.12693498452012383,3,1,1
+425,Apple Cameras #425,Electronics,Cameras,Apple,56258,3.9,142,Dashain,True,Luxury,309,301,13,6,0.019867549668874173,2,3,1
+426,Mamaearth Men's Grooming #426,Beauty & Personal Care,Men's Grooming,Mamaearth,2514,3.7,146,Tihar,True,Mid,419,359,44,31,0.08611111111111111,0,1,2
+427,Asus Headphones #427,Electronics,Headphones,Asus,62695,4.9,68,Dashain,True,Luxury,300,288,12,9,0.031141868512110725,2,3,1
+428,Samsung Smart Watches #428,Electronics,Smart Watches,Samsung,58742,3.8,115,Dashain,True,Luxury,317,309,9,7,0.02258064516129032,2,3,1
+429,Allen Solly Ethnic Wear #429,Fashion,Ethnic Wear,Allen Solly,9970,4.2,6,Tihar,True,Premium,384,316,53,36,0.11356466876971609,1,2,2
+430,Belkin Cables #430,Phone Accessories,Cables,Belkin,5264,4.7,40,Dashain,True,Premium,397,368,33,22,0.05962059620596206,3,2,1
+431,Nivia Football #431,Sports & Fitness,Football,Nivia,19833,3.5,2,Dashain,True,Premium,583,493,69,58,0.11740890688259109,4,2,1
+432,Cottonworld Shoes #432,Fashion,Shoes,Cottonworld,6889,4.5,214,Tihar,True,Premium,399,334,45,33,0.09850746268656717,1,2,2
+433,Loreal Skincare #433,Beauty & Personal Care,Skincare,Loreal,8000,4.3,56,Tihar,True,Premium,416,349,58,34,0.09714285714285714,0,2,2
+434,Baseus Screen Protectors #434,Phone Accessories,Screen Protectors,Baseus,1400,4.8,170,Dashain,True,Mid,434,366,48,30,0.08174386920980926,3,1,1
+435,Baseus Stands #435,Phone Accessories,Stands,Baseus,2953,4.3,32,Dashain,False,Mid,386,323,51,32,0.09876543209876543,3,1,1
+436,Prestige Storage #436,Home & Kitchen,Storage,Prestige,5409,4.4,70,Dashain,True,Premium,649,560,78,49,0.0873440285204991,5,2,1
+437,Tefal Bedding #437,Home & Kitchen,Bedding,Tefal,18128,4.1,16,Dashain,True,Premium,594,545,67,34,0.06227106227106227,5,2,1
+438,Levi's Saree #438,Fashion,Saree,Levi's,5346,4.5,15,Tihar,False,Premium,398,339,44,30,0.08823529411764706,1,2,2
+439,Anker Cases #439,Phone Accessories,Cases,Anker,1912,4.3,32,Dashain,True,Mid,427,368,48,34,0.0921409214092141,3,1,1
+440,Ugreen Cables #440,Phone Accessories,Cables,Ugreen,4508,4.3,75,Dashain,True,Mid,377,333,37,26,0.07784431137724551,3,1,1
+441,Generic Stands #441,Phone Accessories,Stands,Generic,6000,3.8,262,Dashain,True,Premium,412,345,56,29,0.0838150289017341,3,2,1
+442,Prestige Cookware #442,Home & Kitchen,Cookware,Prestige,8187,4.1,35,Dashain,True,Premium,600,542,64,38,0.06998158379373849,5,2,1
+443,Wrangler Jackets #443,Fashion,Jackets,Wrangler,10150,4.6,271,Tihar,True,Premium,419,363,55,26,0.07142857142857142,1,2,2
+444,Samsung Smartphones #444,Electronics,Smartphones,Samsung,43410,4.1,57,Dashain,True,Luxury,329,304,22,10,0.03278688524590164,2,3,1
+445,Apple Headphones #445,Electronics,Headphones,Apple,60067,4.3,31,Dashain,True,Luxury,302,306,6,2,0.006514657980456026,2,3,1
+446,Allen Solly Jackets #446,Fashion,Jackets,Allen Solly,8347,4.6,8,Tihar,False,Premium,410,346,43,35,0.10086455331412104,1,2,2
+447,Allen Solly Ethnic Wear #447,Fashion,Ethnic Wear,Allen Solly,5863,4.9,302,Tihar,True,Premium,388,329,47,31,0.09393939393939393,1,2,2
+448,Garnier Sunscreen #448,Beauty & Personal Care,Sunscreen,Garnier,3064,4.4,12,Tihar,True,Mid,468,394,57,33,0.08354430379746836,0,1,2
+449,Local Storage #449,Home & Kitchen,Storage,Local,18458,4.6,21,Dashain,True,Premium,620,567,60,41,0.0721830985915493,5,2,1
+450,Prestige Decor #450,Home & Kitchen,Decor,Prestige,13832,4.3,23,Dashain,True,Premium,592,545,60,32,0.05860805860805861,5,2,1
+451,Ugreen Screen Protectors #451,Phone Accessories,Screen Protectors,Ugreen,1275,2.9,64,Dashain,True,Mid,391,338,46,27,0.07964601769911504,3,1,1
+452,Xiaomi Speakers #452,Electronics,Speakers,Xiaomi,119935,4.0,484,Dashain,True,Luxury,318,315,12,4,0.012658227848101266,2,3,1
+453,Oppo Speakers #453,Electronics,Speakers,Oppo,72863,4.4,26,Dashain,False,Luxury,297,296,8,5,0.016835016835016835,2,3,1
+454,Yonex Football #454,Sports & Fitness,Football,Yonex,13089,4.1,53,Dashain,True,Premium,627,520,81,61,0.11708253358925144,4,2,1
+455,Cottonworld Jeans #455,Fashion,Jeans,Cottonworld,11352,4.3,36,Tihar,True,Premium,420,370,46,26,0.07008086253369272,1,2,2
+456,Realme Smart Watches #456,Electronics,Smart Watches,Realme,63813,3.6,251,Dashain,True,Luxury,306,298,13,7,0.023411371237458192,2,3,1
+457,Zara Kurtis #457,Fashion,Kurtis,Zara,12784,3.9,158,Tihar,True,Premium,381,330,39,33,0.09969788519637462,1,2,2
+458,Ugreen Power Banks #458,Phone Accessories,Power Banks,Ugreen,3305,4.7,24,Dashain,True,Mid,424,359,59,26,0.07222222222222222,3,1,1
+459,Asus Headphones #459,Electronics,Headphones,Asus,105720,4.7,97,Dashain,True,Luxury,306,295,8,11,0.037162162162162164,2,3,1
+460,Apple Laptops #460,Electronics,Laptops,Apple,91161,4.0,103,Dashain,True,Luxury,294,292,6,8,0.027303754266211604,2,3,1
+461,OnePlus Headphones #461,Electronics,Headphones,OnePlus,55127,3.7,12,Dashain,True,Luxury,319,314,14,4,0.012698412698412698,2,3,1
+462,Prestige Air Purifiers #462,Home & Kitchen,Air Purifiers,Prestige,25000,4.0,43,Dashain,True,Luxury,598,566,45,27,0.047619047619047616,5,3,1
+463,Generic Cricket #463,Sports & Fitness,Cricket,Generic,11684,4.4,147,Dashain,True,Premium,585,498,68,51,0.10220440881763528,4,2,1
+464,Anker Stands #464,Phone Accessories,Stands,Anker,6000,3.5,128,Dashain,True,Premium,406,335,51,36,0.10714285714285714,3,2,1
+465,Realme Tablets #465,Electronics,Tablets,Realme,41901,4.0,16,Dashain,True,Luxury,311,282,29,15,0.053003533568904596,2,3,1
+466,Apple Tablets #466,Electronics,Tablets,Apple,100817,4.4,440,Dashain,True,Luxury,295,287,8,10,0.034722222222222224,2,3,1
+467,Belkin Cases #467,Phone Accessories,Cases,Belkin,4971,4.1,15,Dashain,True,Mid,416,347,44,37,0.10632183908045977,3,1,1
+468,Levi's T-Shirts #468,Fashion,T-Shirts,Levi's,15000,4.6,73,Tihar,True,Premium,390,331,44,30,0.09036144578313253,1,2,2
+469,Zara T-Shirts #469,Fashion,T-Shirts,Zara,15000,4.3,169,Tihar,True,Premium,410,359,47,24,0.06666666666666667,1,2,2
+470,Tefal Storage #470,Home & Kitchen,Storage,Tefal,9929,4.8,46,Dashain,True,Premium,631,535,85,45,0.08395522388059702,5,2,1
+471,Pigeon Decor #471,Home & Kitchen,Decor,Pigeon,17343,4.8,69,Dashain,True,Premium,639,566,59,42,0.07407407407407407,5,2,1
+472,Loreal Perfume #472,Beauty & Personal Care,Perfume,Loreal,4499,3.3,24,Tihar,True,Mid,442,375,56,30,0.0797872340425532,0,1,2
+473,Levi's Shoes #473,Fashion,Shoes,Levi's,6759,4.4,13,Tihar,True,Premium,374,316,44,34,0.10725552050473186,1,2,2
+474,Generic Badminton #474,Sports & Fitness,Badminton,Generic,10912,4.7,86,Dashain,True,Premium,592,516,49,62,0.11992263056092843,4,2,1
+475,HP Smart Watches #475,Electronics,Smart Watches,HP,92324,3.9,174,Dashain,False,Luxury,314,309,8,5,0.016129032258064516,2,3,1
+476,Zara Jackets #476,Fashion,Jackets,Zara,6528,4.4,515,Tihar,False,Premium,390,331,40,38,0.1144578313253012,1,2,2
+477,Xiaomi Cameras #477,Electronics,Cameras,Xiaomi,81521,3.5,21,Dashain,True,Luxury,309,301,12,6,0.019867549668874173,2,3,1
+478,Vivo Speakers #478,Electronics,Speakers,Vivo,40678,4.0,48,Dashain,True,Luxury,285,268,19,10,0.03717472118959108,2,3,1
+479,Xiaomi Smartphones #479,Electronics,Smartphones,Xiaomi,63973,4.0,152,Dashain,True,Luxury,290,280,13,6,0.021352313167259787,2,3,1
+480,HP Laptops #480,Electronics,Laptops,HP,65819,4.0,500,Dashain,True,Luxury,321,320,9,9,0.028037383177570093,2,3,1
+481,Asus Cameras #481,Electronics,Cameras,Asus,76476,4.5,256,Dashain,True,Luxury,270,265,12,6,0.022556390977443608,2,3,1
+482,Nepali Designs Saree #482,Fashion,Saree,Nepali Designs,15000,4.7,33,Tihar,True,Premium,376,301,56,31,0.10264900662251655,1,2,2
+483,Prestige Storage #483,Home & Kitchen,Storage,Prestige,25000,3.9,110,Dashain,True,Luxury,610,576,49,25,0.043327556325823226,5,3,1
+484,Himalaya Makeup #484,Beauty & Personal Care,Makeup,Himalaya,2034,4.0,85,Tihar,True,Mid,492,415,65,37,0.0889423076923077,0,1,2
+485,Ugreen Screen Protectors #485,Phone Accessories,Screen Protectors,Ugreen,2373,3.8,498,Dashain,False,Mid,398,349,36,30,0.08571428571428572,3,1,1
+486,Generic Stands #486,Phone Accessories,Stands,Generic,1010,4.8,65,Dashain,True,Mid,426,362,47,41,0.11294765840220386,3,1,1
+487,Baseus Cables #487,Phone Accessories,Cables,Baseus,4978,4.2,512,Dashain,False,Mid,432,366,47,37,0.1008174386920981,3,1,1
+488,Asus Laptops #488,Electronics,Laptops,Asus,108302,4.3,14,Dashain,True,Luxury,311,308,7,5,0.016181229773462782,2,3,1
+489,Baseus Cases #489,Phone Accessories,Cases,Baseus,1732,3.6,47,Dashain,True,Mid,388,334,39,33,0.09850746268656717,3,1,1
+490,Samsung Laptops #490,Electronics,Laptops,Samsung,35043,4.0,6,Dashain,True,Luxury,312,288,19,17,0.058823529411764705,2,3,1
+491,Xiaomi Cameras #491,Electronics,Cameras,Xiaomi,150000,3.4,112,Dashain,True,Luxury,317,310,11,6,0.01929260450160772,2,3,1
+492,Samsung Headphones #492,Electronics,Headphones,Samsung,59558,3.4,51,Dashain,True,Luxury,339,324,18,8,0.024615384615384615,2,3,1
+493,Dove Perfume #493,Beauty & Personal Care,Perfume,Dove,6756,4.3,82,Tihar,True,Premium,437,385,45,29,0.07512953367875648,0,2,2
+494,Yonex Badminton #494,Sports & Fitness,Badminton,Yonex,15336,4.6,165,Dashain,True,Premium,602,543,69,45,0.08272058823529412,4,2,1
+495,Nivea Makeup #495,Beauty & Personal Care,Makeup,Nivea,5539,4.9,46,Tihar,True,Premium,449,402,50,24,0.05955334987593052,0,2,2
+496,Cottonworld Jeans #496,Fashion,Jeans,Cottonworld,3667,4.4,171,Tihar,True,Mid,379,335,38,21,0.0625,1,1,2
+497,Allen Solly Jeans #497,Fashion,Jeans,Allen Solly,7807,4.8,43,Tihar,True,Premium,387,325,42,34,0.10429447852760736,1,2,2
+498,Levi's Ethnic Wear #498,Fashion,Ethnic Wear,Levi's,15000,4.6,16,Tihar,True,Premium,391,339,42,19,0.05588235294117647,1,2,2
+499,Nepali Designs Kurta #499,Fashion,Kurta,Nepali Designs,11546,3.8,9,Tihar,True,Premium,408,341,51,33,0.09649122807017543,1,2,2
+500,Dell Smart Watches #500,Electronics,Smart Watches,Dell,14552,4.3,10,Dashain,True,Premium,330,280,31,26,0.09252669039145907,2,2,1
+501,Milton Cleaning #501,Home & Kitchen,Cleaning,Milton,23936,3.9,180,Dashain,True,Luxury,587,561,42,28,0.0498220640569395,5,3,1
+502,Belkin Cases #502,Phone Accessories,Cases,Belkin,1481,4.1,169,Dashain,False,Mid,399,355,37,32,0.0898876404494382,3,1,1
+503,Allen Solly Jackets #503,Fashion,Jackets,Allen Solly,15000,4.8,57,Tihar,True,Premium,401,344,44,36,0.10434782608695652,1,2,2
+504,Samsung Smartphones #504,Electronics,Smartphones,Samsung,67534,4.3,304,Dashain,True,Luxury,303,293,10,9,0.030612244897959183,2,3,1
+505,Tefal Air Purifiers #505,Home & Kitchen,Air Purifiers,Tefal,14749,4.6,38,Dashain,True,Premium,611,534,71,49,0.09158878504672897,5,2,1
+506,Dell Tablets #506,Electronics,Tablets,Dell,150000,3.4,62,Dashain,True,Luxury,321,314,12,8,0.025396825396825397,2,3,1
+507,Ugreen Screen Protectors #507,Phone Accessories,Screen Protectors,Ugreen,4555,3.6,146,Dashain,True,Mid,429,360,56,32,0.0886426592797784,3,1,1
+508,Himalaya Haircare #508,Beauty & Personal Care,Haircare,Himalaya,3588,3.3,34,Tihar,True,Mid,455,380,58,40,0.10498687664041995,0,1,2
+509,Generic Screen Protectors #509,Phone Accessories,Screen Protectors,Generic,3696,4.6,58,Dashain,False,Mid,401,348,43,22,0.06303724928366762,3,1,1
+510,Local Bedding #510,Home & Kitchen,Bedding,Local,5852,4.8,152,Dashain,True,Premium,616,530,79,40,0.07532956685499058,5,2,1
+511,Belkin Earbuds #511,Phone Accessories,Earbuds,Belkin,2495,4.1,107,Dashain,True,Mid,387,329,35,39,0.11818181818181818,3,1,1
+512,Yonex Badminton #512,Sports & Fitness,Badminton,Yonex,18831,4.5,50,Dashain,True,Premium,582,489,80,52,0.10612244897959183,4,2,1
+513,Dove Skincare #513,Beauty & Personal Care,Skincare,Dove,8000,4.5,19,Tihar,True,Premium,456,376,52,46,0.1220159151193634,0,2,2
+514,Dove Skincare #514,Beauty & Personal Care,Skincare,Dove,2384,3.9,116,Tihar,True,Mid,415,335,53,41,0.12202380952380952,0,1,2
+515,Baseus Screen Protectors #515,Phone Accessories,Screen Protectors,Baseus,6000,4.4,212,Dashain,True,Premium,399,337,49,34,0.10059171597633136,3,2,1
+516,Apple Laptops #516,Electronics,Laptops,Apple,56479,3.2,127,Dashain,True,Luxury,327,319,13,7,0.021875,2,3,1
+517,Loreal Skincare #517,Beauty & Personal Care,Skincare,Loreal,5753,3.7,24,Tihar,True,Premium,455,387,51,50,0.12886597938144329,0,2,2
+518,OnePlus Smart Watches #518,Electronics,Smart Watches,OnePlus,56493,4.8,52,Dashain,True,Luxury,309,304,10,6,0.019672131147540985,2,3,1
+519,Nivia Yoga #519,Sports & Fitness,Yoga,Nivia,17503,4.6,66,Dashain,True,Premium,568,490,75,47,0.09572301425661914,4,2,1
+520,Nivia Badminton #520,Sports & Fitness,Badminton,Nivia,16763,4.0,23,Dashain,True,Premium,581,511,71,48,0.09375,4,2,1
+521,Realme Headphones #521,Electronics,Headphones,Realme,42814,4.6,131,Dashain,True,Luxury,301,278,16,15,0.053763440860215055,2,3,1
+522,Dell Smart Watches #522,Electronics,Smart Watches,Dell,68475,4.7,67,Dashain,True,Luxury,290,275,11,11,0.03985507246376811,2,3,1
+523,Dell Cameras #523,Electronics,Cameras,Dell,59909,4.2,23,Dashain,True,Luxury,316,308,15,3,0.009708737864077669,2,3,1
+524,Anker Cases #524,Phone Accessories,Cases,Anker,1774,3.3,35,Dashain,True,Mid,414,349,55,26,0.07428571428571429,3,1,1
+525,Nepali Designs Jackets #525,Fashion,Jackets,Nepali Designs,15000,4.7,50,Tihar,False,Premium,392,340,43,27,0.07917888563049853,1,2,2
+526,Xiaomi Laptops #526,Electronics,Laptops,Xiaomi,64250,4.0,45,Dashain,True,Luxury,335,321,9,8,0.024844720496894408,2,3,1
+527,Allen Solly Saree #527,Fashion,Saree,Allen Solly,9489,4.7,60,Tihar,True,Premium,383,324,45,26,0.08,1,2,2
+528,OnePlus Tablets #528,Electronics,Tablets,OnePlus,56827,4.5,12,Dashain,True,Luxury,322,310,14,9,0.028938906752411574,2,3,1
+529,Generic Outdoor Gear #529,Sports & Fitness,Outdoor Gear,Generic,8027,4.9,11,Dashain,False,Premium,616,538,63,49,0.09090909090909091,4,2,1
+530,Samsung Headphones #530,Electronics,Headphones,Samsung,150000,4.0,448,Dashain,True,Luxury,306,305,10,2,0.006535947712418301,2,3,1
+531,Xiaomi Smartphones #531,Electronics,Smartphones,Xiaomi,110785,4.7,360,Dashain,True,Luxury,302,302,8,4,0.013201320132013201,2,3,1
+532,Dove Men's Grooming #532,Beauty & Personal Care,Men's Grooming,Dove,5339,4.8,29,Tihar,True,Premium,451,389,55,30,0.07692307692307693,0,2,2
+533,Belkin Earbuds #533,Phone Accessories,Earbuds,Belkin,1528,4.4,145,Dashain,True,Mid,399,357,38,23,0.06424581005586592,3,1,1
+534,Zara Jackets #534,Fashion,Jackets,Zara,6717,4.3,10,Tihar,True,Premium,387,325,47,30,0.09202453987730061,1,2,2
+535,Xiaomi Laptops #535,Electronics,Laptops,Xiaomi,96217,4.2,41,Dashain,True,Luxury,306,304,14,6,0.019672131147540985,2,3,1
+536,Zara Shoes #536,Fashion,Shoes,Zara,15000,4.8,468,Tihar,True,Premium,382,322,51,33,0.1021671826625387,1,2,2
+537,Levi's Jeans #537,Fashion,Jeans,Levi's,7690,4.7,50,Tihar,True,Premium,379,325,44,28,0.08588957055214724,1,2,2
+538,Allen Solly Kurta #538,Fashion,Kurta,Allen Solly,11170,3.9,340,Tihar,True,Premium,368,315,38,32,0.10126582278481013,1,2,2
+539,Garnier Perfume #539,Beauty & Personal Care,Perfume,Garnier,8000,4.6,89,Tihar,True,Premium,462,408,41,39,0.09535452322738386,0,2,2
+540,Asus Smartphones #540,Electronics,Smartphones,Asus,78196,4.2,45,Dashain,True,Luxury,299,293,10,9,0.030612244897959183,2,3,1
+541,Allen Solly Ethnic Wear #541,Fashion,Ethnic Wear,Allen Solly,8935,3.7,54,Tihar,True,Premium,379,313,52,26,0.08280254777070063,1,2,2
+542,Levi's T-Shirts #542,Fashion,T-Shirts,Levi's,11531,4.1,47,Tihar,True,Premium,396,325,57,33,0.10122699386503067,1,2,2
+543,Apple Headphones #543,Electronics,Headphones,Apple,46422,4.1,46,Dashain,True,Luxury,295,273,17,18,0.06569343065693431,2,3,1
+544,Zara Kurta #544,Fashion,Kurta,Zara,9673,4.7,36,Tihar,True,Premium,407,339,52,37,0.10882352941176471,1,2,2
+545,Baseus Stands #545,Phone Accessories,Stands,Baseus,4510,4.6,67,Dashain,True,Mid,434,367,57,36,0.09782608695652174,3,1,1
+546,Ugreen Earbuds #546,Phone Accessories,Earbuds,Ugreen,1894,3.6,120,Dashain,True,Mid,403,337,60,23,0.06804733727810651,3,1,1
+547,Biotique Perfume #547,Beauty & Personal Care,Perfume,Biotique,8000,3.8,118,Tihar,True,Premium,434,372,47,34,0.09115281501340483,0,2,2
+548,Asus Smartphones #548,Electronics,Smartphones,Asus,36075,4.2,11,Dashain,True,Luxury,303,287,17,11,0.03819444444444445,2,3,1
+549,Tefal Storage #549,Home & Kitchen,Storage,Tefal,12989,4.1,14,Dashain,True,Premium,612,534,65,52,0.09719626168224299,5,2,1
+550,Wrangler Jeans #550,Fashion,Jeans,Wrangler,2713,4.5,239,Tihar,True,Mid,394,332,52,30,0.09009009009009009,1,1,2
+551,Samsung Speakers #551,Electronics,Speakers,Samsung,150000,3.7,29,Dashain,True,Luxury,316,309,15,8,0.025806451612903226,2,3,1
+552,OnePlus Smart Watches #552,Electronics,Smart Watches,OnePlus,117706,3.7,95,Dashain,True,Luxury,329,325,12,2,0.006134969325153374,2,3,1
+553,Realme Speakers #553,Electronics,Speakers,Realme,129895,3.7,4,Dashain,True,Luxury,310,305,10,7,0.02287581699346405,2,3,1
+554,Local Cleaning #554,Home & Kitchen,Cleaning,Local,25000,4.3,31,Dashain,True,Luxury,613,610,27,31,0.05073649754500818,5,3,1
+555,Anker Screen Protectors #555,Phone Accessories,Screen Protectors,Anker,6000,4.3,55,Dashain,True,Premium,419,365,43,30,0.08196721311475409,3,2,1
+556,Loreal Skincare #556,Beauty & Personal Care,Skincare,Loreal,3323,4.0,134,Tihar,True,Mid,452,386,52,32,0.082687338501292,0,1,2
+557,Milton Bedding #557,Home & Kitchen,Bedding,Milton,25000,4.0,8,Dashain,True,Luxury,596,557,53,22,0.03942652329749104,5,3,1
+558,Asus Cameras #558,Electronics,Cameras,Asus,76536,4.7,12,Dashain,True,Luxury,319,306,17,6,0.019543973941368076,2,3,1
+559,HP Tablets #559,Electronics,Tablets,HP,34889,3.3,15,Dashain,True,Luxury,318,282,24,18,0.0636042402826855,2,3,1
+560,Zara Jackets #560,Fashion,Jackets,Zara,12702,4.6,75,Tihar,True,Premium,344,283,51,23,0.08098591549295775,1,2,2
+561,Milton Decor #561,Home & Kitchen,Decor,Milton,12249,4.8,25,Dashain,True,Premium,636,571,56,49,0.08566433566433566,5,2,1
+562,Himalaya Makeup #562,Beauty & Personal Care,Makeup,Himalaya,3328,4.2,6,Tihar,False,Mid,421,359,48,23,0.06388888888888888,0,1,2
+563,HP Smartphones #563,Electronics,Smartphones,HP,53589,4.1,318,Dashain,True,Luxury,308,307,12,3,0.00974025974025974,2,3,1
+564,Dove Makeup #564,Beauty & Personal Care,Makeup,Dove,6857,3.3,285,Tihar,True,Premium,476,408,60,30,0.07334963325183375,0,2,2
+565,Cottonworld Shoes #565,Fashion,Shoes,Cottonworld,15000,4.1,9,Tihar,True,Premium,396,338,46,30,0.08849557522123894,1,2,2
+566,Wrangler Kurtis #566,Fashion,Kurtis,Wrangler,6843,4.0,125,Tihar,True,Premium,383,319,52,32,0.1,1,2,2
+567,Vivo Headphones #567,Electronics,Headphones,Vivo,72011,4.4,109,Dashain,True,Luxury,284,278,7,5,0.017921146953405017,2,3,1
+568,Dove Sunscreen #568,Beauty & Personal Care,Sunscreen,Dove,6073,3.5,23,Tihar,True,Premium,478,397,59,41,0.10301507537688442,0,2,2
+569,Anker Cases #569,Phone Accessories,Cases,Anker,4183,4.4,23,Dashain,True,Mid,364,314,41,24,0.0761904761904762,3,1,1
+570,Levi's Ethnic Wear #570,Fashion,Ethnic Wear,Levi's,6328,4.5,7,Tihar,True,Premium,377,325,41,27,0.08282208588957055,1,2,2
+571,Garnier Sunscreen #571,Beauty & Personal Care,Sunscreen,Garnier,6291,4.0,37,Tihar,True,Premium,464,403,48,41,0.10148514851485149,0,2,2
+572,Himalaya Makeup #572,Beauty & Personal Care,Makeup,Himalaya,3774,4.3,5,Tihar,True,Mid,458,390,47,37,0.09462915601023018,0,1,2
+573,Cosco Gym Equipment #573,Sports & Fitness,Gym Equipment,Cosco,4409,4.9,80,Dashain,True,Mid,587,523,62,40,0.07633587786259542,4,1,1
+574,Allen Solly Ethnic Wear #574,Fashion,Ethnic Wear,Allen Solly,10082,4.4,30,Tihar,True,Premium,383,323,57,25,0.07716049382716049,1,2,2
+575,Nivia Yoga #575,Sports & Fitness,Yoga,Nivia,10500,3.6,13,Dashain,True,Premium,601,513,72,51,0.09922178988326848,4,2,1
+576,Dell Laptops #576,Electronics,Laptops,Dell,62818,4.4,41,Dashain,True,Luxury,294,290,12,8,0.027491408934707903,2,3,1
+577,Loreal Sunscreen #577,Beauty & Personal Care,Sunscreen,Loreal,3973,4.1,199,Tihar,True,Mid,444,394,49,26,0.06582278481012659,0,1,2
+578,Vivo Headphones #578,Electronics,Headphones,Vivo,113588,4.2,43,Dashain,True,Luxury,304,302,13,6,0.019801980198019802,2,3,1
+579,Cottonworld Kurtis #579,Fashion,Kurtis,Cottonworld,3957,4.7,174,Tihar,True,Mid,382,320,44,34,0.1059190031152648,1,1,2
+580,Allen Solly Kurta #580,Fashion,Kurta,Allen Solly,11835,4.3,90,Tihar,True,Premium,414,369,44,26,0.07027027027027027,1,2,2
+581,Milton Air Purifiers #581,Home & Kitchen,Air Purifiers,Milton,6694,3.8,29,Dashain,True,Premium,667,567,83,53,0.09330985915492958,5,2,1
+582,Belkin Chargers #582,Phone Accessories,Chargers,Belkin,4622,3.9,47,Dashain,True,Mid,413,348,53,28,0.08022922636103152,3,1,1
+583,Dell Smart Watches #583,Electronics,Smart Watches,Dell,47611,4.7,45,Dashain,True,Luxury,342,309,25,23,0.07419354838709677,2,3,1
+584,Vector X Cricket #584,Sports & Fitness,Cricket,Vector X,6315,3.5,198,Dashain,True,Premium,611,513,67,64,0.1245136186770428,4,2,1
+585,Samsung Laptops #585,Electronics,Laptops,Samsung,68049,3.7,39,Dashain,True,Luxury,333,319,13,12,0.0375,2,3,1
+586,Local Cleaning #586,Home & Kitchen,Cleaning,Local,5687,4.5,253,Dashain,True,Premium,562,501,67,43,0.08565737051792828,5,2,1
+587,HP Tablets #587,Electronics,Tablets,HP,46552,4.1,206,Dashain,True,Luxury,274,251,17,15,0.05952380952380952,2,3,1
+588,Oppo Speakers #588,Electronics,Speakers,Oppo,115585,4.0,449,Dashain,True,Luxury,290,281,9,8,0.028368794326241134,2,3,1
+589,Dell Smartphones #589,Electronics,Smartphones,Dell,72052,3.9,254,Dashain,True,Luxury,325,315,11,13,0.04113924050632911,2,3,1
+590,Asus Speakers #590,Electronics,Speakers,Asus,46120,3.5,15,Dashain,True,Luxury,327,296,22,19,0.06397306397306397,2,3,1
+591,Vector X Badminton #591,Sports & Fitness,Badminton,Vector X,18812,4.0,164,Dashain,True,Premium,582,520,60,42,0.08061420345489444,4,2,1
+592,Apple Headphones #592,Electronics,Headphones,Apple,46401,3.4,86,Dashain,True,Luxury,328,311,20,10,0.03205128205128205,2,3,1
+593,Tefal Cookware #593,Home & Kitchen,Cookware,Tefal,9210,4.5,78,Dashain,True,Premium,577,501,61,42,0.08366533864541832,5,2,1
+594,Nepali Designs Kurta #594,Fashion,Kurta,Nepali Designs,6664,4.1,27,Tihar,False,Premium,424,352,58,35,0.09915014164305949,1,2,2
+595,Anker Cables #595,Phone Accessories,Cables,Anker,3344,4.6,192,Dashain,True,Mid,401,327,49,39,0.11890243902439024,3,1,1
+596,Ugreen Earbuds #596,Phone Accessories,Earbuds,Ugreen,6000,4.6,291,Dashain,True,Premium,438,381,47,38,0.09947643979057591,3,2,1
+597,Biotique Men's Grooming #597,Beauty & Personal Care,Men's Grooming,Biotique,3822,4.5,32,Tihar,True,Mid,448,386,57,31,0.08010335917312661,0,1,2
+598,Pigeon Air Purifiers #598,Home & Kitchen,Air Purifiers,Pigeon,24199,4.2,154,Dashain,True,Luxury,614,590,39,25,0.04230118443316413,5,3,1
+599,Asus Headphones #599,Electronics,Headphones,Asus,42521,4.5,6,Dashain,True,Luxury,299,281,19,9,0.031914893617021274,2,3,1
+600,Apple Headphones #600,Electronics,Headphones,Apple,98997,4.2,224,Dashain,True,Luxury,333,324,12,8,0.024615384615384615,2,3,1
+601,Wrangler Jackets #601,Fashion,Jackets,Wrangler,14183,4.6,156,Tihar,False,Premium,393,319,51,34,0.10625,1,2,2
+602,Loreal Perfume #602,Beauty & Personal Care,Perfume,Loreal,8000,3.9,5,Tihar,False,Premium,434,374,44,35,0.09333333333333334,0,2,2
+603,Allen Solly Saree #603,Fashion,Saree,Allen Solly,10787,4.7,33,Tihar,True,Premium,379,319,49,28,0.0875,1,2,2
+604,Oppo Speakers #604,Electronics,Speakers,Oppo,116900,3.9,55,Dashain,True,Luxury,322,308,13,10,0.032362459546925564,2,3,1
+605,Wrangler Jeans #605,Fashion,Jeans,Wrangler,7648,3.2,110,Tihar,True,Premium,397,340,47,31,0.09090909090909091,1,2,2
+606,OnePlus Cameras #606,Electronics,Cameras,OnePlus,150000,4.6,29,Dashain,True,Luxury,301,295,8,10,0.033783783783783786,2,3,1
+607,Himalaya Skincare #607,Beauty & Personal Care,Skincare,Himalaya,8000,3.7,102,Tihar,True,Premium,441,378,40,36,0.09498680738786279,0,2,2
+608,Nivia Cricket #608,Sports & Fitness,Cricket,Nivia,30000,3.9,74,Dashain,True,Luxury,600,572,41,32,0.055846422338568937,4,3,1
+609,Allen Solly T-Shirts #609,Fashion,T-Shirts,Allen Solly,10830,4.8,13,Tihar,True,Premium,389,337,43,26,0.07692307692307693,1,2,2
+610,Allen Solly Kurta #610,Fashion,Kurta,Allen Solly,15000,3.8,772,Tihar,True,Premium,379,328,48,28,0.0851063829787234,1,2,2
+611,Vivo Headphones #611,Electronics,Headphones,Vivo,150000,2.8,18,Dashain,True,Luxury,328,328,8,6,0.0182370820668693,2,3,1
+612,Generic Outdoor Gear #612,Sports & Fitness,Outdoor Gear,Generic,27466,3.5,18,Dashain,True,Luxury,579,564,36,21,0.03716814159292035,4,3,1
+613,Wrangler Kurta #613,Fashion,Kurta,Wrangler,3596,4.6,102,Tihar,False,Mid,405,343,48,29,0.08430232558139535,1,1,2
+614,Nivea Sunscreen #614,Beauty & Personal Care,Sunscreen,Nivea,3024,4.8,25,Tihar,True,Mid,465,414,42,39,0.09397590361445783,0,1,2
+615,Anker Screen Protectors #615,Phone Accessories,Screen Protectors,Anker,3566,4.4,34,Dashain,True,Mid,388,329,48,34,0.10303030303030303,3,1,1
+616,Generic Power Banks #616,Phone Accessories,Power Banks,Generic,4546,3.4,422,Dashain,True,Mid,399,340,51,29,0.08504398826979472,3,1,1
+617,Milton Cookware #617,Home & Kitchen,Cookware,Milton,16340,3.8,87,Dashain,True,Premium,584,512,64,40,0.07797270955165692,5,2,1
+618,Samsung Laptops #618,Electronics,Laptops,Samsung,20532,3.5,4,Dashain,True,Luxury,280,250,19,16,0.06374501992031872,2,3,1
+619,HP Cameras #619,Electronics,Cameras,HP,82219,4.9,92,Dashain,True,Luxury,297,291,6,10,0.03424657534246575,2,3,1
+620,Yonex Yoga #620,Sports & Fitness,Yoga,Yonex,24505,3.7,586,Dashain,True,Luxury,598,576,44,19,0.03292894280762565,4,3,1
+621,Tefal Decor #621,Home & Kitchen,Decor,Tefal,14832,4.2,86,Dashain,False,Premium,595,516,62,44,0.0851063829787234,5,2,1
+622,Milton Cookware #622,Home & Kitchen,Cookware,Milton,9805,4.3,36,Dashain,True,Premium,584,504,56,61,0.12079207920792079,5,2,1
+623,Biotique Makeup #623,Beauty & Personal Care,Makeup,Biotique,2546,4.7,327,Tihar,True,Mid,455,384,50,39,0.1012987012987013,0,1,2
+624,Anker Chargers #624,Phone Accessories,Chargers,Anker,6000,4.5,73,Dashain,True,Premium,403,345,51,26,0.07514450867052024,3,2,1
+625,Zara Ethnic Wear #625,Fashion,Ethnic Wear,Zara,7316,3.4,179,Tihar,True,Premium,401,336,51,28,0.0830860534124629,1,2,2
+626,Oppo Headphones #626,Electronics,Headphones,Oppo,98048,3.8,56,Dashain,True,Luxury,316,312,9,10,0.03194888178913738,2,3,1
+627,Anker Screen Protectors #627,Phone Accessories,Screen Protectors,Anker,6000,4.4,272,Dashain,True,Premium,425,347,55,42,0.1206896551724138,3,2,1
+628,Garnier Makeup #628,Beauty & Personal Care,Makeup,Garnier,2616,3.7,208,Tihar,True,Mid,473,411,49,32,0.07766990291262135,0,1,2
+629,Vivo Cameras #629,Electronics,Cameras,Vivo,135072,3.8,220,Dashain,False,Luxury,318,318,7,4,0.012539184952978056,2,3,1
+630,Allen Solly Saree #630,Fashion,Saree,Allen Solly,7915,3.7,64,Tihar,True,Premium,367,314,32,37,0.11746031746031746,1,2,2
+631,Baseus Chargers #631,Phone Accessories,Chargers,Baseus,2217,4.0,1167,Dashain,True,Mid,409,345,47,30,0.08670520231213873,3,1,1
+632,Cottonworld Jackets #632,Fashion,Jackets,Cottonworld,5282,3.8,88,Tihar,True,Premium,400,338,35,40,0.11799410029498525,1,2,2
+633,Cottonworld Kurtis #633,Fashion,Kurtis,Cottonworld,10647,4.3,19,Tihar,True,Premium,359,317,32,28,0.0880503144654088,1,2,2
+634,Himalaya Haircare #634,Beauty & Personal Care,Haircare,Himalaya,1779,4.5,142,Tihar,True,Mid,444,388,55,23,0.05912596401028278,0,1,2
+635,Belkin Stands #635,Phone Accessories,Stands,Belkin,2907,4.5,486,Dashain,True,Mid,390,334,48,27,0.08059701492537313,3,1,1
+636,Levi's Jeans #636,Fashion,Jeans,Levi's,4499,4.2,100,Tihar,True,Mid,380,310,51,34,0.10932475884244373,1,1,2
+637,Zara Kurtis #637,Fashion,Kurtis,Zara,15000,4.8,181,Tihar,True,Premium,393,327,55,29,0.08841463414634146,1,2,2
+638,Generic Cricket #638,Sports & Fitness,Cricket,Generic,8612,3.8,23,Dashain,False,Premium,544,475,60,43,0.09033613445378151,4,2,1
+639,HP Tablets #639,Electronics,Tablets,HP,130209,4.2,28,Dashain,True,Luxury,294,281,14,9,0.031914893617021274,2,3,1
+640,HP Cameras #640,Electronics,Cameras,HP,86309,4.6,106,Dashain,True,Luxury,301,294,15,4,0.013559322033898305,2,3,1
+641,Nepali Designs Ethnic Wear #641,Fashion,Ethnic Wear,Nepali Designs,8832,4.9,69,Tihar,True,Premium,409,344,42,39,0.11304347826086956,1,2,2
+642,Belkin Power Banks #642,Phone Accessories,Power Banks,Belkin,6000,4.5,16,Dashain,True,Premium,390,336,43,25,0.07418397626112759,3,2,1
+643,Prestige Decor #643,Home & Kitchen,Decor,Prestige,6962,3.8,13,Dashain,True,Premium,630,532,90,48,0.0900562851782364,5,2,1
+644,Samsung Smart Watches #644,Electronics,Smart Watches,Samsung,112106,4.4,47,Dashain,True,Luxury,314,310,12,2,0.006430868167202572,2,3,1
+645,Wrangler Ethnic Wear #645,Fashion,Ethnic Wear,Wrangler,11139,4.6,49,Tihar,True,Premium,419,350,45,41,0.1168091168091168,1,2,2
+646,Cottonworld Kurta #646,Fashion,Kurta,Cottonworld,6843,4.7,72,Tihar,True,Premium,437,362,46,41,0.11294765840220386,1,2,2
+647,Anker Chargers #647,Phone Accessories,Chargers,Anker,2902,4.3,45,Dashain,True,Mid,375,322,39,33,0.1021671826625387,3,1,1
+648,Vivo Smart Watches #648,Electronics,Smart Watches,Vivo,67780,4.3,354,Dashain,True,Luxury,320,307,14,9,0.02922077922077922,2,3,1
+649,Pigeon Bedding #649,Home & Kitchen,Bedding,Pigeon,7492,3.8,304,Dashain,True,Premium,614,536,65,49,0.09124767225325885,5,2,1
+650,Generic Earbuds #650,Phone Accessories,Earbuds,Generic,4414,4.6,96,Dashain,True,Mid,385,334,44,28,0.08358208955223881,3,1,1
+651,OnePlus Smart Watches #651,Electronics,Smart Watches,OnePlus,63104,3.0,15,Dashain,True,Luxury,272,266,12,7,0.026217228464419477,2,3,1
+652,Nepali Designs T-Shirts #652,Fashion,T-Shirts,Nepali Designs,5891,3.7,333,Tihar,True,Premium,382,310,54,32,0.10289389067524116,1,2,2
+653,Dell Laptops #653,Electronics,Laptops,Dell,82570,4.8,57,Dashain,True,Luxury,332,327,12,9,0.027439024390243903,2,3,1
+654,Nivia Outdoor Gear #654,Sports & Fitness,Outdoor Gear,Nivia,8453,4.3,222,Dashain,True,Premium,604,523,81,43,0.08206106870229007,4,2,1
+655,Vivo Cameras #655,Electronics,Cameras,Vivo,104401,4.3,25,Dashain,True,Luxury,327,316,15,11,0.03470031545741325,2,3,1
+656,Mamaearth Perfume #656,Beauty & Personal Care,Perfume,Mamaearth,3112,3.7,11,Tihar,True,Mid,439,385,54,24,0.06217616580310881,0,1,2
+657,Wrangler T-Shirts #657,Fashion,T-Shirts,Wrangler,10169,4.8,389,Tihar,True,Premium,390,327,51,31,0.09451219512195122,1,2,2
+658,Nivea Skincare #658,Beauty & Personal Care,Skincare,Nivea,7261,2.7,32,Tihar,True,Premium,427,360,53,34,0.09418282548476455,0,2,2
+659,Allen Solly Jeans #659,Fashion,Jeans,Allen Solly,7756,3.2,353,Tihar,False,Premium,426,360,49,32,0.0886426592797784,1,2,2
+660,Prestige Cleaning #660,Home & Kitchen,Cleaning,Prestige,6625,2.9,29,Dashain,True,Premium,613,535,67,56,0.1044776119402985,5,2,1
+661,Ugreen Stands #661,Phone Accessories,Stands,Ugreen,1153,4.0,8,Dashain,True,Mid,414,362,40,34,0.09366391184573003,3,1,1
+662,Himalaya Men's Grooming #662,Beauty & Personal Care,Men's Grooming,Himalaya,6617,3.5,174,Tihar,True,Premium,464,411,45,35,0.08495145631067962,0,2,2
+663,Nivea Sunscreen #663,Beauty & Personal Care,Sunscreen,Nivea,4273,4.7,60,Tihar,True,Mid,438,356,66,41,0.11484593837535013,0,1,2
+664,Wrangler T-Shirts #664,Fashion,T-Shirts,Wrangler,3106,4.0,50,Tihar,True,Mid,409,342,53,28,0.08163265306122448,1,1,2
+665,Zara T-Shirts #665,Fashion,T-Shirts,Zara,15000,4.1,30,Tihar,True,Premium,423,357,52,31,0.08659217877094973,1,2,2
+666,Vivo Laptops #666,Electronics,Laptops,Vivo,29138,3.6,212,Dashain,True,Luxury,312,285,19,17,0.05944055944055944,2,3,1
+667,Local Storage #667,Home & Kitchen,Storage,Local,16569,3.3,73,Dashain,False,Premium,625,541,79,40,0.07380073800738007,5,2,1
+668,Tefal Air Purifiers #668,Home & Kitchen,Air Purifiers,Tefal,5262,4.0,22,Dashain,True,Premium,620,532,65,60,0.1125703564727955,5,2,1
+669,Levi's Kurta #669,Fashion,Kurta,Levi's,10871,2.7,60,Tihar,True,Premium,384,309,59,28,0.09032258064516129,1,2,2
+670,Cosco Outdoor Gear #670,Sports & Fitness,Outdoor Gear,Cosco,8495,4.6,228,Dashain,True,Premium,538,469,62,42,0.08936170212765958,4,2,1
+671,Zara Jackets #671,Fashion,Jackets,Zara,4027,2.8,64,Tihar,False,Mid,407,361,45,26,0.0718232044198895,1,1,2
+672,Prestige Bedding #672,Home & Kitchen,Bedding,Prestige,10515,4.4,57,Dashain,True,Premium,630,539,84,55,0.10185185185185185,5,2,1
+673,Asus Speakers #673,Electronics,Speakers,Asus,150000,4.9,57,Dashain,True,Luxury,304,290,14,8,0.027491408934707903,2,3,1
+674,Wrangler Saree #674,Fashion,Saree,Wrangler,15000,4.9,22,Tihar,True,Premium,396,332,54,27,0.08108108108108109,1,2,2
+675,Baseus Cases #675,Phone Accessories,Cases,Baseus,4800,4.3,486,Dashain,True,Mid,406,341,43,39,0.11403508771929824,3,1,1
+676,Oppo Laptops #676,Electronics,Laptops,Oppo,64511,4.4,18,Dashain,True,Luxury,302,299,11,8,0.02666666666666667,2,3,1
+677,Biotique Skincare #677,Beauty & Personal Care,Skincare,Biotique,4437,3.8,2238,Tihar,True,Mid,470,401,59,34,0.0845771144278607,0,1,2
+678,Realme Smartphones #678,Electronics,Smartphones,Realme,150000,4.3,89,Dashain,True,Luxury,331,317,14,10,0.031446540880503145,2,3,1
+679,Wrangler Saree #679,Fashion,Saree,Wrangler,3185,4.1,214,Tihar,True,Mid,368,332,38,20,0.06006006006006006,1,1,2
+680,Samsung Cameras #680,Electronics,Cameras,Samsung,64015,3.6,227,Dashain,True,Luxury,337,337,5,6,0.01775147928994083,2,3,1
+681,Nepali Designs Kurtis #681,Fashion,Kurtis,Nepali Designs,13151,4.7,20,Tihar,False,Premium,365,311,47,21,0.0673076923076923,1,2,2
+682,Apple Smartphones #682,Electronics,Smartphones,Apple,35930,3.9,4,Dashain,True,Luxury,298,275,25,10,0.036231884057971016,2,3,1
+683,Nepali Designs Jackets #683,Fashion,Jackets,Nepali Designs,8321,4.3,104,Tihar,True,Premium,369,315,40,30,0.0949367088607595,1,2,2
+684,Xiaomi Cameras #684,Electronics,Cameras,Xiaomi,93605,4.4,50,Dashain,True,Luxury,291,280,13,7,0.02491103202846975,2,3,1
+685,Anker Stands #685,Phone Accessories,Stands,Anker,3510,4.1,333,Dashain,True,Mid,397,351,37,29,0.08238636363636363,3,1,1
+686,Cottonworld Jackets #686,Fashion,Jackets,Cottonworld,6034,4.1,41,Tihar,True,Premium,417,367,50,19,0.051630434782608696,1,2,2
+687,Asus Tablets #687,Electronics,Tablets,Asus,117473,3.4,121,Dashain,True,Luxury,331,331,12,6,0.018072289156626505,2,3,1
+688,Biotique Sunscreen #688,Beauty & Personal Care,Sunscreen,Biotique,1691,4.5,29,Tihar,True,Mid,457,389,58,26,0.06666666666666667,0,1,2
+689,Himalaya Skincare #689,Beauty & Personal Care,Skincare,Himalaya,8000,2.9,223,Tihar,True,Premium,435,377,43,41,0.10846560846560846,0,2,2
+690,Nivia Yoga #690,Sports & Fitness,Yoga,Nivia,21802,4.5,271,Dashain,False,Luxury,602,569,45,28,0.04912280701754386,4,3,1
+691,Levi's Kurta #691,Fashion,Kurta,Levi's,11691,4.4,425,Tihar,True,Premium,387,318,48,32,0.10031347962382445,1,2,2
+692,Realme Speakers #692,Electronics,Speakers,Realme,38178,3.9,48,Dashain,True,Luxury,323,301,19,13,0.04304635761589404,2,3,1
+693,Local Storage #693,Home & Kitchen,Storage,Local,24528,4.9,271,Dashain,True,Luxury,587,554,44,34,0.06126126126126126,5,3,1
+694,Nepali Designs Saree #694,Fashion,Saree,Nepali Designs,14891,4.4,33,Tihar,True,Premium,341,286,48,22,0.07665505226480836,1,2,2
+695,Allen Solly Kurtis #695,Fashion,Kurtis,Allen Solly,7660,3.8,151,Tihar,True,Premium,394,330,61,25,0.0755287009063444,1,2,2
+696,Apple Headphones #696,Electronics,Headphones,Apple,24825,3.7,115,Dashain,True,Luxury,308,279,23,19,0.06785714285714285,2,3,1
+697,Himalaya Men's Grooming #697,Beauty & Personal Care,Men's Grooming,Himalaya,1726,4.6,13,Tihar,True,Mid,450,391,55,30,0.07653061224489796,0,1,2
+698,OnePlus Headphones #698,Electronics,Headphones,OnePlus,48292,3.7,21,Dashain,True,Luxury,299,274,23,11,0.04,2,3,1
+699,Belkin Power Banks #699,Phone Accessories,Power Banks,Belkin,1470,4.4,203,Dashain,False,Mid,392,339,47,24,0.07058823529411765,3,1,1
+700,Apple Tablets #700,Electronics,Tablets,Apple,42310,4.6,36,Dashain,True,Luxury,278,247,27,16,0.06451612903225806,2,3,1
+701,Tefal Decor #701,Home & Kitchen,Decor,Tefal,8043,3.9,726,Dashain,True,Premium,605,531,63,52,0.09774436090225563,5,2,1
+702,Pigeon Decor #702,Home & Kitchen,Decor,Pigeon,15819,4.1,296,Dashain,True,Premium,596,523,67,43,0.08206106870229007,5,2,1
+703,Nivea Skincare #703,Beauty & Personal Care,Skincare,Nivea,5251,4.7,111,Tihar,True,Premium,453,374,61,33,0.088,0,2,2
+704,Prestige Decor #704,Home & Kitchen,Decor,Prestige,9225,3.6,160,Dashain,True,Premium,611,533,62,45,0.08426966292134831,5,2,1
+705,Belkin Earbuds #705,Phone Accessories,Earbuds,Belkin,3326,4.3,21,Dashain,True,Mid,409,353,46,34,0.096045197740113,3,1,1
+706,Generic Gym Equipment #706,Sports & Fitness,Gym Equipment,Generic,25417,4.6,32,Dashain,True,Luxury,610,571,40,29,0.050699300699300696,4,3,1
+707,Prestige Bedding #707,Home & Kitchen,Bedding,Prestige,15317,4.3,612,Dashain,True,Premium,601,549,72,36,0.06545454545454546,5,2,1
+708,Wrangler Kurtis #708,Fashion,Kurtis,Wrangler,7261,4.1,38,Tihar,True,Premium,349,299,47,25,0.08333333333333333,1,2,2
+709,Anker Chargers #709,Phone Accessories,Chargers,Anker,2534,4.6,37,Dashain,True,Mid,378,322,48,26,0.0804953560371517,3,1,1
+710,Asus Cameras #710,Electronics,Cameras,Asus,53133,3.7,76,Dashain,True,Luxury,294,290,9,6,0.020618556701030927,2,3,1
+711,Baseus Chargers #711,Phone Accessories,Chargers,Baseus,6000,4.1,76,Dashain,False,Premium,379,324,43,28,0.08615384615384615,3,2,1
+712,Nivea Haircare #712,Beauty & Personal Care,Haircare,Nivea,5968,3.9,27,Tihar,True,Premium,468,391,46,44,0.11224489795918367,0,2,2
+713,Vivo Smart Watches #713,Electronics,Smart Watches,Vivo,138689,4.5,41,Dashain,True,Luxury,309,305,8,10,0.032679738562091505,2,3,1
+714,Ugreen Screen Protectors #714,Phone Accessories,Screen Protectors,Ugreen,1943,4.8,21,Dashain,True,Mid,411,373,34,25,0.06684491978609626,3,1,1
+715,Generic Outdoor Gear #715,Sports & Fitness,Outdoor Gear,Generic,30000,4.5,473,Dashain,True,Luxury,622,583,42,24,0.0410958904109589,4,3,1
+716,Vivo Cameras #716,Electronics,Cameras,Vivo,145118,4.2,46,Dashain,True,Luxury,332,320,12,9,0.028037383177570093,2,3,1
+717,Levi's Jeans #717,Fashion,Jeans,Levi's,4238,3.5,72,Tihar,True,Mid,378,324,42,28,0.08615384615384615,1,1,2
+718,Xiaomi Tablets #718,Electronics,Tablets,Xiaomi,107649,4.3,80,Dashain,True,Luxury,334,326,18,5,0.01529051987767584,2,3,1
+719,Zara Shoes #719,Fashion,Shoes,Zara,1733,4.3,42,Tihar,False,Mid,425,364,49,27,0.07397260273972603,1,1,2
+720,Biotique Sunscreen #720,Beauty & Personal Care,Sunscreen,Biotique,1936,3.6,310,Tihar,True,Mid,417,373,38,24,0.06417112299465241,0,1,2
+721,Himalaya Makeup #721,Beauty & Personal Care,Makeup,Himalaya,2076,3.6,182,Tihar,True,Mid,435,376,41,36,0.09549071618037135,0,1,2
+722,Pigeon Air Purifiers #722,Home & Kitchen,Air Purifiers,Pigeon,6122,3.5,9,Dashain,True,Premium,630,548,74,52,0.0947176684881603,5,2,1
+723,Milton Bedding #723,Home & Kitchen,Bedding,Milton,5681,4.8,37,Dashain,False,Premium,646,570,83,43,0.07530647985989491,5,2,1
+724,Wrangler Ethnic Wear #724,Fashion,Ethnic Wear,Wrangler,6838,4.9,48,Tihar,True,Premium,413,344,47,43,0.1246376811594203,1,2,2
+725,Belkin Stands #725,Phone Accessories,Stands,Belkin,1072,4.5,48,Dashain,True,Mid,398,364,29,17,0.04657534246575343,3,1,1
+726,Himalaya Perfume #726,Beauty & Personal Care,Perfume,Himalaya,2571,3.9,13,Tihar,True,Mid,430,356,51,39,0.1092436974789916,0,1,2
+727,Dove Men's Grooming #727,Beauty & Personal Care,Men's Grooming,Dove,2441,4.4,43,Tihar,True,Mid,449,384,52,34,0.08831168831168831,0,1,2
+728,Cottonworld Kurta #728,Fashion,Kurta,Cottonworld,8189,4.2,5,Tihar,True,Premium,402,350,39,32,0.09116809116809117,1,2,2
+729,Vivo Tablets #729,Electronics,Tablets,Vivo,129728,4.7,57,Dashain,True,Luxury,305,307,6,5,0.016233766233766232,2,3,1
+730,Levi's Jackets #730,Fashion,Jackets,Levi's,5561,4.6,54,Tihar,True,Premium,386,333,38,32,0.09580838323353294,1,2,2
+731,HP Tablets #731,Electronics,Tablets,HP,33872,4.9,72,Dashain,True,Luxury,295,273,18,13,0.04744525547445255,2,3,1
+732,Oppo Smart Watches #732,Electronics,Smart Watches,Oppo,72683,5.0,50,Dashain,True,Luxury,306,309,8,5,0.016129032258064516,2,3,1
+733,Oppo Headphones #733,Electronics,Headphones,Oppo,80128,4.5,102,Dashain,True,Luxury,298,285,11,10,0.03496503496503497,2,3,1
+734,Wrangler Ethnic Wear #734,Fashion,Ethnic Wear,Wrangler,4605,4.6,47,Tihar,True,Mid,414,355,46,33,0.09269662921348315,1,1,2
+735,Nivia Gym Equipment #735,Sports & Fitness,Gym Equipment,Nivia,22839,4.8,50,Dashain,True,Luxury,575,542,43,30,0.055248618784530384,4,3,1
+736,Levi's Kurta #736,Fashion,Kurta,Levi's,15000,4.8,4,Tihar,True,Premium,390,334,45,29,0.08656716417910448,1,2,2
+737,Dove Skincare #737,Beauty & Personal Care,Skincare,Dove,6566,4.4,213,Tihar,True,Premium,484,418,59,32,0.07637231503579953,0,2,2
+738,Nepali Designs Jeans #738,Fashion,Jeans,Nepali Designs,15000,3.0,22,Tihar,True,Premium,381,321,45,32,0.09937888198757763,1,2,2
+739,Himalaya Sunscreen #739,Beauty & Personal Care,Sunscreen,Himalaya,2095,4.2,181,Tihar,True,Mid,469,392,53,44,0.11195928753180662,0,1,2
+740,Levi's Shoes #740,Fashion,Shoes,Levi's,12370,4.3,108,Tihar,True,Premium,405,352,42,21,0.059490084985835696,1,2,2
+741,Wrangler Saree #741,Fashion,Saree,Wrangler,9046,4.9,8,Tihar,False,Premium,411,345,54,34,0.09826589595375723,1,2,2
+742,Dell Laptops #742,Electronics,Laptops,Dell,20316,3.9,78,Dashain,True,Luxury,326,299,21,20,0.06666666666666667,2,3,1
+743,Belkin Stands #743,Phone Accessories,Stands,Belkin,4734,4.2,22,Dashain,True,Mid,427,367,49,26,0.07065217391304347,3,1,1
+744,Samsung Smartphones #744,Electronics,Smartphones,Samsung,45382,4.3,7,Dashain,True,Luxury,281,270,14,6,0.02214022140221402,2,3,1
+745,Milton Cleaning #745,Home & Kitchen,Cleaning,Milton,20972,3.8,21,Dashain,True,Luxury,620,583,45,30,0.05136986301369863,5,3,1
+746,Samsung Smartphones #746,Electronics,Smartphones,Samsung,38151,3.9,63,Dashain,True,Luxury,296,274,19,17,0.06181818181818182,2,3,1
+747,Nivia Outdoor Gear #747,Sports & Fitness,Outdoor Gear,Nivia,15729,4.6,220,Dashain,True,Premium,635,560,72,48,0.0855614973262032,4,2,1
+748,Milton Decor #748,Home & Kitchen,Decor,Milton,8931,4.5,9,Dashain,True,Premium,613,534,66,47,0.08785046728971962,5,2,1
+749,Levi's T-Shirts #749,Fashion,T-Shirts,Levi's,3711,3.9,96,Tihar,True,Mid,410,366,45,23,0.06267029972752043,1,1,2
+750,Nivia Cricket #750,Sports & Fitness,Cricket,Nivia,8064,3.7,4,Dashain,True,Premium,563,475,66,56,0.11764705882352941,4,2,1
+751,Belkin Cables #751,Phone Accessories,Cables,Belkin,6000,4.9,83,Dashain,True,Premium,412,352,49,30,0.08498583569405099,3,2,1
+752,Levi's Ethnic Wear #752,Fashion,Ethnic Wear,Levi's,15000,4.4,11,Tihar,True,Premium,373,318,51,22,0.06896551724137931,1,2,2
+753,Biotique Sunscreen #753,Beauty & Personal Care,Sunscreen,Biotique,2333,3.6,6,Tihar,True,Mid,446,391,54,29,0.07397959183673469,0,1,2
+754,Cosco Badminton #754,Sports & Fitness,Badminton,Cosco,10013,4.6,54,Dashain,True,Premium,623,525,90,61,0.11596958174904944,4,2,1
+755,Allen Solly Saree #755,Fashion,Saree,Allen Solly,8331,4.6,24,Tihar,True,Premium,365,302,47,29,0.09570957095709572,1,2,2
+756,Yonex Football #756,Sports & Fitness,Football,Yonex,13935,3.4,187,Dashain,True,Premium,554,490,69,37,0.07535641547861507,4,2,1
+757,Nivea Sunscreen #757,Beauty & Personal Care,Sunscreen,Nivea,8000,4.7,47,Tihar,True,Premium,456,403,48,34,0.08415841584158416,0,2,2
+758,Realme Laptops #758,Electronics,Laptops,Realme,76214,3.4,13,Dashain,True,Luxury,320,312,9,6,0.019169329073482427,2,3,1
+759,Xiaomi Tablets #759,Electronics,Tablets,Xiaomi,84327,4.6,26,Dashain,True,Luxury,296,290,12,10,0.03436426116838488,2,3,1
+760,Mamaearth Perfume #760,Beauty & Personal Care,Perfume,Mamaearth,3764,3.4,309,Tihar,False,Mid,448,386,56,32,0.082687338501292,0,1,2
+761,Cosco Badminton #761,Sports & Fitness,Badminton,Cosco,30000,4.1,23,Dashain,True,Luxury,577,546,31,33,0.0603290676416819,4,3,1
+762,Generic Cases #762,Phone Accessories,Cases,Generic,3201,4.2,10,Dashain,True,Mid,395,338,41,27,0.07964601769911504,3,1,1
+763,Apple Smartphones #763,Electronics,Smartphones,Apple,57986,4.1,68,Dashain,True,Luxury,312,303,11,7,0.023026315789473683,2,3,1
+764,Loreal Haircare #764,Beauty & Personal Care,Haircare,Loreal,3333,4.0,5,Tihar,True,Mid,442,376,51,41,0.10875331564986737,0,1,2
+765,Loreal Haircare #765,Beauty & Personal Care,Haircare,Loreal,1704,4.8,5,Tihar,True,Mid,441,373,49,33,0.08823529411764706,0,1,2
+766,Belkin Chargers #766,Phone Accessories,Chargers,Belkin,4338,4.6,34,Dashain,True,Mid,419,355,47,40,0.11235955056179775,3,1,1
+767,Allen Solly Jeans #767,Fashion,Jeans,Allen Solly,4554,4.1,28,Tihar,True,Mid,397,341,44,32,0.0935672514619883,1,1,2
+768,Dove Haircare #768,Beauty & Personal Care,Haircare,Dove,7146,4.1,279,Tihar,True,Premium,460,398,56,29,0.07268170426065163,0,2,2
+769,Levi's Kurtis #769,Fashion,Kurtis,Levi's,6393,3.3,11,Tihar,True,Premium,415,349,51,31,0.08857142857142856,1,2,2
+770,Generic Yoga #770,Sports & Fitness,Yoga,Generic,16898,4.1,66,Dashain,True,Premium,592,500,76,56,0.11177644710578842,4,2,1
+771,Belkin Stands #771,Phone Accessories,Stands,Belkin,3597,4.2,356,Dashain,True,Mid,409,344,47,39,0.11304347826086956,3,1,1
+772,Allen Solly Shoes #772,Fashion,Shoes,Allen Solly,7095,4.0,292,Tihar,True,Premium,424,358,48,38,0.10584958217270195,1,2,2
+773,Wrangler Kurta #773,Fashion,Kurta,Wrangler,6138,2.8,3,Tihar,True,Premium,386,328,53,26,0.0790273556231003,1,2,2
+774,Dell Cameras #774,Electronics,Cameras,Dell,150000,4.5,21,Dashain,True,Luxury,318,314,4,8,0.025396825396825397,2,3,1
+775,Dell Tablets #775,Electronics,Tablets,Dell,44970,4.7,196,Dashain,True,Luxury,319,300,22,9,0.029900332225913623,2,3,1
+776,Biotique Skincare #776,Beauty & Personal Care,Skincare,Biotique,3982,4.2,65,Tihar,True,Mid,422,360,41,34,0.09418282548476455,0,1,2
+777,Levi's Jeans #777,Fashion,Jeans,Levi's,3755,4.6,60,Tihar,True,Mid,412,355,46,29,0.08146067415730338,1,1,2
+778,Vector X Badminton #778,Sports & Fitness,Badminton,Vector X,15640,3.8,18,Dashain,True,Premium,580,513,67,46,0.08949416342412451,4,2,1
+779,Wrangler Jeans #779,Fashion,Jeans,Wrangler,5985,4.6,17,Tihar,True,Premium,413,356,41,31,0.08683473389355742,1,2,2
+780,Realme Cameras #780,Electronics,Cameras,Realme,113996,3.9,18,Dashain,True,Luxury,309,306,12,8,0.026058631921824105,2,3,1
+781,Generic Gym Equipment #781,Sports & Fitness,Gym Equipment,Generic,7978,3.8,30,Dashain,True,Premium,576,469,68,69,0.14680851063829786,4,2,1
+782,HP Smart Watches #782,Electronics,Smart Watches,HP,79954,3.8,1314,Dashain,True,Luxury,326,325,13,8,0.024539877300613498,2,3,1
+783,Anker Cases #783,Phone Accessories,Cases,Anker,1940,4.5,52,Dashain,True,Mid,389,338,40,26,0.07669616519174041,3,1,1
+784,Ugreen Stands #784,Phone Accessories,Stands,Ugreen,847,4.6,12,Dashain,False,Budget,412,376,38,24,0.0636604774535809,3,0,1
+785,Ugreen Stands #785,Phone Accessories,Stands,Ugreen,2575,4.6,903,Dashain,True,Mid,377,331,34,29,0.08734939759036145,3,1,1
+786,Vector X Football #786,Sports & Fitness,Football,Vector X,23080,4.7,68,Dashain,True,Luxury,622,570,51,35,0.06129597197898424,4,3,1
+787,Pigeon Cookware #787,Home & Kitchen,Cookware,Pigeon,25000,4.4,125,Dashain,True,Luxury,604,573,42,33,0.05749128919860627,5,3,1
+788,Prestige Bedding #788,Home & Kitchen,Bedding,Prestige,6648,3.7,191,Dashain,True,Premium,632,551,66,55,0.09963768115942029,5,2,1
+789,Local Cleaning #789,Home & Kitchen,Cleaning,Local,6678,4.1,11,Dashain,True,Premium,604,521,65,48,0.09195402298850575,5,2,1
+790,Cottonworld Saree #790,Fashion,Saree,Cottonworld,14502,4.5,12,Tihar,True,Premium,389,334,42,33,0.09850746268656717,1,2,2
+791,Local Cleaning #791,Home & Kitchen,Cleaning,Local,15766,3.7,140,Dashain,True,Premium,593,508,71,52,0.10216110019646366,5,2,1
+792,Nepali Designs Jackets #792,Fashion,Jackets,Nepali Designs,15000,4.1,33,Tihar,True,Premium,399,331,47,35,0.10542168674698796,1,2,2
+793,Nivia Badminton #793,Sports & Fitness,Badminton,Nivia,14670,4.5,69,Dashain,True,Premium,591,526,70,34,0.06451612903225806,4,2,1
+794,Prestige Cleaning #794,Home & Kitchen,Cleaning,Prestige,8395,4.4,318,Dashain,True,Premium,626,536,71,58,0.10800744878957169,5,2,1
+795,Asus Smart Watches #795,Electronics,Smart Watches,Asus,121871,3.4,353,Dashain,True,Luxury,303,294,6,12,0.04067796610169491,2,3,1
+796,Dove Makeup #796,Beauty & Personal Care,Makeup,Dove,1950,4.0,5,Tihar,True,Mid,468,419,44,37,0.0880952380952381,0,1,2
+797,Samsung Smartphones #797,Electronics,Smartphones,Samsung,63166,4.1,30,Dashain,True,Luxury,277,272,8,7,0.02564102564102564,2,3,1
+798,Nepali Designs Shoes #798,Fashion,Shoes,Nepali Designs,10014,4.3,117,Tihar,True,Premium,389,325,53,28,0.08588957055214724,1,2,2
+799,Levi's Jackets #799,Fashion,Jackets,Levi's,15000,4.3,77,Tihar,False,Premium,415,354,49,27,0.07605633802816901,1,2,2
+800,Baseus Chargers #800,Phone Accessories,Chargers,Baseus,1388,3.3,142,Dashain,True,Mid,407,361,31,35,0.09668508287292818,3,1,1
+801,Realme Laptops #801,Electronics,Laptops,Realme,20565,4.4,44,Dashain,True,Luxury,316,295,21,9,0.030405405405405407,2,3,1
+802,Zara Shoes #802,Fashion,Shoes,Zara,5662,4.1,25,Tihar,False,Premium,395,337,42,33,0.09763313609467456,1,2,2
+803,Anker Cases #803,Phone Accessories,Cases,Anker,1771,3.9,515,Dashain,True,Mid,415,358,53,23,0.06406685236768803,3,1,1
+804,Apple Cameras #804,Electronics,Cameras,Apple,38251,4.6,541,Dashain,True,Luxury,303,282,18,13,0.045936395759717315,2,3,1
+805,Generic Stands #805,Phone Accessories,Stands,Generic,1997,3.6,65,Dashain,True,Mid,431,369,47,25,0.06756756756756757,3,1,1
+806,Allen Solly T-Shirts #806,Fashion,T-Shirts,Allen Solly,6713,4.5,80,Tihar,True,Premium,416,360,35,38,0.10526315789473684,1,2,2
+807,Nepali Designs Jeans #807,Fashion,Jeans,Nepali Designs,11126,4.2,17,Tihar,True,Premium,406,346,46,38,0.10951008645533142,1,2,2
+808,Oppo Smart Watches #808,Electronics,Smart Watches,Oppo,36716,4.2,139,Dashain,True,Luxury,343,306,30,19,0.06188925081433225,2,3,1
+809,Biotique Skincare #809,Beauty & Personal Care,Skincare,Biotique,4078,2.8,26,Tihar,True,Mid,460,401,49,38,0.0945273631840796,0,1,2
+810,Garnier Perfume #810,Beauty & Personal Care,Perfume,Garnier,3785,4.8,3,Tihar,True,Mid,432,378,42,32,0.08443271767810026,0,1,2
+811,Samsung Headphones #811,Electronics,Headphones,Samsung,86651,4.0,6,Dashain,True,Luxury,322,322,11,3,0.009287925696594427,2,3,1
+812,Samsung Smartphones #812,Electronics,Smartphones,Samsung,150000,4.5,102,Dashain,False,Luxury,297,284,12,8,0.028070175438596492,2,3,1
+813,Generic Football #813,Sports & Fitness,Football,Generic,18184,3.6,304,Dashain,True,Premium,567,498,63,36,0.07214428857715431,4,2,1
+814,Ugreen Screen Protectors #814,Phone Accessories,Screen Protectors,Ugreen,2107,4.7,79,Dashain,True,Mid,396,336,50,27,0.08011869436201781,3,1,1
+815,Asus Cameras #815,Electronics,Cameras,Asus,124201,3.8,69,Dashain,True,Luxury,339,336,9,7,0.020771513353115726,2,3,1
+816,Pigeon Bedding #816,Home & Kitchen,Bedding,Pigeon,8132,4.7,58,Dashain,True,Premium,558,481,63,39,0.08091286307053942,5,2,1
+817,Loreal Skincare #817,Beauty & Personal Care,Skincare,Loreal,3506,4.5,18,Tihar,True,Mid,448,390,45,39,0.09974424552429667,0,1,2
+818,Cosco Gym Equipment #818,Sports & Fitness,Gym Equipment,Cosco,14496,3.6,117,Dashain,True,Premium,609,513,80,54,0.10505836575875487,4,2,1
+819,Generic Earbuds #819,Phone Accessories,Earbuds,Generic,5570,4.7,21,Dashain,True,Premium,440,378,46,35,0.09234828496042216,3,2,1
+820,Dove Perfume #820,Beauty & Personal Care,Perfume,Dove,6429,4.6,22,Tihar,True,Premium,434,379,40,31,0.08157894736842106,0,2,2
+821,Dove Sunscreen #821,Beauty & Personal Care,Sunscreen,Dove,2446,4.2,26,Tihar,True,Mid,460,390,50,41,0.10485933503836317,0,1,2
+822,Biotique Skincare #822,Beauty & Personal Care,Skincare,Biotique,3846,4.5,60,Tihar,True,Mid,429,376,51,26,0.06896551724137931,0,1,2
+823,Samsung Cameras #823,Electronics,Cameras,Samsung,37761,3.9,78,Dashain,True,Luxury,291,263,19,16,0.06060606060606061,2,3,1
+824,Mamaearth Perfume #824,Beauty & Personal Care,Perfume,Mamaearth,8000,4.0,52,Tihar,False,Premium,427,346,61,37,0.10662824207492795,0,2,2
+825,Pigeon Decor #825,Home & Kitchen,Decor,Pigeon,18371,4.6,124,Dashain,True,Premium,631,565,62,51,0.09010600706713781,5,2,1
+826,Zara Ethnic Wear #826,Fashion,Ethnic Wear,Zara,5149,4.4,55,Tihar,True,Premium,389,346,35,32,0.09221902017291066,1,2,2
+827,Local Decor #827,Home & Kitchen,Decor,Local,6663,4.2,21,Dashain,True,Premium,584,522,54,43,0.08221797323135756,5,2,1
+828,Wrangler Kurta #828,Fashion,Kurta,Wrangler,8151,3.6,6,Tihar,True,Premium,412,350,53,30,0.08547008547008547,1,2,2
+829,Loreal Perfume #829,Beauty & Personal Care,Perfume,Loreal,4516,4.0,27,Tihar,True,Mid,452,388,56,38,0.09768637532133675,0,1,2
+830,Allen Solly Shoes #830,Fashion,Shoes,Allen Solly,15000,4.6,96,Tihar,True,Premium,411,346,47,41,0.11815561959654179,1,2,2
+831,HP Laptops #831,Electronics,Laptops,HP,58850,4.8,26,Dashain,True,Luxury,314,304,10,8,0.02622950819672131,2,3,1
+832,Wrangler Ethnic Wear #832,Fashion,Ethnic Wear,Wrangler,13367,4.5,206,Tihar,True,Premium,397,351,48,21,0.05965909090909091,1,2,2
+833,Garnier Haircare #833,Beauty & Personal Care,Haircare,Garnier,1876,3.9,137,Tihar,True,Mid,476,410,53,34,0.0827250608272506,0,1,2
+834,Generic Gym Equipment #834,Sports & Fitness,Gym Equipment,Generic,11595,4.8,147,Dashain,True,Premium,565,497,63,40,0.08032128514056225,4,2,1
+835,Realme Smartphones #835,Electronics,Smartphones,Realme,46245,4.5,22,Dashain,True,Luxury,304,278,25,16,0.05734767025089606,2,3,1
+836,Vivo Cameras #836,Electronics,Cameras,Vivo,107164,4.3,11,Dashain,True,Luxury,301,296,10,6,0.020202020202020204,2,3,1
+837,Prestige Cleaning #837,Home & Kitchen,Cleaning,Prestige,25000,4.1,19,Dashain,True,Luxury,635,597,55,30,0.05016722408026756,5,3,1
+838,Cosco Gym Equipment #838,Sports & Fitness,Gym Equipment,Cosco,14883,4.5,48,Dashain,False,Premium,575,500,60,49,0.09780439121756487,4,2,1
+839,Prestige Cookware #839,Home & Kitchen,Cookware,Prestige,8602,4.6,25,Dashain,True,Premium,628,541,66,52,0.0959409594095941,5,2,1
+840,Anker Cases #840,Phone Accessories,Cases,Anker,3344,3.7,25,Dashain,True,Mid,437,373,48,32,0.0855614973262032,3,1,1
+841,Levi's Kurtis #841,Fashion,Kurtis,Levi's,12964,4.4,115,Tihar,True,Premium,430,374,47,33,0.088,1,2,2
+842,Loreal Makeup #842,Beauty & Personal Care,Makeup,Loreal,3627,4.1,20,Tihar,False,Mid,452,376,58,37,0.09814323607427056,0,1,2
+843,Ugreen Chargers #843,Phone Accessories,Chargers,Ugreen,2931,4.7,5,Dashain,True,Mid,385,328,53,28,0.0851063829787234,3,1,1
+844,Anker Earbuds #844,Phone Accessories,Earbuds,Anker,4204,3.5,44,Dashain,False,Mid,413,352,44,35,0.09915014164305949,3,1,1
+845,Anker Chargers #845,Phone Accessories,Chargers,Anker,3656,3.8,29,Dashain,True,Mid,390,337,43,30,0.08875739644970414,3,1,1
+846,Yonex Badminton #846,Sports & Fitness,Badminton,Yonex,7854,4.4,12,Dashain,True,Premium,609,515,79,50,0.09689922480620156,4,2,1
+847,Dove Perfume #847,Beauty & Personal Care,Perfume,Dove,3164,3.4,133,Tihar,True,Mid,460,402,46,37,0.09181141439205956,0,1,2
+848,Dove Skincare #848,Beauty & Personal Care,Skincare,Dove,2595,4.8,42,Tihar,True,Mid,451,384,43,45,0.11688311688311688,0,1,2
+849,Apple Smartphones #849,Electronics,Smartphones,Apple,150000,3.8,292,Dashain,True,Luxury,338,328,8,12,0.0364741641337386,2,3,1
+850,Local Bedding #850,Home & Kitchen,Bedding,Local,25000,4.6,66,Dashain,True,Luxury,606,586,39,27,0.04599659284497445,5,3,1
+851,Nepali Designs Saree #851,Fashion,Saree,Nepali Designs,10436,4.6,126,Tihar,True,Premium,391,338,35,33,0.09734513274336283,1,2,2
+852,Levi's Shoes #852,Fashion,Shoes,Levi's,6275,3.8,81,Tihar,True,Premium,373,319,42,29,0.090625,1,2,2
+853,Ugreen Power Banks #853,Phone Accessories,Power Banks,Ugreen,6000,4.4,53,Dashain,True,Premium,395,346,38,27,0.07780979827089338,3,2,1
+854,Local Bedding #854,Home & Kitchen,Bedding,Local,25000,3.7,14,Dashain,True,Luxury,623,594,37,31,0.052100840336134456,5,3,1
+855,Realme Headphones #855,Electronics,Headphones,Realme,150000,4.3,6,Dashain,True,Luxury,284,276,9,5,0.018050541516245487,2,3,1
+856,Ugreen Earbuds #856,Phone Accessories,Earbuds,Ugreen,2958,3.3,38,Dashain,True,Mid,439,374,52,30,0.08,3,1,1
+857,Generic Cricket #857,Sports & Fitness,Cricket,Generic,12035,4.6,757,Dashain,True,Premium,600,524,68,50,0.09523809523809523,4,2,1
+858,Apple Smart Watches #858,Electronics,Smart Watches,Apple,35245,4.6,65,Dashain,True,Luxury,291,271,18,14,0.051470588235294115,2,3,1
+859,Milton Cookware #859,Home & Kitchen,Cookware,Milton,22408,4.5,350,Dashain,True,Luxury,587,566,37,28,0.04938271604938271,5,3,1
+860,Dove Perfume #860,Beauty & Personal Care,Perfume,Dove,1362,4.7,58,Tihar,True,Mid,465,402,46,39,0.0967741935483871,0,1,2
+861,Allen Solly Kurtis #861,Fashion,Kurtis,Allen Solly,15000,3.2,29,Tihar,True,Premium,406,344,45,32,0.0927536231884058,1,2,2
+862,Levi's Jeans #862,Fashion,Jeans,Levi's,6783,4.8,2,Tihar,False,Premium,399,335,51,26,0.07738095238095238,1,2,2
+863,Generic Screen Protectors #863,Phone Accessories,Screen Protectors,Generic,5209,3.9,204,Dashain,True,Premium,423,350,57,35,0.09971509971509972,3,2,1
+864,OnePlus Laptops #864,Electronics,Laptops,OnePlus,96637,4.6,156,Dashain,True,Luxury,316,304,12,7,0.022950819672131147,2,3,1
+865,Local Air Purifiers #865,Home & Kitchen,Air Purifiers,Local,17106,3.6,39,Dashain,True,Premium,658,564,77,61,0.1079646017699115,5,2,1
+866,Prestige Storage #866,Home & Kitchen,Storage,Prestige,13255,3.7,33,Dashain,True,Premium,608,525,74,50,0.09505703422053231,5,2,1
+867,Cosco Cricket #867,Sports & Fitness,Cricket,Cosco,10538,4.5,130,Dashain,True,Premium,572,490,76,35,0.07128309572301425,4,2,1
+868,Realme Smartphones #868,Electronics,Smartphones,Realme,88976,3.6,7,Dashain,True,Luxury,323,318,12,5,0.01567398119122257,2,3,1
+869,Zara Kurtis #869,Fashion,Kurtis,Zara,11842,3.7,27,Tihar,True,Premium,407,348,41,36,0.10315186246418338,1,2,2
+870,Asus Speakers #870,Electronics,Speakers,Asus,40431,4.0,4,Dashain,True,Luxury,284,254,22,14,0.054901960784313725,2,3,1
+871,Loreal Skincare #871,Beauty & Personal Care,Skincare,Loreal,2789,4.8,103,Tihar,True,Mid,453,381,60,35,0.09162303664921466,0,1,2
+872,Baseus Power Banks #872,Phone Accessories,Power Banks,Baseus,3107,3.5,86,Dashain,True,Mid,409,346,50,31,0.0893371757925072,3,1,1
+873,OnePlus Headphones #873,Electronics,Headphones,OnePlus,52737,4.3,251,Dashain,True,Luxury,315,311,11,7,0.022435897435897436,2,3,1
+874,Yonex Badminton #874,Sports & Fitness,Badminton,Yonex,13271,4.1,423,Dashain,True,Premium,618,538,66,51,0.09461966604823747,4,2,1
+875,Prestige Bedding #875,Home & Kitchen,Bedding,Prestige,25000,4.7,48,Dashain,True,Luxury,639,616,37,23,0.03727714748784441,5,3,1
+876,OnePlus Smartphones #876,Electronics,Smartphones,OnePlus,104055,4.5,432,Dashain,True,Luxury,304,304,8,2,0.006557377049180328,2,3,1
+877,Yonex Badminton #877,Sports & Fitness,Badminton,Yonex,17487,4.1,99,Dashain,True,Premium,580,483,68,60,0.12396694214876033,4,2,1
+878,Samsung Cameras #878,Electronics,Cameras,Samsung,150000,4.6,144,Dashain,True,Luxury,292,278,15,7,0.025089605734767026,2,3,1
+879,Belkin Stands #879,Phone Accessories,Stands,Belkin,4042,4.7,13,Dashain,True,Mid,369,317,38,29,0.09119496855345911,3,1,1
+880,Nepali Designs Ethnic Wear #880,Fashion,Ethnic Wear,Nepali Designs,15000,4.1,56,Tihar,False,Premium,414,363,42,31,0.08516483516483517,1,2,2
+881,Levi's T-Shirts #881,Fashion,T-Shirts,Levi's,15000,4.2,107,Tihar,True,Premium,394,345,49,23,0.06647398843930635,1,2,2
+882,Dell Laptops #882,Electronics,Laptops,Dell,80931,4.1,42,Dashain,True,Luxury,325,317,9,12,0.03773584905660377,2,3,1
+883,Yonex Yoga #883,Sports & Fitness,Yoga,Yonex,14419,4.7,151,Dashain,True,Premium,558,494,63,35,0.0707070707070707,4,2,1
+884,Samsung Smart Watches #884,Electronics,Smart Watches,Samsung,150000,3.1,26,Dashain,True,Luxury,290,285,8,9,0.03146853146853147,2,3,1
+885,Milton Air Purifiers #885,Home & Kitchen,Air Purifiers,Milton,6838,3.7,102,Dashain,False,Premium,625,549,70,41,0.07454545454545454,5,2,1
+886,Cottonworld T-Shirts #886,Fashion,T-Shirts,Cottonworld,6755,4.5,211,Tihar,False,Premium,365,331,33,23,0.06927710843373494,1,2,2
+887,Wrangler Shoes #887,Fashion,Shoes,Wrangler,2886,4.7,15,Tihar,True,Mid,385,318,48,34,0.10658307210031348,1,1,2
+888,Ugreen Earbuds #888,Phone Accessories,Earbuds,Ugreen,3799,3.5,48,Dashain,True,Mid,390,332,40,37,0.1111111111111111,3,1,1
+889,Generic Cricket #889,Sports & Fitness,Cricket,Generic,24778,3.8,156,Dashain,True,Luxury,570,534,40,32,0.059813084112149535,4,3,1
+890,Wrangler Saree #890,Fashion,Saree,Wrangler,5687,4.4,68,Tihar,True,Premium,392,311,50,42,0.1346153846153846,1,2,2
+891,Zara Shoes #891,Fashion,Shoes,Zara,5791,4.3,395,Tihar,True,Premium,366,318,44,28,0.0877742946708464,1,2,2
+892,Generic Stands #892,Phone Accessories,Stands,Generic,3162,4.2,88,Dashain,False,Mid,392,333,51,22,0.0658682634730539,3,1,1
+893,Yonex Football #893,Sports & Fitness,Football,Yonex,10966,4.6,96,Dashain,True,Premium,606,518,73,50,0.09633911368015415,4,2,1
+894,Baseus Stands #894,Phone Accessories,Stands,Baseus,2130,3.5,15,Dashain,False,Mid,390,345,33,28,0.08092485549132948,3,1,1
+895,Apple Speakers #895,Electronics,Speakers,Apple,46244,4.6,89,Dashain,True,Luxury,281,261,18,11,0.04198473282442748,2,3,1
+896,Himalaya Men's Grooming #896,Beauty & Personal Care,Men's Grooming,Himalaya,2040,4.3,17,Tihar,True,Mid,428,370,47,25,0.0673854447439353,0,1,2
+897,Ugreen Cables #897,Phone Accessories,Cables,Ugreen,3829,3.5,62,Dashain,True,Mid,421,356,43,38,0.10644257703081232,3,1,1
+898,Yonex Badminton #898,Sports & Fitness,Badminton,Yonex,6269,4.2,171,Dashain,True,Premium,554,482,61,39,0.08074534161490683,4,2,1
+899,Biotique Perfume #899,Beauty & Personal Care,Perfume,Biotique,2459,3.0,35,Tihar,True,Mid,472,403,52,37,0.09158415841584158,0,1,2
+900,Biotique Sunscreen #900,Beauty & Personal Care,Sunscreen,Biotique,1773,4.9,108,Tihar,True,Mid,453,386,56,34,0.08785529715762273,0,1,2
+901,Vivo Speakers #901,Electronics,Speakers,Vivo,58029,4.6,45,Dashain,True,Luxury,334,329,11,6,0.01818181818181818,2,3,1
+902,Xiaomi Headphones #902,Electronics,Headphones,Xiaomi,99620,3.7,34,Dashain,True,Luxury,322,316,11,5,0.015772870662460567,2,3,1
+903,Himalaya Perfume #903,Beauty & Personal Care,Perfume,Himalaya,8000,3.4,31,Tihar,True,Premium,451,389,46,46,0.11794871794871795,0,2,2
+904,Realme Tablets #904,Electronics,Tablets,Realme,118042,3.9,17,Dashain,False,Luxury,296,285,10,8,0.027972027972027972,2,3,1
+905,Loreal Haircare #905,Beauty & Personal Care,Haircare,Loreal,3337,4.7,118,Tihar,True,Mid,445,359,66,42,0.11666666666666667,0,1,2
+906,Vector X Cricket #906,Sports & Fitness,Cricket,Vector X,11587,3.0,55,Dashain,True,Premium,653,552,84,64,0.11573236889692586,4,2,1
+907,Levi's Jeans #907,Fashion,Jeans,Levi's,6217,3.8,34,Tihar,True,Premium,391,342,37,30,0.08746355685131195,1,2,2
+908,Milton Cleaning #908,Home & Kitchen,Cleaning,Milton,19542,4.0,46,Dashain,True,Premium,598,518,65,42,0.08092485549132948,5,2,1
+909,Cottonworld Shoes #909,Fashion,Shoes,Cottonworld,6210,4.6,44,Tihar,False,Premium,376,330,42,21,0.0634441087613293,1,2,2
+910,Prestige Decor #910,Home & Kitchen,Decor,Prestige,21819,4.5,22,Dashain,True,Luxury,607,570,41,43,0.07530647985989491,5,3,1
+911,Allen Solly Jackets #911,Fashion,Jackets,Allen Solly,7888,4.8,66,Tihar,True,Premium,389,326,39,32,0.09785932721712538,1,2,2
+912,Milton Bedding #912,Home & Kitchen,Bedding,Milton,2469,3.6,134,Dashain,True,Mid,607,521,71,48,0.09195402298850575,5,1,1
+913,Local Air Purifiers #913,Home & Kitchen,Air Purifiers,Local,12187,3.4,27,Dashain,True,Premium,587,517,50,52,0.10038610038610038,5,2,1
+914,Baseus Cases #914,Phone Accessories,Cases,Baseus,3680,4.8,5,Dashain,True,Mid,421,351,56,32,0.09090909090909091,3,1,1
+915,Generic Chargers #915,Phone Accessories,Chargers,Generic,6000,3.8,399,Dashain,True,Premium,373,317,38,33,0.10377358490566038,3,2,1
+916,Ugreen Cables #916,Phone Accessories,Cables,Ugreen,6000,4.8,266,Dashain,False,Premium,392,331,42,34,0.10240963855421686,3,2,1
+917,Ugreen Stands #917,Phone Accessories,Stands,Ugreen,1551,4.7,111,Dashain,False,Mid,372,313,38,33,0.10509554140127389,3,1,1
+918,Xiaomi Speakers #918,Electronics,Speakers,Xiaomi,150000,3.2,116,Dashain,True,Luxury,330,331,5,3,0.009036144578313253,2,3,1
+919,Tefal Decor #919,Home & Kitchen,Decor,Tefal,25000,4.3,37,Dashain,True,Luxury,623,603,36,34,0.056291390728476824,5,3,1
+920,Asus Smartphones #920,Electronics,Smartphones,Asus,48728,3.8,29,Dashain,False,Luxury,304,265,32,17,0.06390977443609022,2,3,1
+921,Asus Smartphones #921,Electronics,Smartphones,Asus,42451,4.8,48,Dashain,True,Luxury,295,266,25,15,0.056179775280898875,2,3,1
+922,Vector X Gym Equipment #922,Sports & Fitness,Gym Equipment,Vector X,30000,3.9,25,Dashain,True,Luxury,607,575,37,31,0.05381944444444445,4,3,1
+923,Vivo Cameras #923,Electronics,Cameras,Vivo,36776,4.1,311,Dashain,True,Luxury,286,253,23,14,0.05511811023622047,2,3,1
+924,Himalaya Haircare #924,Beauty & Personal Care,Haircare,Himalaya,2281,4.0,37,Tihar,True,Mid,455,397,52,29,0.0728643216080402,0,1,2
+925,Oppo Smartphones #925,Electronics,Smartphones,Oppo,77197,3.7,33,Dashain,True,Luxury,314,312,12,4,0.012779552715654952,2,3,1
+926,Allen Solly Jeans #926,Fashion,Jeans,Allen Solly,8530,4.6,31,Tihar,True,Premium,363,319,41,21,0.065625,1,2,2
+927,Generic Badminton #927,Sports & Fitness,Badminton,Generic,17889,3.6,45,Dashain,True,Premium,615,541,78,35,0.06457564575645756,4,2,1
+928,Nivia Cricket #928,Sports & Fitness,Cricket,Nivia,29256,4.2,5,Dashain,True,Luxury,591,559,43,27,0.048214285714285716,4,3,1
+929,Garnier Perfume #929,Beauty & Personal Care,Perfume,Garnier,1679,4.5,53,Tihar,True,Mid,432,381,54,29,0.07591623036649214,0,1,2
+930,Allen Solly Jackets #930,Fashion,Jackets,Allen Solly,3174,3.8,93,Tihar,True,Mid,343,307,36,23,0.07467532467532467,1,1,2
+931,Belkin Chargers #931,Phone Accessories,Chargers,Belkin,2615,3.7,44,Dashain,True,Mid,371,312,49,31,0.09904153354632587,3,1,1
+932,Cosco Yoga #932,Sports & Fitness,Yoga,Cosco,25751,4.8,105,Dashain,False,Luxury,623,569,57,32,0.056140350877192984,4,3,1
+933,Xiaomi Tablets #933,Electronics,Tablets,Xiaomi,43002,4.3,142,Dashain,True,Luxury,304,278,21,15,0.053763440860215055,2,3,1
+934,Cottonworld Kurta #934,Fashion,Kurta,Cottonworld,5569,4.4,66,Tihar,True,Premium,394,349,32,28,0.08,1,2,2
+935,Nivia Outdoor Gear #935,Sports & Fitness,Outdoor Gear,Nivia,21427,4.0,6,Dashain,True,Luxury,613,570,56,31,0.0542907180385289,4,3,1
+936,Wrangler Saree #936,Fashion,Saree,Wrangler,14745,4.5,84,Tihar,True,Premium,402,344,51,21,0.06086956521739131,1,2,2
+937,Baseus Cables #937,Phone Accessories,Cables,Baseus,2809,4.5,105,Dashain,True,Mid,397,343,48,35,0.10174418604651163,3,1,1
+938,Zara Kurta #938,Fashion,Kurta,Zara,7070,4.0,79,Tihar,True,Premium,352,301,49,19,0.06291390728476821,1,2,2
+939,Belkin Earbuds #939,Phone Accessories,Earbuds,Belkin,2041,3.3,41,Dashain,True,Mid,389,331,38,34,0.10240963855421686,3,1,1
+940,Ugreen Earbuds #940,Phone Accessories,Earbuds,Ugreen,3329,3.3,18,Dashain,True,Mid,378,334,41,19,0.056716417910447764,3,1,1
+941,Generic Gym Equipment #941,Sports & Fitness,Gym Equipment,Generic,6867,4.6,14,Dashain,True,Premium,598,522,65,45,0.08604206500956023,4,2,1
+942,Pigeon Air Purifiers #942,Home & Kitchen,Air Purifiers,Pigeon,25000,4.8,19,Dashain,True,Luxury,583,555,42,26,0.046762589928057555,5,3,1
+943,OnePlus Smartphones #943,Electronics,Smartphones,OnePlus,44435,4.4,924,Dashain,True,Luxury,303,285,17,10,0.03496503496503497,2,3,1
+944,Prestige Bedding #944,Home & Kitchen,Bedding,Prestige,25000,4.6,10,Dashain,True,Luxury,615,599,41,21,0.035,5,3,1
+945,Milton Air Purifiers #945,Home & Kitchen,Air Purifiers,Milton,8128,4.6,164,Dashain,True,Premium,624,524,91,49,0.09333333333333334,5,2,1
+946,Dove Men's Grooming #946,Beauty & Personal Care,Men's Grooming,Dove,4525,4.3,48,Tihar,True,Mid,416,348,50,34,0.09742120343839542,0,1,2
+947,Generic Cases #947,Phone Accessories,Cases,Generic,5175,4.8,59,Dashain,False,Premium,430,353,49,47,0.1327683615819209,3,2,1
+948,HP Laptops #948,Electronics,Laptops,HP,114491,4.5,86,Dashain,True,Luxury,298,291,9,5,0.017123287671232876,2,3,1
+949,Wrangler Jeans #949,Fashion,Jeans,Wrangler,10079,4.7,15,Tihar,False,Premium,410,359,45,32,0.08888888888888889,1,2,2
+950,Himalaya Men's Grooming #950,Beauty & Personal Care,Men's Grooming,Himalaya,3127,4.4,39,Tihar,True,Mid,425,369,42,31,0.08378378378378379,0,1,2
+951,Biotique Skincare #951,Beauty & Personal Care,Skincare,Biotique,5405,4.5,908,Tihar,True,Premium,447,396,51,29,0.07304785894206549,0,2,2
+952,Levi's Jeans #952,Fashion,Jeans,Levi's,15000,4.1,25,Tihar,True,Premium,399,339,45,33,0.09705882352941177,1,2,2
+953,HP Laptops #953,Electronics,Laptops,HP,39922,4.3,67,Dashain,True,Luxury,293,268,17,15,0.055762081784386616,2,3,1
+954,Nivea Men's Grooming #954,Beauty & Personal Care,Men's Grooming,Nivea,3601,3.9,5,Tihar,True,Mid,458,377,56,43,0.11375661375661375,0,1,2
+955,Wrangler Ethnic Wear #955,Fashion,Ethnic Wear,Wrangler,8708,4.5,48,Tihar,True,Premium,391,336,51,24,0.0712166172106825,1,2,2
+956,Yonex Outdoor Gear #956,Sports & Fitness,Outdoor Gear,Yonex,3766,4.5,211,Dashain,True,Mid,605,505,79,52,0.10276679841897234,4,1,1
+957,Levi's Jackets #957,Fashion,Jackets,Levi's,5081,4.6,49,Tihar,True,Premium,384,326,50,19,0.0581039755351682,1,2,2
+958,HP Smartphones #958,Electronics,Smartphones,HP,50252,4.3,79,Dashain,True,Luxury,317,310,9,9,0.028938906752411574,2,3,1
+959,Ugreen Earbuds #959,Phone Accessories,Earbuds,Ugreen,1241,4.8,120,Dashain,True,Mid,385,333,42,26,0.07784431137724551,3,1,1
+960,Belkin Chargers #960,Phone Accessories,Chargers,Belkin,2435,4.1,191,Dashain,False,Mid,352,300,34,33,0.10963455149501661,3,1,1
+961,Nepali Designs Shoes #961,Fashion,Shoes,Nepali Designs,14179,4.5,26,Tihar,True,Premium,419,351,54,31,0.08806818181818182,1,2,2
+962,Generic Cricket #962,Sports & Fitness,Cricket,Generic,11064,4.7,34,Dashain,False,Premium,630,544,80,51,0.09357798165137615,4,2,1
+963,Anker Cases #963,Phone Accessories,Cases,Anker,1283,3.4,40,Dashain,True,Mid,386,333,45,23,0.0688622754491018,3,1,1
+964,Loreal Makeup #964,Beauty & Personal Care,Makeup,Loreal,3927,4.8,37,Tihar,True,Mid,411,347,44,34,0.09770114942528736,0,1,2
+965,Anker Chargers #965,Phone Accessories,Chargers,Anker,3254,4.4,59,Dashain,True,Mid,385,329,52,24,0.07272727272727272,3,1,1
+966,Nivia Badminton #966,Sports & Fitness,Badminton,Nivia,9677,4.7,11,Dashain,True,Premium,619,549,72,40,0.07272727272727272,4,2,1
+967,Biotique Skincare #967,Beauty & Personal Care,Skincare,Biotique,6545,4.6,148,Tihar,True,Premium,447,373,56,42,0.11229946524064172,0,2,2
+968,HP Laptops #968,Electronics,Laptops,HP,38506,3.9,41,Dashain,True,Luxury,311,291,16,12,0.0410958904109589,2,3,1
+969,Local Cleaning #969,Home & Kitchen,Cleaning,Local,10135,3.4,146,Dashain,False,Premium,607,560,66,30,0.053475935828877004,5,2,1
+970,Generic Stands #970,Phone Accessories,Stands,Generic,4494,4.7,140,Dashain,True,Mid,401,324,54,32,0.09846153846153846,3,1,1
+971,HP Tablets #971,Electronics,Tablets,HP,60845,3.1,20,Dashain,True,Luxury,330,332,8,3,0.009009009009009009,2,3,1
+972,Himalaya Haircare #972,Beauty & Personal Care,Haircare,Himalaya,5711,4.3,59,Tihar,True,Premium,490,395,58,48,0.12121212121212122,0,2,2
+973,Generic Stands #973,Phone Accessories,Stands,Generic,6000,4.3,644,Dashain,True,Premium,399,336,47,33,0.09792284866468842,3,2,1
+974,Anker Cases #974,Phone Accessories,Cases,Anker,4481,4.1,81,Dashain,True,Mid,411,360,46,31,0.08587257617728532,3,1,1
+975,Zara Ethnic Wear #975,Fashion,Ethnic Wear,Zara,10743,4.1,31,Tihar,True,Premium,374,319,48,30,0.09375,1,2,2
+976,Wrangler Jeans #976,Fashion,Jeans,Wrangler,4109,4.2,7,Tihar,False,Mid,372,330,32,29,0.08761329305135952,1,1,2
+977,Local Storage #977,Home & Kitchen,Storage,Local,25000,3.9,36,Dashain,True,Luxury,599,568,44,31,0.054481546572934976,5,3,1
+978,Generic Badminton #978,Sports & Fitness,Badminton,Generic,14681,4.8,213,Dashain,True,Premium,575,523,50,35,0.06679389312977099,4,2,1
+979,Vivo Tablets #979,Electronics,Tablets,Vivo,148465,3.9,10,Dashain,True,Luxury,283,277,9,5,0.017985611510791366,2,3,1
+980,Dell Tablets #980,Electronics,Tablets,Dell,20161,4.0,172,Dashain,False,Luxury,319,296,16,16,0.05387205387205387,2,3,1
+981,Dove Men's Grooming #981,Beauty & Personal Care,Men's Grooming,Dove,5021,4.2,38,Tihar,True,Premium,455,398,51,29,0.07268170426065163,0,2,2
+982,Vivo Smartphones #982,Electronics,Smartphones,Vivo,150000,4.8,451,Dashain,True,Luxury,306,299,10,4,0.013333333333333334,2,3,1
+983,Biotique Skincare #983,Beauty & Personal Care,Skincare,Biotique,4773,4.0,80,Tihar,True,Mid,415,358,47,36,0.10027855153203342,0,1,2
+984,Generic Power Banks #984,Phone Accessories,Power Banks,Generic,2657,3.6,86,Dashain,True,Mid,378,327,38,33,0.10060975609756098,3,1,1
+985,Tefal Cleaning #985,Home & Kitchen,Cleaning,Tefal,7817,4.2,16,Dashain,True,Premium,666,583,63,53,0.09075342465753425,5,2,1
+986,OnePlus Headphones #986,Electronics,Headphones,OnePlus,87357,4.3,63,Dashain,False,Luxury,322,318,12,5,0.01567398119122257,2,3,1
+987,Oppo Laptops #987,Electronics,Laptops,Oppo,80727,4.6,79,Dashain,True,Luxury,305,297,9,8,0.026845637583892617,2,3,1
+988,Garnier Makeup #988,Beauty & Personal Care,Makeup,Garnier,8000,4.9,16,Tihar,True,Premium,414,354,45,29,0.08169014084507042,0,2,2
+989,Cosco Cricket #989,Sports & Fitness,Cricket,Cosco,13553,3.2,97,Dashain,False,Premium,590,528,69,33,0.062381852551984876,4,2,1
+990,HP Speakers #990,Electronics,Speakers,HP,27798,4.5,9,Dashain,True,Luxury,306,289,22,8,0.027586206896551724,2,3,1
+991,Tefal Storage #991,Home & Kitchen,Storage,Tefal,8775,4.0,41,Dashain,True,Premium,597,518,82,51,0.09826589595375723,5,2,1
+992,Nivia Cricket #992,Sports & Fitness,Cricket,Nivia,30000,4.2,104,Dashain,True,Luxury,556,530,40,26,0.04896421845574388,4,3,1
+993,Garnier Sunscreen #993,Beauty & Personal Care,Sunscreen,Garnier,1237,4.6,15,Tihar,True,Mid,447,385,65,26,0.06735751295336788,0,1,2
+994,Dove Perfume #994,Beauty & Personal Care,Perfume,Dove,4978,4.4,153,Tihar,True,Mid,483,403,56,41,0.10148514851485149,0,1,2
+995,Nivea Perfume #995,Beauty & Personal Care,Perfume,Nivea,6632,4.7,76,Tihar,False,Premium,453,374,55,44,0.11733333333333333,0,2,2
+996,Ugreen Cases #996,Phone Accessories,Cases,Ugreen,4697,4.7,224,Dashain,True,Mid,398,340,33,36,0.10557184750733138,3,1,1
+997,Allen Solly Jeans #997,Fashion,Jeans,Allen Solly,8039,4.6,335,Tihar,True,Premium,377,332,42,21,0.06306306306306306,1,2,2
+998,Yonex Outdoor Gear #998,Sports & Fitness,Outdoor Gear,Yonex,15344,4.7,125,Dashain,True,Premium,558,509,53,33,0.06470588235294118,4,2,1
+999,Cosco Badminton #999,Sports & Fitness,Badminton,Cosco,11634,4.4,50,Dashain,True,Premium,619,531,66,54,0.10150375939849623,4,2,1
+1000,Yonex Football #1000,Sports & Fitness,Football,Yonex,24591,3.3,41,Dashain,True,Luxury,592,556,41,34,0.06104129263913824,4,3,1
