@@ -208,3 +208,34 @@ for uid in sample_users:
 
 print("\n✅ All models trained and evaluated successfully!")
 print(f"   Saved to: {MODELS_DIR}/")
+
+# ── 8. Train NCF & evaluate ─────────────────────────────────────────────────
+import json
+from datetime import datetime
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'models'))
+from ncf_model import NeuralCollaborativeFilter
+
+print("\n  [4/4] Neural Collaborative Filtering (NCF)")
+ncf = NeuralCollaborativeFilter(hidden_layers=(128, 64, 32))
+ncf.fit(user_item, cf)
+ncf.save(f'{MODELS_DIR}/ncf_model.pkl')
+
+def ncf_rec(uid):
+    return [pid for pid, _ in ncf.recommend(uid, n=K)]
+
+results['Neural CF (NCF)'] = evaluate_model(ncf_rec, eval_user_items, 'Neural CF (NCF)')
+
+# ── 9. Save metrics to JSON ─────────────────────────────────────────────────
+metrics_out = {
+    'k':           K,
+    'n_eval_users': len(eval_user_items),
+    'models':      {k: {m: round(v, 6) for m, v in r.items()}
+                    for k, r in results.items()},
+    'best_model':  max(results, key=lambda m: results[m]['ndcg']),
+    'generated_at': datetime.now().isoformat(),
+}
+metrics_path = os.path.join(DATA_DIR, 'metrics.json')
+with open(metrics_path, 'w') as f:
+    json.dump(metrics_out, f, indent=2)
+
+print(f"\n✅ Metrics saved → {metrics_path}")

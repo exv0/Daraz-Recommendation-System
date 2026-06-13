@@ -1,0 +1,32 @@
+{
+  "k": 10,
+  "n_eval_users": 400,
+  "models": {
+    "Collaborative (SVD)": {
+      "precision": 0.005,
+      "recall": 0.020167,
+      "f1": 0.007887,
+      "ndcg": 0.013868
+    },
+    "Content-Based": {
+      "precision": 0.00575,
+      "recall": 0.018607,
+      "f1": 0.008584,
+      "ndcg": 0.012273
+    },
+    "Hybrid (CF + CB)": {
+      "precision": 0.005,
+      "recall": 0.020792,
+      "f1": 0.007947,
+      "ndcg": 0.01235
+    },
+    "Neural CF (NCF)": {
+      "precision": 0.00175,
+      "recall": 0.005708,
+      "f1": 0.002646,
+      "ndcg": 0.002975
+    }
+  },
+  "best_model": "Collaborative (SVD)",
+  "generated_at": "2026-06-13T02:13:38.042204"
+}
