@@ -1,19 +1,20 @@
 import { useState } from 'react'
-import Dashboard     from './pages/Dashboard.jsx'
-import Recommendations from './pages/Recommendations.jsx'
-import Products      from './pages/Products.jsx'
-import ModelMetrics  from './pages/ModelMetrics.jsx'
+import Dashboard          from './pages/Dashboard.jsx'
+import Recommendations    from './pages/Recommendations.jsx'
+import Products           from './pages/Products.jsx'
+import ModelMetrics       from './pages/ModelMetrics.jsx'
+import EthicsAndColdStart from './pages/EthicsAndColdStart.jsx'
 
 const PAGES = [
-  { id: 'dashboard',       label: 'Dashboard',       icon: '📊' },
-  { id: 'recommendations', label: 'Recommendations', icon: '🎯' },
-  { id: 'products',        label: 'Products',        icon: '📦' },
-  { id: 'metrics',         label: 'Model Evaluation',icon: '📈' },
+  { id: 'dashboard',       label: 'Dashboard',        icon: '📊' },
+  { id: 'recommendations', label: 'Recommendations',  icon: '🎯' },
+  { id: 'products',        label: 'Products',         icon: '📦' },
+  { id: 'metrics',         label: 'Model Evaluation', icon: '📈' },
+  { id: 'ethics',          label: 'Ethics & Cold-Start', icon: '🛡️' },
 ]
 
 export default function App() {
   const [page, setPage] = useState('dashboard')
-
   return (
     <div className="app-shell">
       <aside className="sidebar">
@@ -42,6 +43,7 @@ export default function App() {
         {page === 'recommendations' && <Recommendations />}
         {page === 'products'        && <Products />}
         {page === 'metrics'         && <ModelMetrics />}
+        {page === 'ethics'          && <EthicsAndColdStart />}
       </main>
     </div>
   )

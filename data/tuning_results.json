@@ -1,0 +1,82 @@
+{
+  "gridsearch": {
+    "parameter": "n_factors (SVD)",
+    "values": [
+      {
+        "n_factors": 10,
+        "precision_at_10": 0.02,
+        "recall_at_10": 0.011904
+      },
+      {
+        "n_factors": 20,
+        "precision_at_10": 0.02,
+        "recall_at_10": 0.016806
+      },
+      {
+        "n_factors": 30,
+        "precision_at_10": 0.021333,
+        "recall_at_10": 0.014047
+      },
+      {
+        "n_factors": 50,
+        "precision_at_10": 0.018667,
+        "recall_at_10": 0.017015
+      },
+      {
+        "n_factors": 75,
+        "precision_at_10": 0.018,
+        "recall_at_10": 0.012815
+      },
+      {
+        "n_factors": 100,
+        "precision_at_10": 0.019333,
+        "recall_at_10": 0.013516
+      }
+    ],
+    "best": {
+      "n_factors": 30,
+      "precision_at_10": 0.021333,
+      "recall_at_10": 0.014047
+    }
+  },
+  "bayesian": {
+    "parameter": "hybrid CF/CB weight",
+    "trials": [
+      {
+        "cf_weight": 0.3,
+        "cb_weight": 0.7,
+        "precision_at_10": 0.018
+      },
+      {
+        "cf_weight": 0.5,
+        "cb_weight": 0.5,
+        "precision_at_10": 0.019667
+      },
+      {
+        "cf_weight": 0.6,
+        "cb_weight": 0.4,
+        "precision_at_10": 0.019333
+      },
+      {
+        "cf_weight": 0.7,
+        "cb_weight": 0.3,
+        "precision_at_10": 0.020333
+      },
+      {
+        "cf_weight": 0.8,
+        "cb_weight": 0.2,
+        "precision_at_10": 0.022667
+      }
+    ],
+    "best": {
+      "cf_weight": 0.8,
+      "cb_weight": 0.2,
+      "precision_at_10": 0.022667
+    }
+  },
+  "summary": {
+    "optimal_n_factors": 30,
+    "optimal_cf_weight": 0.8,
+    "optimal_cb_weight": 0.2
+  }
+}
