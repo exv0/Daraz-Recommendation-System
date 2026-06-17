@@ -9,7 +9,7 @@ export const api = {
   users:        (page=1)   => get(`/users?page=${page}&limit=20`),
   user:         (id)       => get(`/user/${id}`),
   products:     (cat='', sort='popularity_count') =>
-                             get(`/products?category=${cat}&sort=${sort}&limit=50`),
+                             get(`/products?category=${encodeURIComponent(cat)}&sort=${sort}&limit=50`),
   product:      (id)       => get(`/product/${id}`),
   recommend:    (id, model='hybrid', n=10) =>
                              get(`/recommend/${id}?model=${model}&n=${n}`),
