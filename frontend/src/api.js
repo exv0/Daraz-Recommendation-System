@@ -14,6 +14,9 @@ export const api = {
   recommend:    (id, model='hybrid', n=10) =>
                              get(`/recommend/${id}?model=${model}&n=${n}`),
   similar:      (id, n=6)  => get(`/similar/${id}?n=${n}`),
+  metrics:      ()         => get('/metrics'),
+  shap:         ()         => get('/shap'),
+  significance: ()         => get('/significance'),
   feedback:     (body)     => fetch(BASE + '/feedback', {
                                method: 'POST',
                                headers: { 'Content-Type': 'application/json' },

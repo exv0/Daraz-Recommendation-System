@@ -22,9 +22,7 @@ export default function Products() {
   const [search,    setSearch]    = useState('')
   const [loading,   setLoading]   = useState(true)
 
-  useEffect(() => {
-    api.categories().then(d => setCats(d.categories || []))
-  }, [])
+  useEffect(() => { api.categories().then(d => setCats(d.categories || [])) }, [])
 
   useEffect(() => {
     setLoading(true)
@@ -45,13 +43,10 @@ export default function Products() {
         <div className="page-subtitle">Browse the product catalog</div>
       </div>
 
-      {/* Filters */}
       <div className="filter-bar">
-        <button className={`cat-filter ${selCat==='' ? 'active' : ''}`}
-                onClick={() => setSelCat('')}>All</button>
+        <button className={`cat-filter ${selCat==='' ? 'active' : ''}`} onClick={() => setSelCat('')}>All</button>
         {cats.map(c => (
-          <button key={c.name}
-                  className={`cat-filter ${selCat===c.name ? 'active' : ''}`}
+          <button key={c.name} className={`cat-filter ${selCat===c.name ? 'active' : ''}`}
                   onClick={() => setSelCat(c.name)}>
             {CAT_ICONS[c.name]} {c.name}
           </button>
@@ -59,21 +54,18 @@ export default function Products() {
       </div>
 
       <div style={{ display:'flex', gap:12, marginBottom:20, alignItems:'center' }}>
-        <input className="search-input" style={{ maxWidth:280 }}
-               placeholder="🔍 Search products…"
+        <input className="search-input" style={{ maxWidth:280 }} placeholder="🔍 Search products…"
                value={search} onChange={e => setSearch(e.target.value)} />
         <select value={sort} onChange={e => setSort(e.target.value)}
-                style={{ padding:'9px 12px', borderRadius:8, border:'1.5px solid var(--border)',
+                style={{ padding:'9px 12px', borderRadius:6, border:'1.5px solid var(--border)',
                          fontSize:13, fontFamily:'inherit', background:'var(--card)',
-                         cursor:'pointer', outline:'none' }}>
+                         cursor:'pointer', outline:'none', color:'var(--text)' }}>
           <option value="popularity_count">Sort: Popularity</option>
           <option value="rating">Sort: Rating</option>
           <option value="price_npr">Sort: Price ↑</option>
           <option value="conversion_rate">Sort: Conversion</option>
         </select>
-        <span style={{ fontSize:13, color:'var(--muted)' }}>
-          {filtered.length} products
-        </span>
+        <span style={{ fontSize:13, color:'var(--muted)' }}>{filtered.length} products</span>
       </div>
 
       {loading ? (
@@ -82,16 +74,13 @@ export default function Products() {
         <div className="products-grid">
           {filtered.map(p => (
             <div key={p.product_id} className="product-card">
-              <div className={`product-img cat-${CSS.escape(p.category || '')}`}
-                   style={{ height:100 }}>
+              <div className={`product-img cat-${CSS.escape(p.category || '')}`} style={{ height:100 }}>
                 {CAT_ICONS[p.category] || '📦'}
               </div>
               <div className="product-body">
                 <div className="product-name">{p.product_name}</div>
                 <div className="product-brand">{p.brand}</div>
-                <div className="product-price">
-                  NPR {p.price_npr?.toLocaleString()}
-                </div>
+                <div className="product-price">NPR {p.price_npr?.toLocaleString()}</div>
                 <div className="product-rating">
                   <Stars rating={p.rating} /> {p.rating}
                   <span style={{ marginLeft:4 }}>({p.review_count})</span>
@@ -102,16 +91,14 @@ export default function Products() {
                     <span className="festival-badge">🎉 {p.festival_relevance}</span>
                   )}
                 </div>
-                <div style={{ marginTop:8 }}>
-                  <div style={{ display:'flex', justifyContent:'space-between',
-                                fontSize:11, color:'var(--muted)', marginBottom:3 }}>
-                    <span>Conversion</span>
-                    <span>{(p.conversion_rate * 100).toFixed(1)}%</span>
+                <div style={{ marginTop:10 }}>
+                  <div className="signal-row" style={{ marginTop:0 }}>
+                    <span className="signal-label">Conversion</span>
+                    <span className="signal-pct">{(p.conversion_rate * 100).toFixed(1)}%</span>
                   </div>
-                  <div className="score-bar">
-                    <div className="score-fill"
-                         style={{ width:`${Math.min(p.conversion_rate*100*5, 100)}%`,
-                                  background:'var(--green)' }} />
+                  <div className="funnel-track" style={{ marginTop:5 }}>
+                    <div className="funnel-fill"
+                         style={{ width:`${Math.min(p.conversion_rate*100*5, 100)}%`, background:'var(--green)' }} />
                   </div>
                 </div>
               </div>

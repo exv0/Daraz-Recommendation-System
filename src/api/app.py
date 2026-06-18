@@ -302,6 +302,15 @@ def get_shap():
         return jsonify(_json.load(f))
 
 
+@app.route('/api/significance')
+def get_significance():
+    path = os.path.join(DATA_DIR, 'significance_results.json')
+    if not os.path.exists(path):
+        return jsonify({'error': 'significance_results.json not found — run significance_testing.py first'}), 404
+    with open(path) as f:
+        return jsonify(_json.load(f))
+
+
 # ── Run ───────────────────────────────────────────────────────────────────────
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
